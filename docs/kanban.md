@@ -1,5 +1,6 @@
 # Kanban Board
 
+<!--- #the-kanban-board --->
 ## Today
 
 * [Implement feature](https://google.com/){target="_blank"}
@@ -19,3 +20,4 @@
 * Fix *bug*
 * Webinar
 * Record video
+<!--- #the-kanban-board --->
