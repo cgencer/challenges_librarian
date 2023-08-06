@@ -1,4 +1,4 @@
 # docs
 
 # to-do's
-@@include[kanban.md](kanban.md) { #the-kanban-board }
+@@include[docs/kanban.md](docs/kanban.md) { #the-kanban-board }
