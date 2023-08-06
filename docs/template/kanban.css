@@ -10,20 +10,20 @@ h1, h2, h3{
 }
 
 h1{
-	font-size: 40px;
+	font-size: 24px;
 }
 
 h2{
-	font-size: 35px;
+	font-size: 20px;
 }
 
 h3{
-	font-size: 30px;
+	font-size: 16px;
 }
 
 body{
     font-family: 'Gluten', cursive;
-	font-size: 25px;
+	font-size: 20px;
 }
 
 /* Colors */
@@ -62,7 +62,7 @@ body{
 
 .board{
 	display: grid;
-	column-gap: 50px;
+	column-gap: 30px;
 	justify-items: center;
 }
 
