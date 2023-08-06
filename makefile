@@ -1,10 +1,10 @@
 outFolder=docs
-templateFile=docs/template/template.html
+templateFile=docs/template/kanban.html
 markdownFile=docs/kanban.md
-cssFile=docs/style/kanban.css 
+cssFile=docs/template/kanban.css 
 outFile=docs/kanban.html
 markdownFileFromUrl=https://raw.githubusercontent.com/MozaicWorks/KanbanBoardInMarkdown/master/board.md 
-pandocArgs=-c $(cssFile) --template $(templateFile) -o $(outFile)
+pandocArgs=-c $(cssFile) --template $(templateFile) -o $(outFile) --metadata title="Kanban board for the icebreaker"
 pandocCommand=pandoc -s
 copyStyleCommand=cp $(cssFile) $(outFolder)/style/
 openCommand=xdg-open
