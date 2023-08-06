@@ -1,6 +1,15 @@
+import 'dotenv/config';
 import express from 'express';
+import bodyParser from 'body-parser';
+import config_app from './config/app.js';
+import sequelize from './database/db.js';
+
 const app = express();
-const port = 3000;
+
+const port = process.env.DATABASE;
+
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }))
 
 app.get('/', (req, res) => {
   res.send('Hello World!');
