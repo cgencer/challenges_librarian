@@ -1,10 +1,10 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "database_development",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "cgencer",
+    "password": "EQueue",
+    "database": "database_dev",
+    "host": "10.0.2.15",
+    "dialect": "postgres"
   },
   "test": {
     "username": "root",
@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "cgencer",
+    "password": "EQueue",
+    "database": "database_prod",
+    "host": "10.0.2.15",
     "dialect": "mysql"
   }
 }

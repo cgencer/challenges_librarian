@@ -12,7 +12,6 @@ User.init({
     type: DataTypes.STRING
   }
 }, {
-  // Other model options go here
   seq,
   modelName: 'User'
 });

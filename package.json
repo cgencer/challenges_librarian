@@ -5,10 +5,12 @@
   "type": "module",
   "main": "dist/app.js",
   "scripts": {
+    "live": "nodemon --watch 'src/**/*.ts' --ext 'ts,json' --ignore 'src/**/*.spec.ts' --exec 'ts-node --esm src/app.ts'",
     "start": "tsc && node dist/app.js",
     "docs": "make",
     "to-dev": "cp dev.env .env",
     "to-prod": "cp prod.env .env",
+    "db:create": "sequelize-cli db:create",
     "db:migrate": "sequelize-cli db:migrate",
     "db:g:migration": "sequelize-cli migration:generate --name",
     "db:g:seed": "sequelize-cli seed:generate --name",

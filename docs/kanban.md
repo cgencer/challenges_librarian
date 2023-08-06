@@ -3,21 +3,19 @@
 <!--- #the-kanban-board --->
 ## Today
 
-* [Implement feature](https://google.com/){target="_blank"}
-* Talk to customer 
-* Improve website design
+* Create Postgres table-seeds & migrations
+* Create models according to the tables
 
 ## Done
 
-* Order food
+* Database connection
 
 ## Later
 
-* Try out new **technology**
+* Create VUE frontend with databindings
 
 ## Past
 
-* Fix *bug*
-* Webinar
-* Record video
+* Bootstrapping
+* Build chain including the docs & database migration
 <!--- #the-kanban-board --->
