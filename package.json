@@ -2,7 +2,7 @@
   "name": "icebreak",
   "version": "1.0.0",
   "description": "simple blog API on node.js with minimal requirements",
-  "type": "commonjs",
+  "type": "module",
   "main": "dist/app.js",
   "scripts": {
     "live": "nodemon --watch 'src/**/*.ts' --ext 'ts,json' --ignore 'src/**/*.spec.ts' --exec 'ts-node --esm src/app.ts'",
