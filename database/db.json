@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "cgencer",
-    "password": "EQueue",
-    "database": "database_dev",
-    "host": "10.0.2.15",
+    "username": "postgres",
+    "password": "postgres",
+    "database": "icebreaker",
+    "host": "5.tcp.eu.ngrok.io:10417",
     "dialect": "postgres"
   },
   "test": {
@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "cgencer",
-    "password": "EQueue",
-    "database": "database_prod",
-    "host": "10.0.2.15",
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   }
 }
