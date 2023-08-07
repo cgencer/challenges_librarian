@@ -13,6 +13,7 @@
     "live": "nodemon --watch 'src/**/*.ts' --ext 'ts,json' --ignore 'src/**/*.spec.ts' --exec 'ts-node --esm src/app.ts'",
     "start": "tsc && node dist/app.js",
     "docs": "make",
+    "api:report": "newman run postman/*.json -r htmlextra --reporter-htmlextra-export docs/api-report.html --reporter-htmlextra-browserTitle 'IceBreaker API Report' --reporter-htmlextra-title 'IceBreaker API Report' --reporter-htmlextra-omitHeaders",
     "to-dev": "cp dev.env .env",
     "to-prod": "cp prod.env .env",
     "db:create": "sequelize-cli db:create",
