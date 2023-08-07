@@ -78,7 +78,7 @@ package-lock.json
 
 # Vagrant box directories
 .vagrant/
-
+curl_trace.txt
 .env*
 .flaskenv*
 !.env.project

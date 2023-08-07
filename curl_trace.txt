@@ -1,5 +1,0 @@
-== Info: Rebuilt URL to: 192.168.1.7:5432/
-== Info:   Trying 192.168.1.7...
-== Info: connect to 192.168.1.7 port 5432 failed: Connection refused
-== Info: Failed to connect to 192.168.1.7 port 5432: Connection refused
-== Info: Closing connection 0
