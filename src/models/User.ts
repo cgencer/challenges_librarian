@@ -3,6 +3,8 @@ const seq = require('../database/db.js');
 
 class User extends Model {}
 
+//FIXME: apply the real model from the database...
+
 User.init({
   nickName: {
     type: DataTypes.STRING,
