@@ -15,3 +15,35 @@ and within psql:
 CREATE EXTENSION IF NOT EXISTS 'uuid-ossp';
 
 
+# setup steps
+
+* create an empty database
+* copy prod.env or dev.env file into .env file and change its contents
+* run **npx sequelize-cli init --force** to create the required folders and files
+* edit .sequelizerc file to reflect database connection info
+* edit .sequelizeautoconfig.json file to reflect database connection info
+
+# various setup commands
+
+## npm run db:build
+
+Builds database models from scratch. Please do this to reflect changes on the database structure.
+
+## npx sequelize-cli init
+
+Initializes Sequelize-CLI for migrations & seeding the database on commands
+
+### npm run db:create
+
+Creates the database tables
+
+### npm run db:migrate
+
+### npm run db:g:migration
+
+### npm run db:g:seed
+
+### npm run db:seeds
+
+### npm run db:g:models
+
