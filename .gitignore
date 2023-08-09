@@ -34,7 +34,7 @@ bower_components
 build/Release
 dist/
 config/config.json
-
+db.json
 
 # Dependency directories
 node_modules/
@@ -71,6 +71,7 @@ package-lock.json
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .sequelizerc
+.sequelizeautoconfig.json
 
 # Serverless directories
 .serverless/

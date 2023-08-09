@@ -7,3 +7,11 @@ simple blog API on node.js with minimal requirements
 [POSTMAN Collection Invitation](https://app.getpostman.com/join-team?invite_code=7fb999cabcec15df2ab29b671cb8322f)
 
 [POSTMAN API-Collection Report](docs/api-report.html)
+
+requires 
+postgresql11-contrib
+
+and within psql:
+CREATE EXTENSION IF NOT EXISTS 'uuid-ossp';
+
+
