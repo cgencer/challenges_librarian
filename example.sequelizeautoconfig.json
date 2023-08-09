@@ -1,7 +1,7 @@
 {
   "spaces": true,
   "indentation": 2,
-  "directory": "dist/models/",
+  "directory": "src/models/",
   "additional": {},
   "dialect": "postgres",
   "port": 5432,

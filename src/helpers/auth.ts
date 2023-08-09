@@ -20,7 +20,7 @@ const authVerifier = (req, res, next) => {
 }
 
 /* check if the current user */
-const access = (req, res, next) => {
+const accessVerifier = (req, res, next) => {
     authVerifier(req, res, () => {
         if (req.user.id === req.params.id) {
             next()
@@ -29,5 +29,5 @@ const access = (req, res, next) => {
         }
     })
 }
-
+export {};
 module.exports = { authVerifier, accessVerifier };
