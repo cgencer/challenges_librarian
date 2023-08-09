@@ -1,7 +1,7 @@
 import * as Sequelize from 'sequelize';
 import { DataTypes, Model, Optional } from 'sequelize';
 
-export interface UsersAttributes {
+export interface UserAttributes {
   id: number;
   userName: string;
   firstName?: string;
@@ -15,12 +15,12 @@ export interface UsersAttributes {
   bgg_id?: string;
 }
 
-export type UsersPk = "id";
-export type UsersId = Users[UsersPk];
-export type UsersOptionalAttributes = "id" | "firstName" | "lastName" | "birthday" | "wallet" | "createdAt" | "updatedAt" | "bgg_id";
-export type UsersCreationAttributes = Optional<UsersAttributes, UsersOptionalAttributes>;
+export type UserPk = "id";
+export type UserId = User[UserPk];
+export type UserOptionalAttributes = "id" | "firstName" | "lastName" | "birthday" | "wallet" | "createdAt" | "updatedAt" | "bgg_id";
+export type UserCreationAttributes = Optional<UserAttributes, UserOptionalAttributes>;
 
-export class Users extends Model<UsersAttributes, UsersCreationAttributes> implements UsersAttributes {
+export class User extends Model<UserAttributes, UserCreationAttributes> implements UserAttributes {
   id!: number;
   userName!: string;
   firstName?: string;
@@ -34,8 +34,8 @@ export class Users extends Model<UsersAttributes, UsersCreationAttributes> imple
   bgg_id?: string;
 
 
-  static initModel(sequelize: Sequelize.Sequelize): typeof Users {
-    return Users.init({
+  static initModel(sequelize: Sequelize.Sequelize): typeof User {
+    return User.init({
     id: {
       autoIncrement: true,
       type: DataTypes.INTEGER,
@@ -98,3 +98,4 @@ export class Users extends Model<UsersAttributes, UsersCreationAttributes> imple
   });
   }
 }
+export {};

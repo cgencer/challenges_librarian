@@ -1,28 +1,28 @@
 import type { Sequelize } from "sequelize";
-import { Contents as _Contents } from "./Contents";
-import type { ContentsAttributes, ContentsCreationAttributes } from "./Contents";
-import { Users as _Users } from "./Users";
-import type { UsersAttributes, UsersCreationAttributes } from "./Users";
+import { Content as _Content } from "./Contents";
+import type { ContentAttributes, ContentCreationAttributes } from "./Contents";
+import { User as _User } from "./Users";
+import type { UserAttributes, UserCreationAttributes } from "./Users";
 
 export {
-  _Contents as Contents,
-  _Users as Users,
+  _Content as Content,
+  _User as User,
 };
 
 export type {
-  ContentsAttributes,
-  ContentsCreationAttributes,
-  UsersAttributes,
-  UsersCreationAttributes,
+  ContentAttributes,
+  ContentCreationAttributes,
+  UserAttributes,
+  UserCreationAttributes,
 };
 
 export function initModels(sequelize: Sequelize) {
-  const Contents = _Contents.initModel(sequelize);
-  const Users = _Users.initModel(sequelize);
+  const Content = _Content.initModel(sequelize);
+  const User = _User.initModel(sequelize);
 
 
   return {
-    Contents: Contents,
-    Users: Users,
+    Content: Content,
+    User: User,
   };
 }

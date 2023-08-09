@@ -1,7 +1,7 @@
 import * as Sequelize from 'sequelize';
 import { DataTypes, Model, Optional } from 'sequelize';
 
-export interface ContentsAttributes {
+export interface ContentAttributes {
   id: number;
   title?: string;
   content?: string;
@@ -13,12 +13,12 @@ export interface ContentsAttributes {
   content_json?: object;
 }
 
-export type ContentsPk = "id";
-export type ContentsId = Contents[ContentsPk];
-export type ContentsOptionalAttributes = "id" | "title" | "content" | "type" | "parent" | "owner" | "createdAt" | "updatedAt" | "content_json";
-export type ContentsCreationAttributes = Optional<ContentsAttributes, ContentsOptionalAttributes>;
+export type ContentPk = "id";
+export type ContentId = Content[ContentPk];
+export type ContentOptionalAttributes = "id" | "title" | "content" | "type" | "parent" | "owner" | "createdAt" | "updatedAt" | "content_json";
+export type ContentCreationAttributes = Optional<ContentAttributes, ContentOptionalAttributes>;
 
-export class Contents extends Model<ContentsAttributes, ContentsCreationAttributes> implements ContentsAttributes {
+export class Content extends Model<ContentAttributes, ContentCreationAttributes> implements ContentAttributes {
   id!: number;
   title?: string;
   content?: string;
@@ -30,8 +30,8 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
   content_json?: object;
 
 
-  static initModel(sequelize: Sequelize.Sequelize): typeof Contents {
-    return Contents.init({
+  static initModel(sequelize: Sequelize.Sequelize): typeof Content {
+    return Content.init({
     id: {
       autoIncrement: true,
       type: DataTypes.INTEGER,
@@ -85,3 +85,4 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
   });
   }
 }
+export {};
