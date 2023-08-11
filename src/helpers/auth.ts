@@ -1,15 +1,15 @@
-const jwt = require('jsonwebtoken')
+import jwt from 'jsonwebtoken';
+import { Environment, Config } from "../config/config.type";
+const config: Config = require('../config/app.json');
 
-const api_config = require("../config/api.js");
-
-const authVerifier = (req, res, next) => {
+export const authVerifier = (req: any, res: any, next: any) => {
 
 //TODO: Implement authentication as User routes middleware...
     const authHeader = req.headers.token;
 
     if (authHeader) {
         const token = authHeader.split(' ')[1];
-        jwt.verify(token, api_config.api.jwt_secret, (err, user) => {
+        jwt.verify(token, config.jwt_secret, (err: any, user: any) => {
             if (err) res.status(401).json("Invalid token");
             req.user = user;
             next()
@@ -20,7 +20,7 @@ const authVerifier = (req, res, next) => {
 }
 
 /* check if the current user */
-const accessVerifier = (req, res, next) => {
+export const accessVerifier = (req: any, res: any, next: any) => {
     authVerifier(req, res, () => {
         if (req.user.id === req.params.id) {
             next()
@@ -29,5 +29,3 @@ const accessVerifier = (req, res, next) => {
         }
     })
 }
-export {};
-module.exports = { authVerifier, accessVerifier };

@@ -1,16 +1,10 @@
-const jwt = require('jsonwebtoken');
-const api_config = require("../config/api")
+import jwt from 'jsonwebtoken';
+import config from '../config/config';
 
-//TODO: fill-in blanks...
-function encode_registration_token(user_id) {
-    const info = { id: user_id };
-    const token = jwt.sign(info, api_config.api.jwt_secret,{
-        expiresIn: "1h"
-    });
-    return token;
-}
-
-export {};
-module.exports = {
-    encode_registration_token
+export const encode_reg_token = (user_id: any) => {
+    return jwt.sign({
+    	id: user_id
+ 	}, config.config.jwt_secret, {
+ 		expiresIn: "1h"
+ 	});
 };

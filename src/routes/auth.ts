@@ -1,10 +1,8 @@
-const express = require('express');
-const router = express.Router();
+const router = require('express').Router();
 
-const { AuthController } = require('../controllers');
+import { create_user, login_user } from '../controllers/AuthController';
 
-router.post('/register', AuthController.create_user);
-router.post('/login', AuthController.login_user);
+router.post('/register', create_user);
+router.post('/login', login_user);
 
-export {};				//FIXME: bypasses 'Cannot redeclare block-scoped variable' error of TypeScript
-module.exports = router;
+export default router;

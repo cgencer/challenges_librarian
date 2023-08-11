@@ -1,21 +1,34 @@
-import 'dotenv/config';
-import express from 'express';
+import express, { Express, Request, Response } from 'express';
 import cors from 'cors';
-import bodyParser from 'body-parser';
-import config_app from './config/app.js';
-import sequelize from './database/db.js';
+import * as bodyParser from 'body-parser';
+import helmet from 'helmet';
+import * as methodOverride from 'method-override';
+import * as morgan from 'morgan';
+import dbInit from './database/db';
 
-const app = express();
-const port = config_app.app.port;
+import { Environment, Config } from "./config/config.type";
+const config: Config = require('./config/app-dev.json');
 
-app.use(cors());
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }))
+export default class App {
 
-app.get('/', (req, res) => {
-  res.send('Hello World!');
-});
+	protected app: express.Application;
+	constructor(){
+		new dbInit(config.db_uri);
 
-app.listen(port, () => {
-  return console.log(`Express is listening at http://localhost:${port}`);
-});
+		this.app = express();
+
+		this.app.use(helmet());
+		this.app.use(cors());
+		this.app.use(bodyParser.json());
+		this.app.use(bodyParser.urlencoded({ extended: true }))
+
+		let { auth_route, user_route, post_route } = require('./routes');
+		this.app.use('/api/v1/auth', auth_route);
+		this.app.use('/api/v1/users', user_route);
+		this.app.use('/api/v1/posts', post_route);
+
+		this.app.listen(config.port, () => {
+  			return console.log(`Express is listening at http://localhost:${config.port}`);
+		});
+	}
+}
