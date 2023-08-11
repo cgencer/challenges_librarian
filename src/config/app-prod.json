@@ -1,7 +1,0 @@
-{
-    "environment": "dev",
-    "jwt_secret": "YOURSECRETKEYGOESHERE",
-    "port": 3000,
-    "db_url": "6.tcp.eu.ngrok.io:10091",
-    "db_uri": "postgres://postgres:postgres@6.tcp.eu.ngrok.io:10091/icebreaker",
-}

@@ -67,8 +67,10 @@ package-lock.json
 # dotenv environment variables file
 .env
 .env.test
-config/app-dev.json
-config/app-prod.json
+src/config/app-dev.json
+src/config/app-prod.json
+dest/config/app-dev.json
+dest/config/app-prod.json
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
