@@ -9,6 +9,9 @@ import dbInit from './database/db';
 import { Environment, Config } from "./config/config.type";
 const config: Config = require('./config/app-dev.json');
 
+import { errorHandler } from "./helpers/error.mw";
+import { notFoundHandler } from "./helpers/not-found.mw";
+
 export default class App {
 
 	protected app: express.Application;
@@ -21,6 +24,9 @@ export default class App {
 		this.app.use(cors());
 		this.app.use(bodyParser.json());
 		this.app.use(bodyParser.urlencoded({ extended: true }))
+
+		this.app.use(errorHandler);
+		this.app.use(notFoundHandler);
 
 		let { auth_route, user_route, post_route } = require('./routes');
 		this.app.use('/api/v1/auth', auth_route);

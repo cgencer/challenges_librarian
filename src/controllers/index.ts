@@ -1,6 +1,6 @@
-import * as AuthController from './AuthController'
-import * as UserController from './UserController'
-import * as ContentController from './ContentController'
+import AuthController from './AuthController'
+import UserController from './UserController'
+import ContentController from './ContentController'
 
 module.exports = {
     AuthController,

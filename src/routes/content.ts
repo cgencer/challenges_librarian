@@ -1,11 +1,16 @@
 const router = require('express').Router();
 
-import { get_posts, get_post, create_post, update_post, delete_post } from '../controllers/ContentController';
+import ContentController from '../controllers/ContentController';
 
-router.get('/', get_posts);
-router.get('/:id', get_post);
-router.post('/', create_post);
-router.put('/:id', update_post);
-router.delete('/:id', delete_post);
+// @ts-ignore
+router.get('/', ContentController.get_posts);
+// @ts-ignore
+router.get('/:id', ContentController.get_post);
+// @ts-ignore
+router.post('/', ContentController.create_post);
+// @ts-ignore
+router.put('/:id', ContentController.update_post);
+// @ts-ignore
+router.delete('/:id', ContentController.delete_post);
 
 export default router;

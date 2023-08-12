@@ -1,8 +1,10 @@
 const router = require('express').Router();
 
-import { create_user, login_user } from '../controllers/AuthController';
+import AuthController from '../controllers/AuthController';
 
-router.post('/register', create_user);
-router.post('/login', login_user);
+// @ts-ignore
+router.post('/register', AuthController.create_user);
+// @ts-ignore
+router.post('/login', AuthController.login_user);
 
 export default router;

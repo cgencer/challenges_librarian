@@ -1,12 +1,12 @@
 import type { Sequelize } from "sequelize";
-import { Contents as _Content } from "./Contents";
+import { Contents as _Contents } from "./Contents";
 import type { ContentsAttributes, ContentsCreationAttributes } from "./Contents";
-import { Users as _User } from "./Users";
+import { Users as _Users } from "./Users";
 import type { UsersAttributes, UsersCreationAttributes } from "./Users";
 
 export {
-  _Content as Content,
-  _User as User,
+  _Contents as Contents,
+  _Users as Users,
 };
 
 export type {
@@ -17,11 +17,11 @@ export type {
 };
 
 export function initModels(sequelize: Sequelize) {
-  const Content = _Content.initModel(sequelize);
-  const User = _User.initModel(sequelize);
+  const Contents = _Contents.initModel(sequelize);
+  const Users = _Users.initModel(sequelize);
 
   return {
-    Content: Content,
-    User: User,
+    Contents: Contents,
+    Users: Users,
   };
 }

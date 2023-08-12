@@ -1,10 +1,13 @@
 const router = require('express').Router();
 
-import { accessVerifier } from '../helpers/auth';
-import { get_user, update_user, delete_user } from '../controllers/UserController';
+import { accessVerifier } from '../helpers/auth.mw';
+import UserController from '../controllers/UserController';
 
-router.get('/:id', get_user);
-router.put('/:id', accessVerifier, update_user);
-router.delete('/:id', accessVerifier, delete_user);
+// @ts-ignore
+router.get('/:id', UserController.get_user);
+// @ts-ignore
+router.put('/:id', accessVerifier, UserController.update_user);
+// @ts-ignore
+router.delete('/:id', accessVerifier, UserController.delete_user);
 
 export default router;

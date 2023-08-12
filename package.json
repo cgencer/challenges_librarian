@@ -10,8 +10,9 @@
     "url": "git+https://github.com/cgencer/assignment-icebreaker.git"
   },
   "scripts": {
-    "dev": "nodemon --config nodemon.json src/app.ts",
+    "nodemon": "nodemon --config nodemon.json src/app.ts",
     "start": "tsc && ENV=dev node dist/app.js",
+    "dev": "ts-node-dev --respawn --pretty --transpile-only src/app.ts",
     "docs:build": "make",
     "docs:report": "newman run postman/*.json -r htmlextra --reporter-htmlextra-export docs/api-report.html --reporter-htmlextra-browserTitle 'IceBreaker API Report' --reporter-htmlextra-title 'IceBreaker API Report' --reporter-htmlextra-omitHeaders",
     "docs:todo": "grep '//TODO: ' -r -n --exclude-dir={dist,node_modules,.git,lib} --exclude={'*bundle.js','*.map','*.min.js','*.csv',todos.txt} ./src/ > ./docs/todos.txt;grep '//FIXME: ' -r -n --exclude-dir={dist,node_modules,.git,lib} --exclude={'*bundle.js','*.map','*.min.js','*.csv',todos.txt} ./src/ > ./docs/urgent.txt",
@@ -39,6 +40,7 @@
     "firestore-sequelize": "^0.8.0",
     "helmet": "^7.0.0",
     "jsonwebtoken": "^9.0.1",
+    "lodash": "^4.17.21",
     "method-override": "^3.0.0",
     "morgan": "^1.10.0",
     "ngrok": "^5.0.0-beta.2",
@@ -79,6 +81,7 @@
     "sequelize-cli": "^6.6.1",
     "sinon": "^14.0.0",
     "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
     "typescript": "^5.1.6"
   },
   "license": "ISC"
