@@ -36,7 +36,15 @@ export default class UserController {
         }
 
         try {
+            const updatedUser = await Users.update({
+                ...req.body
+            },{
+                where: { id: req.params.id }
+            });
+
+/*
             const updatedUser = await Users.findByIdAndUpdate(req.params.id, { $set: req.body },{ new: true });
+*/
             res.status(200).json({
                 type: "success",
                 message: "User updated successfully",
@@ -54,7 +62,9 @@ export default class UserController {
     /* delete user */
     async delete_user (req: any, res: any): Promise<void> {
         try {
-            await Users.findByIdAndDelete(req.params.id)
+              await Users.destroy({ where: { id: req.params.id } })
+//            await Users.findByIdAndDelete(req.params.id)
+
             res.status(200).json({
                 type: "success",
                 message: "User has been deleted successfully"

@@ -96,11 +96,21 @@ export default class AuthController {
             // @ts-ignore
             if(existing.userName === req.body.username){
                 try {
+
+                    const updatedPost = await Contents.update({
+                        ...req.body
+                    },{
+                        where: { id: req.params.id }
+                    });
+
+
+/*
                     const updatedPost = await Contents.findByIdAndUpdate(req.params.id, {
-                        $set: req.body
+                                            $set: req.body
                     },
                         { new: true }
                     );
+*/
                     res.status(200).json({
                         type: "success",
                         message: "Content updated successfully",
@@ -131,9 +141,12 @@ export default class AuthController {
                 message: "Content doesn't exists"
             })
         } else {
+            // @ts-ignore
             if (existing.userName === req.body.username) {
                 try {
-                    await Contents.findOneAndDelete(req.params.id);
+                      await Contents.destroy({ where: { id: req.params.id } })
+
+//                    await Contents.findOneAndDelete(req.params.id);
                     res.status(200).json({
                         type: "success",
                         message: "Post has been deleted successfully"

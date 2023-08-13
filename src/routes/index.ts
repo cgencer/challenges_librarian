@@ -1,8 +1,11 @@
-import auth_route from './auth';
-import user_route from './user';
-import content_route from './content';
-export default {
-	auth_route,
-	user_route,
-	content_route
-}
+import authRouter from './auth';
+import usersRouter from './user';
+import contentRouter from './content';
+
+import { Router } from 'express';
+
+const routes = Router();
+routes.use('/users', authRouter);
+routes.use('/users', usersRouter);
+routes.use('/users', contentRouter);
+export default routes;

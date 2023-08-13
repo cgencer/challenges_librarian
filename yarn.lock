@@ -295,6 +295,11 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@keenondrums/singleton@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/@keenondrums/singleton/-/singleton-1.0.0.tgz"
+  integrity sha512-WeuFgOVP+gHhnHjVAturdOF7OYB1oUiI8b4oNjV7WLfIttWoyxbwxHyKk1H9jdNsWUiUOGg6fGPUuUYzwMtQkQ==
+
 "@mapbox/node-pre-gyp@^1.0.10":
   version "1.0.11"
   resolved "https://registry.npmjs.org/@mapbox/node-pre-gyp/-/node-pre-gyp-1.0.11.tgz"

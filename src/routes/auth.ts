@@ -1,10 +1,10 @@
-const router = require('express').Router();
-
+import { Router } from 'express';
 import AuthController from '../controllers/AuthController';
+const authRouter = Router();
 
 // @ts-ignore
-router.post('/register', AuthController.create_user);
+authRouter.post('/register', AuthController.create_user);
 // @ts-ignore
-router.post('/login', AuthController.login_user);
+authRouter.post('/login', AuthController.login_user);
 
-export default router;
+export default authRouter;

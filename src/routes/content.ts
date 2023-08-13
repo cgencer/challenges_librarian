@@ -1,6 +1,6 @@
-const router = require('express').Router();
-
+import { Router } from 'express';
 import ContentController from '../controllers/ContentController';
+const contentRouter = Router();
 
 // @ts-ignore
 router.get('/', ContentController.get_posts);
@@ -13,4 +13,4 @@ router.put('/:id', ContentController.update_post);
 // @ts-ignore
 router.delete('/:id', ContentController.delete_post);
 
-export default router;
+export default contentRouter;
