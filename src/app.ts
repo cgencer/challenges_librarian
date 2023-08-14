@@ -1,18 +1,26 @@
-import express, { Express, Request, Response } from 'express';
+import express, { Express, Router, Request, Response } from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
-import * as methodOverride from 'method-override';
-import * as morgan from 'morgan';
+import morgan from 'morgan';
 import dbInit from './database/db.js';
 import { Sequelize } from 'sequelize';
+import compression from 'compression';
+
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import rfs from 'rotating-file-stream';
 
 import { Environment, Config } from "./config/config.type";
 import { config } from './config/config.js';
 
 import { errorHandler } from "./helpers/error.mw.js";
 import { notFoundHandler } from "./helpers/not-found.mw.js";
-import { Router } from 'express';
 import routes from './routes/index.js';
+
+// FIX for __dirname is not defined in ES module scope
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 export default class App {
 
@@ -26,10 +34,17 @@ export default class App {
 
 		this.app = express();
 
+		this.app.use(compression());
 		this.app.use(helmet());
 		this.app.use(cors());
 		this.app.use(express.json({ limit: '50mb', type: 'application/json' }));
 		this.app.use(express.urlencoded());
+
+		var accessLogStream = rfs.createStream('access.log', {
+			interval: '1d', // rotate daily
+			path: path.join(__dirname, '../log')
+		});
+		this.app.use(morgan('tiny', { stream: accessLogStream }))
 
 		this.app.use(errorHandler);
 		this.app.use(notFoundHandler);
