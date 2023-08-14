@@ -1,19 +1,12 @@
 import express from 'express';
-import { ContentController } from '../controllers/ContentController.js';
+import { authController, userController, contentController } from '../controllers/index.js';
 import { Router } from 'express';
 const routes = Router();
 
-const cc = new ContentController();
-
-// @ts-ignore
-routes.get('/', cc.get_posts);
-// @ts-ignore
-routes.get('/:id', cc.get_post);
-// @ts-ignore
-routes.post('/', cc.create_post);
-// @ts-ignore
-routes.put('/:id', cc.update_post);
-// @ts-ignore
-routes.delete('/:id', cc.delete_post);
+routes.get('/', contentController.get_contents);
+routes.get('/:id', contentController.get_content);
+routes.post('/', contentController.create_content);
+routes.put('/:id', contentController.update_content);
+routes.delete('/:id', contentController.delete_content);
 
 export { routes as contentRoutes };

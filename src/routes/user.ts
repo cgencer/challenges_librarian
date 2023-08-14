@@ -1,15 +1,11 @@
 import express from 'express';
-import { UserController } from '../controllers/UserController.js';
+import { authController, userController, contentController } from '../controllers/index.js';
 import { accessVerifier } from '../helpers/auth.mw.js';
 import { Router } from 'express';
 const routes = Router();
 
-const uc = new UserController();
-// @ts-ignore
-routes.get('/:id', uc.get_user);
-// @ts-ignore
-routes.put('/:id', accessVerifier, uc.update_user);
-// @ts-ignore
-routes.delete('/:id', accessVerifier, uc.delete_user);
+routes.get('/:id', userController.get_user);
+routes.put('/:id', accessVerifier, userController.update_user);
+routes.delete('/:id', accessVerifier, userController.delete_user);
 
 export { routes as userRoutes };
