@@ -1,12 +1,20 @@
 import { validationResult } from 'express-validator';
+import { BaseController } from './BaseController.js';
+import { Users } from '../models/Users.js';
+import { Contents } from '../models/Contents.js';
 
-import { Users } from '../models/Users';
-import { Contents } from '../models/Contents';
+interface Base {
+    get_content: (req: any, res: any) => void;
+    get_contents: (req: any, res: any) => void;
+    create_content: (req: any, res: any) => void;
+    update_content: (req: any, res: any) => void;
+    delete_content: (req: any, res: any) => void;
+}
 
-export default class AuthController {
+export class ContentController implements Base {
 
     /* get all posts */
-    async get_posts(req: any, res: any): Promise<void> {
+    async get_contents(req: any, res: any): Promise<void> {
         try {
             const posts = await Contents.findAll();
             res.status(200).json({
@@ -23,7 +31,7 @@ export default class AuthController {
     };
 
     /* get single post */
-    async get_post(req: any, res: any): Promise<void> {
+    async get_content(req: any, res: any): Promise<void> {
         try {
             const post = await Contents.findByPk(req.params.id);
             if (!post) {
@@ -47,7 +55,7 @@ export default class AuthController {
     };
 
     /* create new product */
-    async create_post(req: any, res: any): Promise<void> {
+    async create_content(req: any, res: any): Promise<void> {
 
         const errors = validationResult(req);
 
@@ -85,7 +93,7 @@ export default class AuthController {
     };
 
     /* update product */
-    async update_post(req: any, res: any): Promise<void> {
+    async update_content(req: any, res: any): Promise<void> {
         const existing = await Contents.findByPk(req.params.id);
         if (!existing) {
             res.status(404).json({
@@ -133,7 +141,7 @@ export default class AuthController {
     };
 
     /* delete post */
-    async delete_post(req: any, res: any): Promise<void> {
+    async delete_content(req: any, res: any): Promise<void> {
         const existing = await Contents.findByPk(req.params.id);
         if (!existing) {
             res.status(200).json({

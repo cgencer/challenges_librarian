@@ -1,13 +1,21 @@
 import { validationResult } from 'express-validator';
 import bcrypt from "bcrypt";
-import { encode_reg_token } from '../helpers/tokens';
+import { encode_reg_token } from '../helpers/tokens.js';
 import _ from 'lodash';
-import { Users } from '../models/Users';
+import { BaseController } from './BaseController.js';
+import { Users } from '../models/Users.js';
+
+interface Base {
+    create_user: (req: any, res: any) => void;
+    login_user: (req: any, res: any) => void;
+}
 
 /* create new user */
-export default class AuthController {
+export class AuthController implements Base {
 
-    async create_user(req: any, res: any): Promise<void> {
+    // public static async build(): Promise<MyClass> {
+
+    public async create_user(req: any, res: any): Promise<void> {
 
         const errors = validationResult(req);
 
@@ -42,7 +50,7 @@ export default class AuthController {
     };
 
     /* user login */
-    async login_user(req: any, res: any): Promise<void> {
+    public async login_user(req: any, res: any): Promise<void> {
         try {
             const { username } = req.body;
 

@@ -1,6 +1,7 @@
 import jwt from 'jsonwebtoken';
-import { Environment, Config } from "../config/config.type";
-const config: Config = require('../config/app.json');
+import { Environment, Config } from "../config/config.type.js";
+//const config: Config = require('../config/app.json');
+import { config } from '../config/config.js';
 
 export const authVerifier = (req: any, res: any, next: any) => {
 
@@ -12,7 +13,7 @@ export const authVerifier = (req: any, res: any, next: any) => {
         jwt.verify(token, config.jwt_secret, (err: any, user: any) => {
             if (err) res.status(401).json("Invalid token");
             req.user = user;
-            next()
+            next();
         })
     } else {
         return res.status(401).json("Not authenticated");
@@ -23,7 +24,7 @@ export const authVerifier = (req: any, res: any, next: any) => {
 export const accessVerifier = (req: any, res: any, next: any) => {
     authVerifier(req, res, () => {
         if (req.user.id === req.params.id) {
-            next()
+            next();
         } else {
             res.status(403).json("Not allowed to perform this task");
         }

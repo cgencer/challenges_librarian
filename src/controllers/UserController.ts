@@ -1,8 +1,14 @@
 import bcrypt from "bcrypt";
-import { Users } from '../models/Users';
+import { Users } from '../models/Users.js';
+
+interface Base {
+    get_user: (req: any, res: any) => void;
+    update_user: (req: any, res: any) => void;
+    delete_user: (req: any, res: any) => void;
+}
 
 /* get single user */
-export default class UserController {
+export class UserController implements Base {
 
     async get_user(req: any, res: any): Promise<void> {
 

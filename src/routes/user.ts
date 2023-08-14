@@ -1,14 +1,15 @@
+import express from 'express';
+import { UserController } from '../controllers/UserController.js';
+import { accessVerifier } from '../helpers/auth.mw.js';
 import { Router } from 'express';
-import UserController from '../controllers/UserController';
-import { accessVerifier } from '../helpers/auth.mw';
-const usersRouter = Router();
+const routes = Router();
 
+const uc = new UserController();
+// @ts-ignore
+routes.get('/:id', uc.get_user);
+// @ts-ignore
+routes.put('/:id', accessVerifier, uc.update_user);
+// @ts-ignore
+routes.delete('/:id', accessVerifier, uc.delete_user);
 
-// @ts-ignore
-router.get('/:id', UserController.get_user);
-// @ts-ignore
-router.put('/:id', accessVerifier, UserController.update_user);
-// @ts-ignore
-router.delete('/:id', accessVerifier, UserController.delete_user);
-
-export default usersRouter;
+export { routes as userRoutes };

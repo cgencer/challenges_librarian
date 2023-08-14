@@ -1,11 +1,13 @@
-import authRouter from './auth';
-import usersRouter from './user';
-import contentRouter from './content';
+import express from 'express';
 
-import { Router } from 'express';
+import { authRoutes } from './auth.js';
+import { userRoutes } from './user.js';
+import { contentRoutes } from './content.js';
 
-const routes = Router();
-routes.use('/users', authRouter);
-routes.use('/users', usersRouter);
-routes.use('/users', contentRouter);
+const routes = express.Router();
+
+routes.use(authRoutes);
+routes.use(userRoutes);
+routes.use(contentRoutes);
+
 export default routes;
