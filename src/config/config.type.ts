@@ -9,4 +9,6 @@ export interface Config
 	port: number,
 	db_url: string,
 	db_uri: string,
+	logs: boolean
+
 }

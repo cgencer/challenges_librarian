@@ -27,15 +27,21 @@ export default class App {
 	protected app: express.Application;
 
 	constructor(){
-		console.log(':::-----------------------');
+		console.log(':::--------------------------------');
 		console.log('::: Environment is: ' + process.env.ENV);
-		console.log(':::-----------------------');
+		console.log(':::--------------------------------');
 		dbInit.init(config.db_uri);
 
 		this.app = express();
 
 		this.app.use(compression());
-		this.app.use(helmet());
+		this.app.use(helmet({
+			contentSecurityPolicy: {
+				directives: {
+					'script-src': ["'self'", "example.com"]
+				},
+			},
+		}));
 		this.app.use(cors());
 		this.app.use(express.json({ limit: '50mb', type: 'application/json' }));
 		this.app.use(express.urlencoded());
@@ -44,8 +50,12 @@ export default class App {
 			interval: '1d', // rotate daily
 			path: path.join(__dirname, '../log')
 		});
-		this.app.use(morgan('tiny', { stream: accessLogStream }))
-
+		if (config.logs === true) {
+			console.log(':::--------------------------------');
+			console.log('::: logfile is at: logs/access.log');
+			console.log(':::--------------------------------');
+			this.app.use(morgan('tiny', { stream: accessLogStream }))
+		}
 		this.app.use(errorHandler);
 		this.app.use(notFoundHandler);
 
