@@ -8,20 +8,54 @@ simple blog API on node.js with minimal requirements
 
 [POSTMAN API-Collection Report](docs/api-report.html)
 
-requires 
-postgresql11-contrib
+requirements:
+- basic requirements will be covered within *package.json*
+- database specific requirements are given below.
+
+## Information:
+
+I've created this as a bootstrap for my personal and professional projects with the 
+with the possibility of switching the datalayer to be used as RestAPI, GraphQL or tRPC
+in mind. It is a opinionated package, please bear that in mind. 
+For the frontend the folder *client/* folder will be used, Vue.js will be the framework.
+
+## Database
+
+The database commands of the package.json also help migrations and seedings
+of the database, whereas I will also create dummy seedable content for various usage examples.
+Be advised to create a user/ password trough the *psql* command and a clean db-table.
+
+Requirements:
+- `yum install postgresql11 postgresql11-contrib`
+- `uuid-ossp` for postgres
 
 and within psql:
-CREATE EXTENSION IF NOT EXISTS 'uuid-ossp';
+- `CREATE EXTENSION IF NOT EXISTS 'uuid-ossp';`
 
 
-# setup steps
+## Content details:
+- Typescript will be used on with Interface models for each content type. 
+- Content types will be inherited from the base content class. 
+- Comments are just another content-type, implementing the content class, thus retrieval of comments should be done recursively within the same table (which should be easier on postgresql).
+- Imported content will always be saved within the JSON-field of the content-table, which uses the JSON field-type.
 
+## Security concerns:
+- Various middlewares are added and configurable troughout the JSON files located within config/ folder.
+- Content Security Policies are also located in the same folder.
+- The Rest API implements JWT tokens of 1-hour lifetime.
+
+## Test-driven:
+- Test-cases for various parts are planned, but won't be heavily enforced as in TDD. 
+
+## setup steps:
 * create an empty database
-* copy prod.env or dev.env file into .env file and change its contents
-* run **npx sequelize-cli init --force** to create the required folders and files
-* edit .sequelizerc file to reflect database connection info
-* edit .sequelizeautoconfig.json file to reflect database connection info
+* edit *config/[app-dev.json | app-prod.json]* to reflect your setup
+* if needed, you can edit *config/policies.json* as well
+* run 
+`npx sequelize-cli init --force`
+to create the required folders and files
+* edit *.sequelizerc* file to reflect database connection info
+* edit *.sequelizeautoconfig.json* file to reflect database connection info
 
 # various setup commands
 
