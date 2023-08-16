@@ -1,11 +1,9 @@
 import jwt from 'jsonwebtoken';
-import { Environment, Config } from "../config/config.type.js";
 //const config: Config = require('../config/app.json');
 import { config } from '../config/config.js';
 
 export const authVerifier = (req: any, res: any, next: any) => {
 
-//TODO: Implement authentication as User routes middleware...
     const authHeader = req.headers.token;
 
     if (authHeader) {

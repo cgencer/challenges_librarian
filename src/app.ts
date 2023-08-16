@@ -11,8 +11,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import rfs from 'rotating-file-stream';
 
-import { Environment, Config } from "./config/config.type";
-import { config } from './config/config.js';
+import { config, policies } from './config/config.js';
 
 import { errorHandler } from "./helpers/error.mw.js";
 import { notFoundHandler } from "./helpers/not-found.mw.js";
@@ -35,13 +34,18 @@ export default class App {
 		this.app = express();
 
 		this.app.use(compression());
-		this.app.use(helmet({
-			contentSecurityPolicy: {
-				directives: {
-					'script-src': ["'self'", "example.com"]
-				},
-			},
-		}));
+
+		if (config.content_security === true) {
+			this.app.use(helmet.contentSecurityPolicy({
+				useDefaults: true,
+				directives: policies.contentSecurities
+			}));
+		}
+		if (config.referrers === true) {
+			this.app.use(helmet.referrerPolicy({
+				policy: policies.referrers,
+			}));
+		}
 		this.app.use(cors());
 		this.app.use(express.json({ limit: '50mb', type: 'application/json' }));
 		this.app.use(express.urlencoded());

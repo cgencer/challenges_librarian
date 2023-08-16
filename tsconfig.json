@@ -9,7 +9,9 @@
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "experimentalDecorators": true,
-    "outDir": "./dist"
+    "outDir": "./dist",
   },
+  "hooks": [ "copy-files" ],
+  "include": [ "src/**/*.{js,json}" ],
   "lib": ["es2015"]
 }
