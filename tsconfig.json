@@ -6,12 +6,14 @@
     "moduleResolution": "node",
     "sourceMap": true,
     "strict": true,
-    "esModuleInterop": true,
     "resolveJsonModule": true,
     "experimentalDecorators": true,
-    "outDir": "./dist",
+    "outDir": "./dist"
   },
-  "hooks": [ "copy-files" ],
-  "include": [ "src/**/*.{js,json}" ],
-  "lib": ["es2015"]
+  "hooks": [
+    "copy-files"
+  ],
+  "lib": [
+    "es2015"
+  ]
 }

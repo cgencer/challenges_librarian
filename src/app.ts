@@ -27,8 +27,7 @@ export default class App {
 
 	constructor(){
 		console.log(':::--------------------------------');
-		console.log('::: Environment is: ' + process.env.ENV);
-		console.log(':::--------------------------------');
+		console.log('::: Environment is: ' + process.env.NODE_ENV);
 		dbInit.init(config.db_uri);
 
 		this.app = express();
@@ -48,7 +47,6 @@ export default class App {
 		}
 		this.app.use(cors());
 		this.app.use(express.json({ limit: '50mb', type: 'application/json' }));
-		this.app.use(express.urlencoded());
 
 		var accessLogStream = rfs.createStream('access.log', {
 			interval: '1d', // rotate daily
@@ -57,16 +55,17 @@ export default class App {
 		if (config.logs === true) {
 			console.log(':::--------------------------------');
 			console.log('::: logfile is at: logs/access.log');
-			console.log(':::--------------------------------');
 			this.app.use(morgan('tiny', { stream: accessLogStream }))
 		}
 		this.app.use(errorHandler);
 		this.app.use(notFoundHandler);
 
 		this.app.use('/', routes);
+		console.log(':::--------------------------------');
 
 		this.app.listen(config.port, () => {
-  			return console.log(`::: the API is avail@ http://localhost:${config.port}`);
+  			console.log(`::: the API is avail@ http://localhost:${config.port}`);
+			console.log(':::--------------------------------');
 		});
 	}
 }

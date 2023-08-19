@@ -33,6 +33,7 @@ export class Users extends Model<UsersAttributes, UsersCreationAttributes> imple
   updatedAt!: Date;
   bgg_id?: string;
 
+
   static initModel(sequelize: Sequelize.Sequelize): typeof Users {
     return Users.init({
     id: {

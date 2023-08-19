@@ -17,7 +17,16 @@ requirements:
 I've created this as a bootstrap for my personal and professional projects with the 
 with the possibility of switching the datalayer to be used as RestAPI, GraphQL or tRPC
 in mind. It is a opinionated package, please bear that in mind. 
-For the frontend the folder *client/* folder will be used, Vue.js will be the framework.
+For the frontend the folder *client/* folder will be used.
+I use *ngrok* for tunneling into my database vagrant box, so the database server is seperated.
+
+## Compontents:
+
+- Node.js with TypeScript
+- Express for the restAPI with various security policies & middlewares
+- GraphQL & tRPC
+- PostgreSQL
+- various package.json commands to document & build & test
 
 ## Database
 
@@ -54,10 +63,12 @@ and within psql:
 * run 
 `npx sequelize-cli init --force`
 to create the required folders and files
-* edit *.sequelizerc* file to reflect database connection info
-* edit *.sequelizeautoconfig.json* file to reflect database connection info
 
-# various setup commands
+### these needs to be edited to use migration & seeding & model-creation
+* edit *.sequelizerc*, reflecting the database connection info
+* edit *.sequelizeautoconfig.json*, reflecting the database connection info
+
+# various *npm run* setup commands
 
 ## npm run db:build
 
