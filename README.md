@@ -85,8 +85,10 @@ Creates the database tables
 
 ### npm run db:seeds
 
-Creates a list of 100 users.
-Creates a variety of contents for each type: article, game, product and comments for all of these types (even comments for comments), each connected to the users created.
+Creates mock-data on speific tables with working reference-ids:
+- a list of 100 users.
+- contents for each type: article, game, product
+- comments for all of these types including comments for comments
 
 ### npm run db:g:migration
 
