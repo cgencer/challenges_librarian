@@ -13,11 +13,13 @@ export interface UsersAttributes {
   createdAt: Date;
   updatedAt: Date;
   bgg_id?: string;
+  bga_id?: string;
+  avatar?: string;
 }
 
 export type UsersPk = "id";
 export type UsersId = Users[UsersPk];
-export type UsersOptionalAttributes = "id" | "firstName" | "lastName" | "birthday" | "wallet" | "createdAt" | "updatedAt" | "bgg_id";
+export type UsersOptionalAttributes = "id" | "firstName" | "lastName" | "birthday" | "wallet" | "createdAt" | "updatedAt" | "bgg_id" | "bga_id" | "avatar";
 export type UsersCreationAttributes = Optional<UsersAttributes, UsersOptionalAttributes>;
 
 export class Users extends Model<UsersAttributes, UsersCreationAttributes> implements UsersAttributes {
@@ -32,6 +34,8 @@ export class Users extends Model<UsersAttributes, UsersCreationAttributes> imple
   createdAt!: Date;
   updatedAt!: Date;
   bgg_id?: string;
+  bga_id?: string;
+  avatar?: string;
 
 
   static initModel(sequelize: Sequelize.Sequelize): typeof Users {
@@ -75,11 +79,13 @@ export class Users extends Model<UsersAttributes, UsersCreationAttributes> imple
       type: DataTypes.STRING(255),
       allowNull: true
     },
-    createdAt: {
-      type: DataTypes.DATE,
+    bga_id: {
+      type: DataTypes.STRING(255),
+      allowNull: true
     },
-    updatedAt: {
-        type: DataTypes.DATE,
+    avatar: {
+      type: DataTypes.STRING(255),
+      allowNull: true
     }
   }, {
     sequelize,

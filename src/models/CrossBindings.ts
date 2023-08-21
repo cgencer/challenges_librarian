@@ -47,9 +47,6 @@ export class CrossBindings extends Model<CrossBindingsAttributes, CrossBindingsC
     extra: {
       type: DataTypes.STRING(255),
       allowNull: true
-    },
-    createdAt: {
-      type: DataTypes.DATE,
     }
   }, {
     sequelize,

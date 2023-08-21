@@ -8,14 +8,18 @@ export interface ContentsAttributes {
   type?: string;
   parent?: string;
   owner?: number;
-  createdAt: Date;
-  updatedAt: Date;
+  createdAt?: Date;
   content_json?: object;
+  parent_type?: string;
+  updatedAt?: Date;
+  main_category?: string;
+  taxonomy?: object;
+  extras?: object;
 }
 
 export type ContentsPk = "id";
 export type ContentsId = Contents[ContentsPk];
-export type ContentsOptionalAttributes = "id" | "title" | "content" | "type" | "parent" | "owner" | "createdAt" | "updatedAt" | "content_json";
+export type ContentsOptionalAttributes = "id" | "title" | "content" | "type" | "parent" | "owner" | "createdAt" | "content_json" | "parent_type" | "updatedAt" | "main_category" | "taxonomy" | "extras";
 export type ContentsCreationAttributes = Optional<ContentsAttributes, ContentsOptionalAttributes>;
 
 export class Contents extends Model<ContentsAttributes, ContentsCreationAttributes> implements ContentsAttributes {
@@ -25,9 +29,13 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
   type?: string;
   parent?: string;
   owner?: number;
-  createdAt!: Date;
-  updatedAt!: Date;
+  createdAt?: Date;
   content_json?: object;
+  parent_type?: string;
+  updatedAt?: Date;
+  main_category?: string;
+  taxonomy?: object;
+  extras?: object;
 
 
   static initModel(sequelize: Sequelize.Sequelize): typeof Contents {
@@ -62,11 +70,21 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
       type: DataTypes.JSON,
       allowNull: true
     },
-    createdAt: {
-      type: DataTypes.DATE,
+    parent_type: {
+      type: DataTypes.STRING(16),
+      allowNull: true
     },
-    updatedAt: {
-        type: DataTypes.DATE,
+    main_category: {
+      type: DataTypes.STRING(255),
+      allowNull: true
+    },
+    taxonomy: {
+      type: DataTypes.JSON,
+      allowNull: true
+    },
+    extras: {
+      type: DataTypes.JSON,
+      allowNull: true
     }
   }, {
     sequelize,
