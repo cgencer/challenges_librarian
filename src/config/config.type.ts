@@ -14,7 +14,8 @@ export interface IConfig
 	content_security?: boolean;
 	referrers?: boolean;
 }
-
+//TODO: type-enforcing on nested Interface trough Partials needs to be done carefully.
+/*
 export interface IContentSecurities
 {
 	defaultSrc: string | string[];
@@ -29,7 +30,7 @@ export interface IPolicies
 	contentSecurities?: Partial<IContentSecurities>; 
 	referrers?: string | string[];
 }
-
+*/
 // https://grrr.tech/posts/2021/typescript-partial/
 export type Subset<K> = {
     [attr in keyof K]?: K[attr] extends object
