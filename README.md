@@ -60,9 +60,10 @@ and within psql:
 * create an empty database
 * edit *config/[app-dev.json | app-prod.json]* to reflect your setup
 * if needed, you can edit *config/policies.json* as well
-* run 
+* to create the required folders and files please run 
 `npx sequelize-cli init --force`
-to create the required folders and files
+* to create dummy data for users & contents tables please run
+`npm run db:seeds`
 
 ### these needs to be edited to use migration & seeding & model-creation
 * edit *.sequelizerc*, reflecting the database connection info
@@ -82,7 +83,10 @@ Initializes Sequelize-CLI for migrations & seeding the database on commands
 
 Creates the database tables
 
-### npm run db:migrate
+### npm run db:seeds
+
+Creates a list of 100 users.
+Creates a variety of contents for each type: article, game, product and comments for all of these types (even comments for comments), each connected to the users created.
 
 ### npm run db:g:migration
 

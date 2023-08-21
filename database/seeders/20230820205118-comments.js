@@ -2023,7 +2023,7 @@ module.exports = {
      * Example:
      * await queryInterface.bulkDelete('People', null, {});
      */
-    await queryInterface.bulkDelete('Contents', {'id': {'gt':'1000'}}, {});
+    await queryInterface.bulkDelete('Contents', {}, {});
   }
 };
 
