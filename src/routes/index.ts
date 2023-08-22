@@ -6,7 +6,7 @@ import expressListRoutes from 'express-list-routes';
 
 const routes = express.Router();
 
-routes.use(authRoutes);
+routes.use('/auth', authRoutes);
 routes.use('/user', userRoutes);
 routes.use('/content', contentRoutes);
 

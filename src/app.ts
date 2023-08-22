@@ -1,4 +1,4 @@
-import express, { Express, Request, Response } from 'express';
+import express, { Express, Request, Response, Router } from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
 import morgan from 'morgan';
@@ -12,11 +12,13 @@ import { fileURLToPath } from 'url';
 import rfs from 'rotating-file-stream';
 
 import { config, policies } from './config/config.js';
+import { authRoutes } from './routes/auth.js';
+import { userRoutes } from './routes/user.js';
+import { contentRoutes } from './routes/content.js';
 
 import { errorHandler } from "./helpers/error.mw.js";
 import { notFoundHandler } from "./helpers/not-found.mw.js";
-import routes from './routes/index.js';
-
+//import routes from './routes/index.js';
 
 export default class App {
 
@@ -56,10 +58,13 @@ export default class App {
 			console.log('::: logfile is at: logs/access.log');
 			this.app.use(morgan('tiny', { stream: accessLogStream }))
 		}
-		this.app.use(errorHandler);
-		this.app.use(notFoundHandler);
+//		this.app.use(errorHandler);
+//		this.app.use(notFoundHandler);
 
-		this.app.use('/', routes);
+		this.app.use('/auth', authRoutes);
+		this.app.use('/user', userRoutes);
+		this.app.use('/content', contentRoutes);
+
 		console.log(':::--------------------------------');
 
 		this.app.listen(config.port, () => {

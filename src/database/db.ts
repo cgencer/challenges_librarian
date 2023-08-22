@@ -1,5 +1,6 @@
 import { Sequelize } from 'sequelize';
 import { Singleton } from '../helpers/singleton.js'
+import { initModels } from "../models/init-models.js";
 
 @Singleton
 export default class dbInit {
@@ -9,8 +10,13 @@ export default class dbInit {
 	public static init(DBString: string) {
 		// @ts-ignore
 
-		dbInit._instance = new Sequelize(DBString).authenticate().then(() => {
-			console.log('Connection has been established successfully.');
+		dbInit._instance = new Sequelize(DBString, {
+			logging: console.log
+		});
+		dbInit._instance.authenticate().then(() => {
+			console.log('Connection has been established and authenticated.');
+
+			const { Contents, Users, CrossBindings } = initModels(dbInit._instance);
 		}).catch((error) => {
 			console.error('::: Unable to connect to the database...');
 			console.error('::: @@@'+error.message);

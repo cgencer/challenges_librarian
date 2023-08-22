@@ -2,7 +2,6 @@ import { validationResult } from 'express-validator';
 import bcrypt from "bcrypt";
 import { encode_reg_token } from '../helpers/tokens.js';
 import _ from 'lodash';
-import { BaseController } from './BaseController.js';
 import { Users } from '../models/Users.js';
 
 interface Base {

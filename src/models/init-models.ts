@@ -1,10 +1,10 @@
 import type { Sequelize } from "sequelize";
-import { Contents as _Contents } from "./Contents";
-import type { ContentsAttributes, ContentsCreationAttributes } from "./Contents";
-import { CrossBindings as _CrossBindings } from "./CrossBindings";
-import type { CrossBindingsAttributes, CrossBindingsCreationAttributes } from "./CrossBindings";
-import { Users as _Users } from "./Users";
-import type { UsersAttributes, UsersCreationAttributes } from "./Users";
+import { Contents as _Contents } from "./Contents.js";
+import type { ContentsAttributes, ContentsCreationAttributes } from "./Contents.js";
+import { CrossBindings as _CrossBindings } from "./CrossBindings.js";
+import type { CrossBindingsAttributes, CrossBindingsCreationAttributes } from "./CrossBindings.js";
+import { Users as _Users } from "./Users.js";
+import type { UsersAttributes, UsersCreationAttributes } from "./Users.js";
 
 export {
   _Contents as Contents,

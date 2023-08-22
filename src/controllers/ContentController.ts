@@ -1,5 +1,4 @@
 import { validationResult } from 'express-validator';
-import { BaseController } from './BaseController.js';
 import { Users } from '../models/Users.js';
 import { Contents } from '../models/Contents.js';
 
@@ -17,7 +16,6 @@ export class ContentController implements Base {
     async get_contents(req: any, res: any): Promise<void> {
         try {
             const posts = await Contents.findAll();
-            console.dir(posts);
             res.status(200).json({
                 type: "success",
                 posts
@@ -176,3 +174,11 @@ export class ContentController implements Base {
         }
     };
 };
+
+
+export class ArticleController extends ContentController implements Base {
+}
+export class ProductController extends ContentController implements Base {
+}
+export class GameController extends ContentController implements Base {
+}

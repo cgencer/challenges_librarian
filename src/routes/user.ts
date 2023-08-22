@@ -1,8 +1,8 @@
 import express from 'express';
 import { authController, userController, contentController } from '../controllers/index.js';
 import { accessVerifier } from '../helpers/auth.mw.js';
-import { Router } from 'express';
-const routes = Router();
+//const routes = Router();
+const routes = express.Router();
 
 routes.get('/:id', userController.get_user);
 routes.put('/:id', accessVerifier, userController.update_user);
