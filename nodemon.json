@@ -4,7 +4,7 @@
 	"watch": ["src/**/*.ts","src/**/*.json"],
 	"exec": "ts-node --esm src/app.ts",
 	"env": {
-		"NODE_ENV": "development"
+		"NODE_ENV": "dev"
 	},
 	"ext": "js,json,ts"
 }
