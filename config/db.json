@@ -3,7 +3,7 @@
     "username": "postgres",
     "password": "postgres",
     "database": "icebreaker",
-    "host": "5.tcp.eu.ngrok.io:10417",
+    "host": "0.tcp.ngrok.io:17471",
     "dialect": "postgres"
   },
   "test": {

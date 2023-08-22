@@ -1,4 +1,6 @@
 {
+  "//": "",
+  "type": "module",
   "name": "icebreak",
   "version": "1.0.0",
   "description": "simple blog API on node.js with minimal requirements",
@@ -6,7 +8,6 @@
     "node": ">=16.19",
     "npm": ">=9.7"
   },
-  "type": "commonjs",
   "main": "dist/app.js",
   "homepage": "https://github.com/cgencer/assignment-icebreaker#readme",
   "repository": {
@@ -15,14 +16,14 @@
   },
   "scripts": {
     "nodemon": "nodemon --config nodemon.json src/app.ts",
-    "start": "tsc && NODE_ENV=dev node dist/app.js",
-    "dev": "ts-node-dev --respawn --pretty --transpile-only src/app.ts",
+    "start": "cp src/config/*.json dist/config/. && tsc && NODE_ENV=dev node dist/app.js",
+    "dev": "cp src/config/*.json dist/config/. && ts-node-dev --respawn --pretty --transpile-only src/app.ts",
+    "deva": "cp src/config/*.json dist/config/. && NODE_ENV=dev nodemon -x node --loader ts-node/esm src/app.ts",
     "clean": "rm -r dist/*",
     "docs:build": "make",
     "docs:report": "newman run postman/*.json -r htmlextra --reporter-htmlextra-export docs/api-report.html --reporter-htmlextra-browserTitle 'IceBreaker API Report' --reporter-htmlextra-title 'IceBreaker API Report' --reporter-htmlextra-omitHeaders",
     "docs:todo": "grep '//TODO: ' -r -n --exclude-dir={dist,node_modules,.git,lib} --exclude={'*bundle.js','*.map','*.min.js','*.csv',todos.txt} ./src/ > ./docs/todos.txt;grep '//FIXME: ' -r -n --exclude-dir={dist,node_modules,.git,lib} --exclude={'*bundle.js','*.map','*.min.js','*.csv',todos.txt} ./src/ > ./docs/urgent.txt",
-    "to-dev": "cp dev.env .env",
-    "to-prod": "cp prod.env .env",
+    "configs": "cp src/config/*.json dist/config/.",
     "db:build": "sequelize-auto -c .sequelizeautoconfig.json",
     "db:create": "sequelize-cli db:create",
     "db:migrate": "sequelize-cli db:migrate",
@@ -95,7 +96,7 @@
     "eslint": "^8.46.0",
     "express-list-routes": "^1.1.5",
     "mocha": "^10.2.0",
-    "nodemon": "^2.0.13",
+    "nodemon": "^2.0.22",
     "sequelize-cli": "^6.6.1",
     "sinon": "^14.0.0",
     "ts-node": "^10.9.1",

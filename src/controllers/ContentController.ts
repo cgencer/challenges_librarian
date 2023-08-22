@@ -17,6 +17,7 @@ export class ContentController implements Base {
     async get_contents(req: any, res: any): Promise<void> {
         try {
             const posts = await Contents.findAll();
+            console.dir(posts);
             res.status(200).json({
                 type: "success",
                 posts

@@ -85,6 +85,14 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
     extras: {
       type: DataTypes.JSON,
       allowNull: true
+    },
+    createdAt: {
+      type: DataTypes.DATE,
+      allowNull: false
+    },
+    updatedAt: {
+      type: DataTypes.DATE,
+      allowNull: false
     }
   }, {
     sequelize,

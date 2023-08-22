@@ -7,8 +7,8 @@ import expressListRoutes from 'express-list-routes';
 const routes = express.Router();
 
 routes.use(authRoutes);
-routes.use(userRoutes);
-routes.use(contentRoutes);
+routes.use('/user', userRoutes);
+routes.use('/content', contentRoutes);
 
 /*
 console.log(':::--------------------------------');

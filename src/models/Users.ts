@@ -86,6 +86,14 @@ export class Users extends Model<UsersAttributes, UsersCreationAttributes> imple
     avatar: {
       type: DataTypes.STRING(255),
       allowNull: true
+    },
+    createdAt: {
+      type: DataTypes.DATE,
+      allowNull: false
+    },
+    updatedAt: {
+      type: DataTypes.DATE,
+      allowNull: false
     }
   }, {
     sequelize,

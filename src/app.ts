@@ -1,4 +1,4 @@
-import express, { Express, Router, Request, Response } from 'express';
+import express, { Express, Request, Response } from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
 import morgan from 'morgan';
@@ -17,9 +17,6 @@ import { errorHandler } from "./helpers/error.mw.js";
 import { notFoundHandler } from "./helpers/not-found.mw.js";
 import routes from './routes/index.js';
 
-// FIX for __dirname is not defined in ES module scope
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
 export default class App {
 
@@ -28,6 +25,7 @@ export default class App {
 	constructor(){
 		console.log(':::--------------------------------');
 		console.log('::: Environment is: ' + process.env.NODE_ENV);
+		console.log('::: '+config.db_uri);
 		dbInit.init(config.db_uri);
 
 		this.app = express();
@@ -50,7 +48,8 @@ export default class App {
 
 		var accessLogStream = rfs.createStream('access.log', {
 			interval: '1d', // rotate daily
-			path: path.join(__dirname, '../log')
+			// FIX for __dirname as its not defined in ES module scope
+			path: path.join(path.dirname(fileURLToPath(import.meta.url)), '../log')
 		});
 		if (config.logs === true) {
 			console.log(':::--------------------------------');

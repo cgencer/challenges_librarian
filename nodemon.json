@@ -1,11 +1,8 @@
 {
 	"restartable": "rs",
 	"ignore": [".git", "node_modules/", "dist/", "coverage/", "src/**/*.spec.ts"],
-	"watch": ["src/**/*.ts"],
+	"watch": ["src/**/*.ts","src/**/*.json"],
 	"exec": "ts-node --esm src/app.ts",
-//	"execMap": {
-//		"ts": "node -r ts-node/register"
-//	},
 	"env": {
 		"NODE_ENV": "development"
 	},
