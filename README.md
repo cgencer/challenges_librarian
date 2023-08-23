@@ -1,5 +1,14 @@
 # assignment-icebreaker
-simple blog API on node.js with minimal requirements
+Simple CMS API on node.js with minimal requirements. 
+A Vue client will also be implemented.
+To-Do's:
+- testing suite
+- GraphQL
+- tRPC
+- Dashboard
+- maybe a second client with React
+- mobile client
+- Web3 connectivity
 
 * please refer to [docs/](https://cgencer.github.io/assignment-icebreaker/) for the detailed docs.
 * kanban board for the issues at hand is available at [kanban board](https://cgencer.github.io/assignment-icebreaker/kanban.html)
@@ -9,7 +18,7 @@ simple blog API on node.js with minimal requirements
 [POSTMAN API-Collection Report](docs/api-report.html)
 
 requirements:
-- basic requirements will be covered within *package.json*
+- basic dependencies will be covered within *package.json*
 - database specific requirements are given below.
 
 ## Information:
