@@ -1,12 +1,18 @@
 import express from 'express';
-import { authController, userController, contentController } from '../controllers/index.js';
-//const routes = Router();
-const routes = express.Router();
 
-routes.get('/', contentController.get_contents);
-routes.get('/:id', contentController.get_content);
-routes.post('/', contentController.create_content);
-routes.put('/:id', contentController.update_content);
-routes.delete('/:id', contentController.delete_content);
+import { authController, userController, contentController, commentController,
+		 articleController, gameController, productController } from '../controllers/index.js';
 
+let routes = express.Router();
+function subControllers(type: string, ctrl: any) {
+	routes.get(`/${type}/`,  		ctrl.getContents);
+	routes.get(`/${type}/:id`,  	ctrl.getContent);
+	routes.post(`/${type}/`, 		ctrl.createContent);
+	routes.put(`/${type}/`, 		ctrl.updateContent);
+	routes.delete(`/${type}/:id`,	ctrl.deleteContent);
+}
+subControllers('articles', articleController);
+subControllers('products', productController);
+subControllers('games', gameController);
+subControllers('comments', commentController);
 export { routes as contentRoutes };

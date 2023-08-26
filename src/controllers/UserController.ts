@@ -2,15 +2,15 @@ import bcrypt from "bcrypt";
 import { Users } from '../models/Users.js';
 
 interface Base {
-    get_user: (req: any, res: any) => void;
-    update_user: (req: any, res: any) => void;
-    delete_user: (req: any, res: any) => void;
+    getUser: (req: any, res: any) => void;
+    updateUser: (req: any, res: any) => void;
+    deleteUser: (req: any, res: any) => void;
 }
 
 /* get single user */
 export class UserController implements Base {
 
-    async get_user(req: any, res: any): Promise<void> {
+    async getUser(req: any, res: any): Promise<void> {
 
         try {
             const user = await Users.findByPk(req.params.id);
@@ -36,7 +36,7 @@ export class UserController implements Base {
     };
 
     /* update user */
-    async update_user (req: any, res: any): Promise<void> {
+    async updateUser (req: any, res: any): Promise<void> {
         if (req.body.password) {
             req.body.password = bcrypt.hashSync(req.body.password, 10)
         }
@@ -66,7 +66,7 @@ export class UserController implements Base {
     };
 
     /* delete user */
-    async delete_user (req: any, res: any): Promise<void> {
+    async deleteUser (req: any, res: any): Promise<void> {
         try {
               await Users.destroy({ where: { id: req.params.id } })
 //            await Users.findByIdAndDelete(req.params.id)

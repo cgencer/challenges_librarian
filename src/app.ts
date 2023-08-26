@@ -15,6 +15,7 @@ import { config, policies } from './config/config.js';
 import { authRoutes } from './routes/auth.js';
 import { userRoutes } from './routes/user.js';
 import { contentRoutes } from './routes/content.js';
+//import { articles, products, games, comments } from './routes/content.js';
 
 import { errorHandler } from "./helpers/error.mw.js";
 import { notFoundHandler } from "./helpers/not-found.mw.js";

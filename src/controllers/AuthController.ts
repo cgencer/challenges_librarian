@@ -5,8 +5,8 @@ import _ from 'lodash';
 import { Users } from '../models/Users.js';
 
 interface Base {
-    create_user: (req: any, res: any) => void;
-    login_user: (req: any, res: any) => void;
+    createUser: (req: any, res: any) => void;
+    loginUser: (req: any, res: any) => void;
 }
 
 /* create new user */
@@ -14,7 +14,7 @@ export class AuthController implements Base {
 
     // public static async build(): Promise<MyClass> {
 
-    public async create_user(req: any, res: any): Promise<void> {
+    public async createUser(req: any, res: any): Promise<void> {
 
         const errors = validationResult(req);
 
@@ -49,7 +49,7 @@ export class AuthController implements Base {
     };
 
     /* user login */
-    public async login_user(req: any, res: any): Promise<void> {
+    public async loginUser(req: any, res: any): Promise<void> {
         try {
             const { username } = req.body;
 

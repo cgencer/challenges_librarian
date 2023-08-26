@@ -1,19 +1,21 @@
 import { validationResult } from 'express-validator';
 import { Users } from '../models/Users.js';
 import { Contents } from '../models/Contents.js';
+import { Articles, Games, Products, Comments } from '../models/ContentTypes.js';
 
 interface Base {
-    get_content: (req: any, res: any) => void;
-    get_contents: (req: any, res: any) => void;
-    create_content: (req: any, res: any) => void;
-    update_content: (req: any, res: any) => void;
-    delete_content: (req: any, res: any) => void;
+    getContent: (req: any, res: any) => void;
+    getContents: (req: any, res: any) => void;
+    createContent: (req: any, res: any) => void;
+    updateContent: (req: any, res: any) => void;
+    deleteContent: (req: any, res: any) => void;
 }
 
 export class ContentController implements Base {
 
     /* get all posts */
-    async get_contents(req: any, res: any): Promise<void> {
+    async getContents(req: any, res: any): Promise<void> {
+console.log(':::> getContents');
         try {
             const posts = await Contents.findAll();
             res.status(200).json({
@@ -30,7 +32,8 @@ export class ContentController implements Base {
     };
 
     /* get single post */
-    async get_content(req: any, res: any): Promise<void> {
+    async getContent(req: any, res: any): Promise<void> {
+console.log(':::> getContent');
         try {
             const post = await Contents.findByPk(req.params.id);
             if (!post) {
@@ -54,7 +57,7 @@ export class ContentController implements Base {
     };
 
     /* create new product */
-    async create_content(req: any, res: any): Promise<void> {
+    async createContent(req: any, res: any): Promise<void> {
 
         const errors = validationResult(req);
 
@@ -92,7 +95,7 @@ export class ContentController implements Base {
     };
 
     /* update product */
-    async update_content(req: any, res: any): Promise<void> {
+    async updateContent(req: any, res: any): Promise<void> {
         const existing = await Contents.findByPk(req.params.id);
         if (!existing) {
             res.status(404).json({
@@ -140,7 +143,7 @@ export class ContentController implements Base {
     };
 
     /* delete post */
-    async delete_content(req: any, res: any): Promise<void> {
+    async deleteContent(req: any, res: any): Promise<void> {
         const existing = await Contents.findByPk(req.params.id);
         if (!existing) {
             res.status(200).json({
@@ -174,11 +177,11 @@ export class ContentController implements Base {
         }
     };
 };
-
-
 export class ArticleController extends ContentController implements Base {
-}
+};
 export class ProductController extends ContentController implements Base {
-}
+};
 export class GameController extends ContentController implements Base {
-}
+};
+export class CommentController extends ContentController implements Base {
+};
