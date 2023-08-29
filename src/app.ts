@@ -1,4 +1,6 @@
 import express, { Express, Request, Response, Router } from 'express';
+import * as trpcExpress from '@trpc/server/adapters/express';
+import { inferAsyncReturnType, initTRPC } from "@trpc/server";
 import cors from 'cors';
 import helmet from 'helmet';
 import morgan from 'morgan';
@@ -10,11 +12,14 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import rfs from 'rotating-file-stream';
+import expressListRoutes from 'express-list-routes';
 
 import { config, policies } from './config/config.js';
 import { authRoutes } from './routes/auth.js';
 import { userRoutes } from './routes/user.js';
 import { contentRoutes } from './routes/content.js';
+import { trpcRouter, createContext } from './routes/trpc.js';
+
 //import { articles, products, games, comments } from './routes/content.js';
 
 import { errorHandler } from "./helpers/error.mw.js";
@@ -47,6 +52,8 @@ export default class App {
 			}));
 		}
 		this.app.use(cors());
+		this.app.use(morgan(process.env.NODE_ENV as unknown as string));
+
 		this.app.use(express.json({ limit: '50mb', type: 'application/json' }));
 
 		var accessLogStream = rfs.createStream('access.log', {
@@ -59,13 +66,22 @@ export default class App {
 			console.log('::: logfile is at: logs/access.log');
 			this.app.use(morgan('tiny', { stream: accessLogStream }))
 		}
-//		this.app.use(errorHandler);
-//		this.app.use(notFoundHandler);
+		this.app.use(errorHandler);
+		this.app.use(notFoundHandler);
+
+		this.app.use('/trpc', trpcExpress.createExpressMiddleware({
+			router: trpcRouter,
+			createContext
+		}));
 
 		this.app.use('/auth', authRoutes);
 		this.app.use('/user', userRoutes);
 		this.app.use('/content', contentRoutes);
-
+/*
+		console.log(':::--------------------------------');
+		console.log('::: Available routes are:');
+		expressListRoutes(contentRoutes);
+*/
 		console.log(':::--------------------------------');
 
 		this.app.listen(config.port, () => {
