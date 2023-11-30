@@ -1,7 +1,7 @@
 import express from 'express';
 
 import { authController, userController, contentController, commentController,
-		 articleController, gameController, productController } from '../controllers/index.js';
+		 articleController, bookController, productController } from '../controllers/index.js';
 
 let routes = express.Router();
 function subControllers(type: string, ctrl: any) {
@@ -13,6 +13,6 @@ function subControllers(type: string, ctrl: any) {
 }
 subControllers('articles', articleController);
 subControllers('products', productController);
-subControllers('games', gameController);
+subControllers('books', bookController);
 subControllers('comments', commentController);
 export { routes as contentRoutes };

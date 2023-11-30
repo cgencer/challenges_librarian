@@ -8,10 +8,10 @@ export class Articles extends Contents implements ContentsAttributes {
   }
 }
 
-export class Games extends Contents implements ContentsAttributes {
+export class Books extends Contents implements ContentsAttributes {
   constructor() {
     super();
-    this.type = 'game';
+    this.type = 'book';
   }
 }
 

@@ -1,7 +1,7 @@
 import { validationResult } from 'express-validator';
 import { Users } from '../models/Users.js';
 import { Contents } from '../models/Contents.js';
-import { Articles, Games, Products, Comments } from '../models/ContentTypes.js';
+import { Articles, Books, Products, Comments } from '../models/ContentTypes.js';
 
 interface Base {
     getContent: (req: any, res: any) => void;
@@ -181,7 +181,7 @@ export class ArticleController extends ContentController implements Base {
 };
 export class ProductController extends ContentController implements Base {
 };
-export class GameController extends ContentController implements Base {
+export class BookController extends ContentController implements Base {
 };
 export class CommentController extends ContentController implements Base {
 };
