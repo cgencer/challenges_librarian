@@ -1,18 +1,18 @@
 {
   "//": "",
   "type": "module",
-  "name": "icebreak",
+  "name": "librarian",
   "version": "1.0.0",
-  "description": "simple blog API on node.js with minimal requirements",
+  "description": "simple content API built on node.js with minimal requirements",
   "engines": {
     "node": ">=16.19",
     "npm": ">=9.7"
   },
   "main": "src/app.ts",
-  "homepage": "https://github.com/cgencer/assignment-icebreaker#readme",
+  "homepage": "https://github.com/cgencer/challenges_librarian#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cgencer/assignment-icebreaker.git"
+    "url": "git+https://github.com/cgencer/challenges_librarian.git"
   },
   "scripts": {
     "nodemon": "nodemon --config nodemon.json src/app.ts",

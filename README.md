@@ -1,6 +1,6 @@
-# assignment-icebreaker
-Simple CMS API on node.js with minimal requirements. 
-A Vue client will also be implemented.
+# assignment-librian
+Simple content API on node.js with minimal requirements. 
+
 To-Do's:
 - testing suite
 - GraphQL
@@ -10,8 +10,8 @@ To-Do's:
 - mobile client
 - Web3 connectivity
 
-* please refer to [docs/](https://cgencer.github.io/assignment-icebreaker/) for the detailed docs.
-* kanban board for the issues at hand is available at [kanban board](https://cgencer.github.io/assignment-icebreaker/kanban.html)
+* please refer to [docs/](https://github.com/cgencer/challenges_librarian) for the detailed docs.
+* kanban board for the issues at hand is available at [kanban board](https://cgencer.github.io/challenges_librarian/kanban.html)
 
 [POSTMAN Collection Invitation](https://app.getpostman.com/join-team?invite_code=7fb999cabcec15df2ab29b671cb8322f)
 
