@@ -1,18 +1,16 @@
 import * as Sequelize from 'sequelize';
 import { DataTypes, Model, Optional } from 'sequelize';
 
-export type ContentType = "content" | "article" | "product" | "game" | "comment" | null;
-
 export interface ContentsAttributes {
   id: number;
   title?: string;
   content?: string;
-  type?: ContentType;
+  type?: string;
   parent?: string;
   owner?: number;
   createdAt?: Date;
   content_json?: object;
-  parent_type?: ContentType;
+  parent_type?: string;
   updatedAt?: Date;
   main_category?: string;
   taxonomy?: object;
@@ -28,12 +26,12 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
   id!: number;
   title?: string;
   content?: string;
-  type?: ContentType;
+  type?: string;
   parent?: string;
   owner?: number;
   createdAt?: Date;
   content_json?: object;
-  parent_type?: ContentType;
+  parent_type?: string;
   updatedAt?: Date;
   main_category?: string;
   taxonomy?: object;
