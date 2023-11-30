@@ -3,12 +3,9 @@ Simple content API on node.js with minimal requirements.
 
 To-Do's:
 - testing suite
-- GraphQL
-- tRPC
 - Dashboard
-- maybe a second client with React
-- mobile client
-- Web3 connectivity
+- maybe different clients for Vue, React and Svelte
+- possible Web3 connectivity
 
 * please refer to [docs/](https://github.com/cgencer/challenges_librarian) for the detailed docs.
 * kanban board for the issues at hand is available at [kanban board](https://cgencer.github.io/challenges_librarian/kanban.html)

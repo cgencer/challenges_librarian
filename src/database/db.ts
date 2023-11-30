@@ -17,6 +17,9 @@ export default class dbInit {
 			console.log('Connection has been established and authenticated.');
 
 			const { Contents, Users, CrossBindings } = initModels(dbInit._instance);
+
+//			console.log(Users.findByPk(1));
+
 		}).catch((error) => {
 			console.error('::: Unable to connect to the database...');
 			console.error('::: @@@'+error.message);

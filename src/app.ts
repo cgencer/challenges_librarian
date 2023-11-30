@@ -18,7 +18,6 @@ import { config, policies } from './config/config.js';
 import { authRoutes } from './routes/auth.js';
 import { userRoutes } from './routes/user.js';
 import { contentRoutes } from './routes/content.js';
-import { trpcRouter, createContext } from './routes/trpc.js';
 
 //import { articles, products, games, comments } from './routes/content.js';
 
@@ -33,14 +32,15 @@ export default class App {
 	constructor(){
 		console.log(':::--------------------------------');
 		console.log('::: Environment is: ' + process.env.NODE_ENV);
-		console.log('::: '+config.db_uri);
+		console.log('::: Database is located at: ');
+		console.log(':::   '+config.db_host);
 		dbInit.init(config.db_uri);
 
 		this.app = express();
 
 		this.app.use(compression());
 
-		if (config.content_security === true) {
+		if (config.policies === true) {
 			this.app.use(helmet.contentSecurityPolicy({
 				useDefaults: true,
 				directives: policies.contentSecurities
@@ -66,14 +66,14 @@ export default class App {
 			console.log('::: logfile is at: logs/access.log');
 			this.app.use(morgan('tiny', { stream: accessLogStream }))
 		}
-		this.app.use(errorHandler);
-		this.app.use(notFoundHandler);
-
+//		this.app.use(errorHandler);
+//		this.app.use(notFoundHandler);
+/*
 		this.app.use('/trpc', trpcExpress.createExpressMiddleware({
 			router: trpcRouter,
 			createContext
 		}));
-
+*/
 		this.app.use('/auth', authRoutes);
 		this.app.use('/user', userRoutes);
 		this.app.use('/content', contentRoutes);
@@ -84,8 +84,8 @@ export default class App {
 */
 		console.log(':::--------------------------------');
 
-		this.app.listen(config.port, () => {
-  			console.log(`::: the API is avail@ http://localhost:${config.port}`);
+		this.app.listen(config.local_port, () => {
+  			console.log(`::: the API is avail@ http://localhost:${config.local_port}`);
 			console.log(':::--------------------------------');
 		});
 	}
