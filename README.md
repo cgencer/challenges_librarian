@@ -7,7 +7,7 @@ requirements:
 ## Information:
 
 - The database resides on a public postgres-service: NeonDB, the seed/migration files and SQL dumps are provided with the _database_ folder as well. Because of a remote server, the bootup takes a bit time, please follow the console messages.
-- Permissions will be provided with a zip-file send to the email.
+- Permissions will be provided with a zip-file send to the email. Because the _models/_ folder could be destroyed by some of the CLI commands (especially sequelize auto-migration tool), I've included these within the zipfile for such accidents.
 - As usual, yarn install && yarn run start boots up the database.
 
 ## Differing elements:
