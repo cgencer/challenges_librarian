@@ -4,10 +4,12 @@ import { DataTypes, Model, Optional } from 'sequelize';
 export interface ContentsAttributes {
   id: number;
   title?: string;
+  name?: string;
   content?: string;
   type?: string;
   parent?: string;
   owner?: number;
+  score?: number;
   createdAt?: Date;
   content_json?: object;
   parent_type?: string;
@@ -19,16 +21,18 @@ export interface ContentsAttributes {
 
 export type ContentsPk = "id";
 export type ContentsId = Contents[ContentsPk];
-export type ContentsOptionalAttributes = "id" | "title" | "content" | "type" | "parent" | "owner" | "createdAt" | "content_json" | "parent_type" | "updatedAt" | "main_category" | "taxonomy" | "extras";
+export type ContentsOptionalAttributes = "id" | "title" | "name" | "content" | "type" | "parent" | "owner" | "score" | "createdAt" | "content_json" | "parent_type" | "updatedAt" | "main_category" | "taxonomy" | "extras";
 export type ContentsCreationAttributes = Optional<ContentsAttributes, ContentsOptionalAttributes>;
 
 export class Contents extends Model<ContentsAttributes, ContentsCreationAttributes> implements ContentsAttributes {
   id!: number;
   title?: string;
+  name?: string;
   content?: string;
   type?: string;
   parent?: string;
   owner?: number;
+  score?: number;
   createdAt?: Date;
   content_json?: object;
   parent_type?: string;
@@ -50,6 +54,12 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
       type: DataTypes.STRING(255),
       allowNull: true
     },
+    name: {
+      type: DataTypes.VIRTUAL,
+      get() {
+        return `${this.title ?? ''}`;
+      },
+    },
     content: {
       type: DataTypes.TEXT,
       allowNull: true
@@ -65,6 +75,12 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
     owner: {
       type: DataTypes.INTEGER,
       allowNull: true
+    },
+    score: {
+      type: DataTypes.VIRTUAL,
+      get() {
+        return `${this.extras ?? 0}`;
+      },
     },
     content_json: {
       type: DataTypes.JSON,

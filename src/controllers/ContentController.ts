@@ -2,6 +2,8 @@ import { validationResult } from 'express-validator';
 import { Users } from '../models/Users.js';
 import { Contents } from '../models/Contents.js';
 import { Books, Comments } from '../models/ContentTypes.js';
+import lodash from 'lodash';
+const { pick } = lodash;
 
 interface Base {
     getContent: (req: any, res: any) => void;
@@ -17,10 +19,12 @@ export class ContentController implements Base {
     async getContents(req: any, res: any): Promise<void> {
 console.log(':::> getContents');
         try {
-            const posts = await Contents.findAll();
+            const contents = await Contents.findAll();
+            const filteredContents = contents.map(content => pick(content, ['id', 'name']));
+
             res.status(200).json({
                 type: "success",
-                posts
+                filteredContents
             })
         } catch (err) {
             res.status(500).json({
@@ -35,17 +39,16 @@ console.log(':::> getContents');
     async getContent(req: any, res: any): Promise<void> {
 console.log(':::> getContent');
         try {
-            const post = await Contents.findByPk(req.params.id);
-            if (!post) {
+            const content = await Contents.findByPk(req.params.id);
+            if (!content) {
                 res.status(404).json({
                     type: "error",
                     message: "Post doesn't exists"
                 })
             } else {
-                res.status(200).json({
-                    type: "success",
-                    post
-                })
+                res.status(200).json(
+                    pick(content, ['id', 'name', 'score'])
+                );
             }
         } catch (err) {
             res.status(500).json({
