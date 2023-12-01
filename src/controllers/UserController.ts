@@ -20,22 +20,25 @@ export class UserController implements Base {
     async getUser(req: any, res: any): Promise<void> {
 
         try {
-/*
-            let user = await Users.findAll({
-                include: [{ model: Books, required: true }],
-                where: {id: req.params.id}
-            });
-            user = user[0];
-*/
+
             const user = await Users.findByPk(req.params.id);
 
             const pastBooks = await CrossBindings.findAll({
                 where: {userID: req.params.id, type: 'past'}, 
                 attributes: ['id', 'userID', 'contentID', 'type']
             });
+            const pastTitles = await Contents.findAll({ 
+                where: { type: 'book', id: pastBooks.map(book => book.contentID) },
+                attributes: ['id', ['title', 'name']]
+            });
+
             const currBooks = await CrossBindings.findAll({
                 where: {userID: req.params.id, type: 'present'}, 
                 attributes: ['id', 'userID', 'contentID', 'type']
+            });
+            const currTitles = await Contents.findAll({ 
+                where: { type: 'book', id: currBooks.map(book => book.contentID) },
+                attributes: ['id', ['title', 'name']]
             });
 
             if (!user) {
@@ -49,8 +52,8 @@ export class UserController implements Base {
                 res.status(200).json({
                     ...pick(user, ['id', 'name']),
                     books: {
-                        past: pastBooks.map(book => pick(book, ['id', 'name'])),
-                        present: currBooks.map(book => pick(book, ['id', 'name']))
+                        past: pastTitles.map(title => {return ({'name': title.dataValues.name});}),
+                        present: currTitles.map(title => {return ({'name': title.dataValues.name});})
                     }
                 })
             }

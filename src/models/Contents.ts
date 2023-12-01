@@ -24,13 +24,13 @@ export interface ContentsAttributes {
 
 export type ContentsPk = "id";
 export type ContentsId = Contents[ContentsPk];
-export type ContentsOptionalAttributes = "id" | "title" | "name" | "content" | "type" | "parent" | "owner" | "score" | "isavail" | "createdAt" | "content_json" | "parent_type" | "updatedAt" | "main_category" | "taxonomy" | "extras";
+export type ContentsOptionalAttributes = "id" | "title" | /*"name" |*/ "content" | "type" | "parent" | "owner" | "score" | "isavail" | "createdAt" | "content_json" | "parent_type" | "updatedAt" | "main_category" | "taxonomy" | "extras";
 export type ContentsCreationAttributes = Optional<ContentsAttributes, ContentsOptionalAttributes>;
 
 export class Contents extends Model<ContentsAttributes, ContentsCreationAttributes> implements ContentsAttributes {
   id!: number;
   title?: string;
-  name?: string;
+//  name?: string;
   content?: string;
   type?: string;
   parent?: string;
@@ -58,12 +58,14 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
       type: DataTypes.STRING(255),
       allowNull: true
     },
+/*
     name: {
       type: DataTypes.VIRTUAL,
       get() {
         return `${this.title ?? ''}`;
       },
     },
+  */
     content: {
       type: DataTypes.TEXT,
       allowNull: true

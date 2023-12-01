@@ -26,7 +26,6 @@ export function initModels(sequelize: Sequelize) {
   const CrossBindings = _CrossBindings.initModel(sequelize);
   const Users = _Users.initModel(sequelize);
 
-
   return {
     Contents: Contents,
     CrossBindings: CrossBindings,
