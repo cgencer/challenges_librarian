@@ -12,5 +12,5 @@ function subControllers(type: string, ctrl: any) {
 	routes.delete(`/${type}/:id`,	ctrl.deleteContent);
 }
 subControllers('books', bookController);
-subControllers('comments', commentController);
+//subControllers('comments', commentController);
 export { routes as contentRoutes };

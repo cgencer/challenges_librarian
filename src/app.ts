@@ -68,22 +68,12 @@ export default class App {
 		}
 //		this.app.use(errorHandler);
 //		this.app.use(notFoundHandler);
-/*
-		this.app.use('/trpc', trpcExpress.createExpressMiddleware({
-			router: trpcRouter,
-			createContext
-		}));
-*/
+
 		this.app.use('/auth', authRoutes);
 		this.app.use('/users', userRoutes);
-		this.app.use('/content', contentRoutes);
-/*
-		console.log(':::--------------------------------');
-		console.log('::: Available routes are:');
-		expressListRoutes(contentRoutes);
-*/
-		console.log(':::--------------------------------');
+		this.app.use('/', contentRoutes);
 
+		console.log(':::--------------------------------');
 		this.app.listen(config.local_port, () => {
   			console.log(`::: the API is avail@ http://localhost:${config.local_port}`);
 			console.log(':::--------------------------------');

@@ -28,15 +28,14 @@ export class AuthController implements Base {
                 const { username, email, password } = req.body; 
                 const newUser = new Users({
                     userName: username,
+                    name: username,
                     email: email,
                     password: password
                 });
 
                 const user = await newUser.save();
                 res.status(201).json({
-                    type: 'success',
-                    message: "User has been created successfuly",
-                    data: user
+                    name: user.name,
                 });
 
             } catch (err) {

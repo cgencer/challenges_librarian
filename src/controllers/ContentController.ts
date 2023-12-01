@@ -69,8 +69,6 @@ console.log(':::> getContent');
                 attributes: ['id', 'title', 'type', 'score']
             });
 
-//            const book = await Contents.findByPk(, {exclude: ['createdAt', 'updatedAt']});
-
             if (!book) {
                 res.status(404).json({
                     type: "error",

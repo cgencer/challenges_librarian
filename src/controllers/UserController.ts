@@ -4,6 +4,8 @@ const { pick } = lodash;
 
 import { Users } from '../models/Users.js';
 import { Contents } from '../models/Contents.js';
+import { Books } from '../models/ContentTypes.js';
+
 import { CrossBindings } from '../models/CrossBindings.js';
 
 interface Base {
@@ -18,6 +20,13 @@ export class UserController implements Base {
     async getUser(req: any, res: any): Promise<void> {
 
         try {
+/*
+            let user = await Users.findAll({
+                include: [{ model: Books, required: true }],
+                where: {id: req.params.id}
+            });
+            user = user[0];
+*/
             const user = await Users.findByPk(req.params.id);
 
             const pastBooks = await CrossBindings.findAll({
@@ -71,7 +80,7 @@ export class UserController implements Base {
         } catch (err) {
             res.status(500).json({
                 type: "error",
-                message: "Something went wrong please try again",
+                message: "Something went wrong, please try again",
                 err
             })
         }
@@ -85,6 +94,7 @@ export class UserController implements Base {
             },{ 
                 where: { id: req.params.bookId, type: 'book', isavail: true }
             });
+            res.status(204).send();
 
         } catch (err) {
             res.status(500).json({
@@ -102,6 +112,8 @@ export class UserController implements Base {
             },{
                 where: { id: req.params.bookId, type: 'book', isavail: false }
             });
+            res.status(204).send();
+
         } catch (err) {
             res.status(500).json({
                 type: "error",
@@ -135,7 +147,7 @@ export class UserController implements Base {
         } catch (err) {
             res.status(500).json({
                 type: "error",
-                message: "Something went wrong please try again",
+                message: "Something went wrong, please try again",
                 err
             })
         }
