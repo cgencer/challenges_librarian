@@ -1,8 +1,9 @@
-# assignment-icebreaker
+# challenges-librarian
+
 simple library checkin API on node.js with minimal requirements
 
 requirements:
-- all imcluded within *package.json*
+- all dependencies are included within *package.json*
 
 ## Information:
 
@@ -16,9 +17,14 @@ requirements:
 it would be not much effort to implement it. I did not prefer it before having it planned.
 - As the database dump (and the models) shows, the Content modularity can easily be expanded trough subclasses. I was planning to create a modular CMS-like structure with this. The ID's within CrossBindings and nested contents have been explicitly hand-crafted, thus it will help to build (data scaffolding is important for a neat plan).
 - Express for the restAPI with various security policies & middlewares is also available within the framework, enabling fast kickstart for a JWT-based auth structure. The auth middlewares have been cut-off atm.
-- GraphQL has been planned and partly implemented on a different fork.
 - Using PostgreSQL through Sequelize. I also used uuid and JSON fields within postgres (which need to be installed onto the postgres server).
 - added various package.json commands to document & build & test, but links need to be updated for this release.
+- I used Zod for validating content on user / content creation.
+- Error codes and response status codes are implemented wherever possible.
+
+## Notes:
+
+- Couldn't manage to create the average scoring mechanism in time, so it lacks the calculated scores.
 
 ## Database
 
