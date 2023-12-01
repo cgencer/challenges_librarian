@@ -1,38 +1,24 @@
-# assignment-librian
-Simple content API on node.js with minimal requirements. 
-
-To-Do's:
-- testing suite
-- Dashboard
-- maybe different clients for Vue, React and Svelte
-- possible Web3 connectivity
-
-* please refer to [docs/](https://github.com/cgencer/challenges_librarian) for the detailed docs.
-* kanban board for the issues at hand is available at [kanban board](https://cgencer.github.io/challenges_librarian/kanban.html)
-
-[POSTMAN Collection Invitation](https://app.getpostman.com/join-team?invite_code=7fb999cabcec15df2ab29b671cb8322f)
-
-[POSTMAN API-Collection Report](docs/api-report.html)
+# assignment-icebreaker
+simple library checkin API on node.js with minimal requirements
 
 requirements:
-- basic dependencies will be covered within *package.json*
-- database specific requirements are given below.
+- all imcluded within *package.json*
 
 ## Information:
 
-I've created this as a bootstrap for my personal and professional projects with the 
-with the possibility of switching the datalayer to be used as RestAPI, GraphQL or tRPC
-in mind. It is a opinionated package, please bear that in mind. 
-For the frontend the folder *client/* folder will be used.
-I use *ngrok* for tunneling into my database vagrant box, so the database server is seperated.
+- The database resides on a public postgres-service: NeonDB, the seed/migration files and SQL dumps are provided with the _database_ folder as well. Because of a remote server, the bootup takes a bit time, please follow the console messages.
+- Permissions will be provided with a zip-file send to the email.
+- As usual, yarn install && yarn run start boots up the database.
 
-## Compontents:
+## Differing elements:
 
-- Node.js with TypeScript
-- Express for the restAPI with various security policies & middlewares
-- GraphQL & tRPC
-- PostgreSQL
-- various package.json commands to document & build & test
+- ORM was not needed specifically and because of time constrain it isn't set up. But as the provided models show,
+it would be not much effort to implement it. I did not prefer it before having it planned.
+- As the database dump (and the models) shows, the Content modularity can easily be expanded trough subclasses. I was planning to create a modular CMS-like structure with this. The ID's within CrossBindings and nested contents have been explicitly hand-crafted, thus it will help to build (data scaffolding is important for a neat plan).
+- Express for the restAPI with various security policies & middlewares is also available within the framework, enabling fast kickstart for a JWT-based auth structure. The auth middlewares have been cut-off atm.
+- GraphQL has been planned and partly implemented on a different fork.
+- Using PostgreSQL through Sequelize. I also used uuid and JSON fields within postgres (which need to be installed onto the postgres server).
+- added various package.json commands to document & build & test, but links need to be updated for this release.
 
 ## Database
 
@@ -49,29 +35,31 @@ and within psql:
 
 
 ## Content details:
-- Typescript will be used on with Interface models for each content type. 
-- Content types will be inherited from the base content class. 
+
+- Typescript has been used (partly) with interfaces for different content types. Typescript will be more embbeded later on. 
+- Content types are inherited from the base content class. 
+- *Contents can be nested*, whereas each have a parent id to be referred.
 - Comments are just another content-type, implementing the content class, thus retrieval of comments should be done recursively within the same table (which should be easier on postgresql).
-- Imported content will always be saved within the JSON-field of the content-table, which uses the JSON field-type.
+- Imported content (such as different elements, tags) should always be saved into the JSON-field of the content-table, which is of type JSON.
 
 ## Security concerns:
+
 - Various middlewares are added and configurable troughout the JSON files located within config/ folder.
 - Content Security Policies are also located in the same folder.
-- The Rest API implements JWT tokens of 1-hour lifetime.
+- The Rest API implements JWT tokens of 1-hour lifetime, but *auth functionality has been truncated atm*.
 
 ## Test-driven:
 - Test-cases for various parts are planned, but won't be heavily enforced as in TDD. 
 
 ## setup steps:
-* create an empty database
-* edit *config/[app-dev.json | app-prod.json]* to reflect your setup
-* if needed, you can edit *config/policies.json* as well
-* to create the required folders and files please run 
-`npx sequelize-cli init --force`
-* to create dummy data for users & contents tables please run
-`npm run db:seeds`
+
+* copy the files within the zipfile into their respective folders, edit *config/[app-dev.json | app-prod.json]* if needed
+* npm i / yarn install
+* edit *config/policies.json*, if it needs to be used
+* npm / yarn run start
 
 ### these needs to be edited to use migration & seeding & model-creation
+
 * edit *.sequelizerc*, reflecting the database connection info
 * edit *.sequelizeautoconfig.json*, reflecting the database connection info
 
