@@ -1,7 +1,7 @@
 import { validationResult } from 'express-validator';
 import { Users } from '../models/Users.js';
 import { Contents } from '../models/Contents.js';
-import { Articles, Books, Products, Comments } from '../models/ContentTypes.js';
+import { Books, Comments } from '../models/ContentTypes.js';
 
 interface Base {
     getContent: (req: any, res: any) => void;

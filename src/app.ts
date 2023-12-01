@@ -75,7 +75,7 @@ export default class App {
 		}));
 */
 		this.app.use('/auth', authRoutes);
-		this.app.use('/user', userRoutes);
+		this.app.use('/users', userRoutes);
 		this.app.use('/content', contentRoutes);
 /*
 		console.log(':::--------------------------------');

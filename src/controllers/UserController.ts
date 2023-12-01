@@ -1,4 +1,7 @@
 import bcrypt from "bcrypt";
+import lodash from 'lodash';
+const { pick } = lodash;
+
 import { Users } from '../models/Users.js';
 
 interface Base {
@@ -25,6 +28,29 @@ export class UserController implements Base {
                     type: "success",
                     data
                 })
+            }
+        } catch (err) {
+            res.status(500).json({
+                type: "error",
+                message: "Something went wrong please try again",
+                err
+            })
+        }
+    };
+
+    async getUsers(req: any, res: any): Promise<void> {
+
+        try {
+            const users = await Users.findAll();
+            if (!users) {
+                res.status(404).json({
+                    type: "error",
+                    message: "User doesn't exists"
+                })
+            } else {
+                const filteredUsers = users.map(user => pick(user, ['id', 'name']));
+
+                res.status(200).json(filteredUsers)
             }
         } catch (err) {
             res.status(500).json({

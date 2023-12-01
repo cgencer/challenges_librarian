@@ -3,10 +3,10 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','game',NULL,50,'2020-07-04 22:36:20.000',NULL,NULL,'2023-06-14 08:31:13.000','roll-and-move','["historical","horror","card","mystery"]',NULL)
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','book',NULL,50,'2020-07-04 22:36:20.000',NULL,NULL,'2023-06-14 08:31:13.000','roll-and-move','["historical","horror","card","mystery"]',NULL)
 ,(252,'Home Ing','Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','game',NULL,62,'2022-02-23 06:47:10.000',NULL,NULL,'2022-05-18 13:47:40.000','social-deduction','["adventure","negotiation","fantasy","card"]',NULL)
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','book',NULL,62,'2022-02-23 06:47:10.000',NULL,NULL,'2022-05-18 13:47:40.000','social-deduction','["adventure","negotiation","fantasy","card"]',NULL)
 ,(253,'Tresom','Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
@@ -15,22 +15,22 @@ Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','game',NULL,78,'2021-08-17 09:52:45.000',NULL,NULL,'2023-02-18 21:54:13.000','racing','["historical","war","mystery","party"]',NULL)
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','book',NULL,78,'2021-08-17 09:52:45.000',NULL,NULL,'2023-02-18 21:54:13.000','racing','["historical","war","mystery","party"]',NULL)
 ,(254,'Tres-Zap','Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
 In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','game',NULL,34,'2021-11-04 05:12:38.000',NULL,NULL,'2023-09-13 21:35:02.000','cooperative','["trivia","historical","adventure","educational"]',NULL)
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','book',NULL,34,'2021-11-04 05:12:38.000',NULL,NULL,'2023-09-13 21:35:02.000','cooperative','["trivia","historical","adventure","educational"]',NULL)
 ,(255,'Transcof','Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','game',NULL,45,'2022-05-31 05:53:24.000',NULL,NULL,'2022-05-10 11:50:45.000','economic','["card","party","cooperative","mystery"]',NULL)
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','book',NULL,45,'2022-05-31 05:53:24.000',NULL,NULL,'2022-05-10 11:50:45.000','economic','["card","party","cooperative","mystery"]',NULL)
 ,(256,'Veribet','Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
-In congue. Etiam justo. Etiam pretium iaculis justo.','game',NULL,33,'2022-09-08 00:01:35.000',NULL,NULL,'2022-11-13 18:46:18.000','social-deduction','["puzzle","horror","trivia","party"]',NULL)
+In congue. Etiam justo. Etiam pretium iaculis justo.','book',NULL,33,'2022-09-08 00:01:35.000',NULL,NULL,'2022-11-13 18:46:18.000','social-deduction','["puzzle","horror","trivia","party"]',NULL)
 ,(257,'Veribet','Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
@@ -39,7 +39,7 @@ Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','game',NULL,61,'2022-06-03 18:54:45.000',NULL,NULL,'2023-07-23 17:26:28.000','party','["puzzle","negotiation","historical","strategy"]',NULL)
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','book',NULL,61,'2022-06-03 18:54:45.000',NULL,NULL,'2023-07-23 17:26:28.000','party','["puzzle","negotiation","historical","strategy"]',NULL)
 ,(258,'Tampflex','Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
@@ -48,7 +48,7 @@ In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat n
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','game',NULL,48,'2020-09-09 06:23:10.000',NULL,NULL,'2022-05-08 10:39:27.000','hidden-role','["strategy","horror","party","cooperative"]',NULL)
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','book',NULL,48,'2020-09-09 06:23:10.000',NULL,NULL,'2022-05-08 10:39:27.000','hidden-role','["strategy","horror","party","cooperative"]',NULL)
 ,(259,'Pannier','Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
@@ -57,19 +57,19 @@ Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, sempe
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','game',NULL,92,'2020-07-28 14:18:26.000',NULL,NULL,'2022-03-07 15:54:26.000','party','["trivia","negotiation","tile-placement","sci-fi"]',NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','book',NULL,92,'2020-07-28 14:18:26.000',NULL,NULL,'2022-03-07 15:54:26.000','party','["trivia","negotiation","tile-placement","sci-fi"]',NULL)
 ,(260,'Bamity','Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
 Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','game',NULL,12,'2021-09-03 15:08:15.000',NULL,NULL,'2022-09-11 13:43:02.000','area-control','["adventure","dexterity","party","deck-building"]',NULL)
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','book',NULL,12,'2021-09-03 15:08:15.000',NULL,NULL,'2022-09-11 13:43:02.000','area-control','["adventure","dexterity","party","deck-building"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (261,'Bitchip','Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','game',NULL,72,'2020-02-14 01:10:41.000',NULL,NULL,'2022-12-08 22:00:37.000','abstract','["fantasy","worker-placement","dexterity","tile-placement"]',NULL)
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','book',NULL,72,'2020-02-14 01:10:41.000',NULL,NULL,'2022-12-08 22:00:37.000','abstract','["fantasy","worker-placement","dexterity","tile-placement"]',NULL)
 ,(262,'Fix San','Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
@@ -78,7 +78,7 @@ Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pu
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','game',NULL,32,'2022-07-31 15:07:28.000',NULL,NULL,'2023-03-31 21:28:44.000','roll-and-move','["educational","puzzle","mystery","card"]',NULL)
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','book',NULL,32,'2022-07-31 15:07:28.000',NULL,NULL,'2023-03-31 21:28:44.000','roll-and-move','["educational","puzzle","mystery","card"]',NULL)
 ,(263,'Regrant','Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
@@ -87,24 +87,24 @@ Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','game',NULL,13,'2020-08-16 03:35:59.000',NULL,NULL,'2022-04-20 03:55:07.000','worker-placement','["negotiation","card","cooperative","deck-building"]',NULL)
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','book',NULL,13,'2020-08-16 03:35:59.000',NULL,NULL,'2022-04-20 03:55:07.000','worker-placement','["negotiation","card","cooperative","deck-building"]',NULL)
 ,(264,'Konklux','Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','game',NULL,49,'2021-10-02 23:27:00.000',NULL,NULL,'2023-12-30 18:37:21.000','push-your-luck','["card","horror","negotiation","fantasy"]',NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','book',NULL,49,'2021-10-02 23:27:00.000',NULL,NULL,'2023-12-30 18:37:21.000','push-your-luck','["card","horror","negotiation","fantasy"]',NULL)
 ,(265,'Zontrax','Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','game',NULL,5,'2022-02-22 01:23:37.000',NULL,NULL,'2023-09-25 03:57:39.000','social-deduction','["cooperative","sports","sci-fi","horror"]',NULL)
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','book',NULL,5,'2022-02-22 01:23:37.000',NULL,NULL,'2023-09-25 03:57:39.000','social-deduction','["cooperative","sports","sci-fi","horror"]',NULL)
 ,(266,'Temp','Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','game',NULL,84,'2022-08-16 17:51:35.000',NULL,NULL,'2022-08-04 21:46:11.000','abstract','["war","horror","mystery","deck-building"]',NULL)
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','book',NULL,84,'2022-08-16 17:51:35.000',NULL,NULL,'2022-08-04 21:46:11.000','abstract','["war","horror","mystery","deck-building"]',NULL)
 ,(267,'Bitwolf','Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
@@ -113,14 +113,14 @@ Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est ris
 
 Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','game',NULL,32,'2021-05-25 19:24:49.000',NULL,NULL,'2022-05-19 09:17:25.000','deduction','["horror","card","sports","cooperative"]',NULL)
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','book',NULL,32,'2021-05-25 19:24:49.000',NULL,NULL,'2022-05-19 09:17:25.000','deduction','["horror","card","sports","cooperative"]',NULL)
 ,(268,'Tampflex','Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','game',NULL,38,'2022-11-24 04:43:59.000',NULL,NULL,'2022-07-22 05:49:48.000','memory','["horror","sports","trivia","war"]',NULL)
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','book',NULL,38,'2022-11-24 04:43:59.000',NULL,NULL,'2022-07-22 05:49:48.000','memory','["horror","sports","trivia","war"]',NULL)
 ,(269,'Cardify','In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
@@ -129,14 +129,14 @@ Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quis
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','game',NULL,88,'2022-06-20 11:28:44.000',NULL,NULL,'2022-05-03 02:15:46.000','racing','["deck-building","party","mystery","dexterity"]',NULL)
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','book',NULL,88,'2022-06-20 11:28:44.000',NULL,NULL,'2022-05-03 02:15:46.000','racing','["deck-building","party","mystery","dexterity"]',NULL)
 ,(270,'Zaam-Dox','Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','game',NULL,90,'2020-10-08 17:17:55.000',NULL,NULL,'2022-03-12 03:28:07.000','cooperative','["cooperative","deck-building","worker-placement","tile-placement"]',NULL)
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','book',NULL,90,'2020-10-08 17:17:55.000',NULL,NULL,'2022-03-12 03:28:07.000','cooperative','["cooperative","deck-building","worker-placement","tile-placement"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (271,'Gembucket','Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
@@ -147,20 +147,20 @@ Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','game',NULL,88,'2022-02-28 04:48:11.000',NULL,NULL,'2022-09-05 22:06:27.000','social-deduction','["adventure","tile-placement","trivia","puzzle"]',NULL)
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','book',NULL,88,'2022-02-28 04:48:11.000',NULL,NULL,'2022-09-05 22:06:27.000','social-deduction','["adventure","tile-placement","trivia","puzzle"]',NULL)
 ,(272,'Fintone','Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','game',NULL,37,'2021-02-21 09:54:03.000',NULL,NULL,'2023-07-15 12:20:16.000','roll-and-move','["adventure","educational","horror","party"]',NULL)
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','book',NULL,37,'2021-02-21 09:54:03.000',NULL,NULL,'2023-07-15 12:20:16.000','roll-and-move','["adventure","educational","horror","party"]',NULL)
 ,(273,'Mat Lam Tam','Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','game',NULL,49,'2021-01-21 09:43:54.000',NULL,NULL,'2023-07-31 22:52:06.000','','["adventure","worker-placement","sci-fi","trivia"]',NULL)
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','book',NULL,49,'2021-01-21 09:43:54.000',NULL,NULL,'2023-07-31 22:52:06.000','','["adventure","worker-placement","sci-fi","trivia"]',NULL)
 ,(274,'Bitchip','Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
 Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','game',NULL,12,'2020-03-05 22:07:44.000',NULL,NULL,'2023-06-10 09:36:17.000','negotiation','["horror","trivia","sports","negotiation"]',NULL)
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','book',NULL,12,'2020-03-05 22:07:44.000',NULL,NULL,'2023-06-10 09:36:17.000','negotiation','["horror","trivia","sports","negotiation"]',NULL)
 ,(275,'Hatity','Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
@@ -169,10 +169,10 @@ Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est ris
 
 Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','game',NULL,54,'2022-03-23 19:58:09.000',NULL,NULL,'2023-10-09 19:29:16.000','deck-building','["fantasy","puzzle","sci-fi","horror"]',NULL)
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','book',NULL,54,'2022-03-23 19:58:09.000',NULL,NULL,'2023-10-09 19:29:16.000','deck-building','["fantasy","puzzle","sci-fi","horror"]',NULL)
 ,(276,'Tin','Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','game',NULL,33,'2020-09-11 15:29:55.000',NULL,NULL,'2022-10-10 10:31:18.000','trivia','["negotiation","worker-placement","deck-building","dexterity"]',NULL)
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','book',NULL,33,'2020-09-11 15:29:55.000',NULL,NULL,'2022-10-10 10:31:18.000','trivia','["negotiation","worker-placement","deck-building","dexterity"]',NULL)
 ,(277,'Regrant','Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
@@ -181,24 +181,24 @@ Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pu
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','game',NULL,10,'2020-09-27 08:57:35.000',NULL,NULL,'2023-01-30 20:53:31.000','negotiation','["tile-placement","dexterity","sci-fi","party"]',NULL)
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','book',NULL,10,'2020-09-27 08:57:35.000',NULL,NULL,'2023-01-30 20:53:31.000','negotiation','["tile-placement","dexterity","sci-fi","party"]',NULL)
 ,(278,'Holdlamis','Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','game',NULL,74,'2020-12-06 08:43:30.000',NULL,NULL,'2023-08-18 18:21:34.000','word','["educational","deck-building","fantasy","card"]',NULL)
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','book',NULL,74,'2020-12-06 08:43:30.000',NULL,NULL,'2023-08-18 18:21:34.000','word','["educational","deck-building","fantasy","card"]',NULL)
 ,(279,'Home Ing','Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','game',NULL,36,'2022-03-25 00:38:36.000',NULL,NULL,'2023-06-06 12:30:12.000','party','["dexterity","puzzle","party","sci-fi"]',NULL)
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','book',NULL,36,'2022-03-25 00:38:36.000',NULL,NULL,'2023-06-06 12:30:12.000','party','["dexterity","puzzle","party","sci-fi"]',NULL)
 ,(280,'Ventosanzap','In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','game',NULL,65,'2021-05-27 13:06:36.000',NULL,NULL,'2023-06-11 10:56:50.000','exploration','["dexterity","educational","deck-building","puzzle"]',NULL)
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','book',NULL,65,'2021-05-27 13:06:36.000',NULL,NULL,'2023-06-11 10:56:50.000','exploration','["dexterity","educational","deck-building","puzzle"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (281,'Y-find','Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
@@ -207,17 +207,17 @@ Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luc
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','game',NULL,14,'2022-03-05 14:51:12.000',NULL,NULL,'2023-06-18 18:09:58.000','bluffing','["strategy","party","worker-placement","educational"]',NULL)
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','book',NULL,14,'2022-03-05 14:51:12.000',NULL,NULL,'2023-06-18 18:09:58.000','bluffing','["strategy","party","worker-placement","educational"]',NULL)
 ,(282,'Flowdesk','Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','game',NULL,1,'2021-01-25 05:34:28.000',NULL,NULL,'2022-01-11 03:04:36.000','tile-placement','["strategy","historical","sci-fi","war"]',NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','book',NULL,1,'2021-01-25 05:34:28.000',NULL,NULL,'2022-01-11 03:04:36.000','tile-placement','["strategy","historical","sci-fi","war"]',NULL)
 ,(283,'Flowdesk','Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','game',NULL,54,'2022-05-19 19:06:29.000',NULL,NULL,'2023-02-07 17:12:06.000','deck-building','["adventure","dexterity","negotiation","worker-placement"]',NULL)
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','book',NULL,54,'2022-05-19 19:06:29.000',NULL,NULL,'2023-02-07 17:12:06.000','deck-building','["adventure","dexterity","negotiation","worker-placement"]',NULL)
 ,(284,'Holdlamis','Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
@@ -226,7 +226,7 @@ Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','game',NULL,9,'2021-05-03 22:03:13.000',NULL,NULL,'2022-08-02 14:01:10.000','memory','["strategy","adventure","party","negotiation"]',NULL)
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','book',NULL,9,'2021-05-03 22:03:13.000',NULL,NULL,'2022-08-02 14:01:10.000','memory','["strategy","adventure","party","negotiation"]',NULL)
 ,(285,'Bamity','Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo.
@@ -235,32 +235,32 @@ In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','game',NULL,91,'2022-07-03 02:47:36.000',NULL,NULL,'2022-05-23 08:14:34.000','cooperative','["war","trivia","historical","educational"]',NULL)
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','book',NULL,91,'2022-07-03 02:47:36.000',NULL,NULL,'2022-05-23 08:14:34.000','cooperative','["war","trivia","historical","educational"]',NULL)
 ,(286,'Redhold','Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','game',NULL,34,'2022-08-07 02:06:30.000',NULL,NULL,'2022-01-15 09:57:39.000','exploration','["worker-placement","adventure","dexterity","tile-placement"]',NULL)
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','book',NULL,34,'2022-08-07 02:06:30.000',NULL,NULL,'2022-01-15 09:57:39.000','exploration','["worker-placement","adventure","dexterity","tile-placement"]',NULL)
 ,(287,'Hatity','Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','game',NULL,75,'2020-03-26 17:56:55.000',NULL,NULL,'2022-12-20 12:00:20.000','word','["tile-placement","deck-building","adventure","strategy"]',NULL)
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','book',NULL,75,'2020-03-26 17:56:55.000',NULL,NULL,'2022-12-20 12:00:20.000','word','["tile-placement","deck-building","adventure","strategy"]',NULL)
 ,(288,'Tin','Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','game',NULL,37,'2021-01-19 11:45:47.000',NULL,NULL,'2023-08-06 20:25:10.000','trivia','["mystery","party","sports","deck-building"]',NULL)
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','book',NULL,37,'2021-01-19 11:45:47.000',NULL,NULL,'2023-08-06 20:25:10.000','trivia','["mystery","party","sports","deck-building"]',NULL)
 ,(289,'Cookley','Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','game',NULL,20,'2022-04-28 13:26:44.000',NULL,NULL,'2023-03-28 18:07:23.000','roll-and-move','["war","party","fantasy","trivia"]',NULL)
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','book',NULL,20,'2022-04-28 13:26:44.000',NULL,NULL,'2023-03-28 18:07:23.000','roll-and-move','["war","party","fantasy","trivia"]',NULL)
 ,(290,'Konklux','Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','game',NULL,77,'2020-02-05 03:29:47.000',NULL,NULL,'2023-01-01 12:57:56.000','trivia','["strategy","party","war","tile-placement"]',NULL)
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','book',NULL,77,'2020-02-05 03:29:47.000',NULL,NULL,'2023-01-01 12:57:56.000','trivia','["strategy","party","war","tile-placement"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (291,'Hatity','Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
@@ -271,7 +271,7 @@ Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer al
 
 Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','game',NULL,55,'2021-01-05 06:39:36.000',NULL,NULL,'2023-11-14 06:32:06.000','trivia','["mystery","cooperative","card","adventure"]',NULL)
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','book',NULL,55,'2021-01-05 06:39:36.000',NULL,NULL,'2023-11-14 06:32:06.000','trivia','["mystery","cooperative","card","adventure"]',NULL)
 ,(631,NULL,'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.','product','383',60,'2020-05-16 22:04:40.000',NULL,NULL,'2023-09-06 20:15:23.000','missing parts','["economic","push-your-luck","exploration"]',NULL)
 ,(292,'Duobam','Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
@@ -281,24 +281,24 @@ Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, t
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','game',NULL,28,'2020-03-27 21:49:02.000',NULL,NULL,'2022-11-05 19:23:55.000','strategy','["party","negotiation","puzzle","fantasy"]',NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','book',NULL,28,'2020-03-27 21:49:02.000',NULL,NULL,'2022-11-05 19:23:55.000','strategy','["party","negotiation","puzzle","fantasy"]',NULL)
 ,(293,'Cookley','Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','game',NULL,34,'2020-10-30 08:38:27.000',NULL,NULL,'2023-12-11 09:33:49.000','roll-and-move','["negotiation","dexterity","card","tile-placement"]',NULL)
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','book',NULL,34,'2020-10-30 08:38:27.000',NULL,NULL,'2023-12-11 09:33:49.000','roll-and-move','["negotiation","dexterity","card","tile-placement"]',NULL)
 ,(294,'Cardify','Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','game',NULL,87,'2020-07-07 18:52:19.000',NULL,NULL,'2023-05-02 16:47:38.000','memory','["party","educational","horror","tile-placement"]',NULL)
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','book',NULL,87,'2020-07-07 18:52:19.000',NULL,NULL,'2023-05-02 16:47:38.000','memory','["party","educational","horror","tile-placement"]',NULL)
 ,(295,'Cookley','Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','game',NULL,85,'2022-04-14 13:42:10.000',NULL,NULL,'2023-12-08 03:55:35.000','tile-placement','["card","sci-fi","strategy","war"]',NULL)
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','book',NULL,85,'2022-04-14 13:42:10.000',NULL,NULL,'2023-12-08 03:55:35.000','tile-placement','["card","sci-fi","strategy","war"]',NULL)
 ,(296,'Tampflex','Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
@@ -307,24 +307,24 @@ Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','game',NULL,17,'2021-06-23 00:26:11.000',NULL,NULL,'2023-07-14 01:49:11.000','','["party","fantasy","educational","war"]',NULL)
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','book',NULL,17,'2021-06-23 00:26:11.000',NULL,NULL,'2023-07-14 01:49:11.000','','["party","fantasy","educational","war"]',NULL)
 ,(297,'Zathin','Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','game',NULL,47,'2020-03-25 16:21:37.000',NULL,NULL,'2023-11-14 17:05:10.000','negotiation','["card","party","horror","dexterity"]',NULL)
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','book',NULL,47,'2020-03-25 16:21:37.000',NULL,NULL,'2023-11-14 17:05:10.000','negotiation','["card","party","horror","dexterity"]',NULL)
 ,(298,'Sonair','Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','game',NULL,45,'2022-01-09 21:58:16.000',NULL,NULL,'2023-03-19 07:24:40.000','deduction','["educational","cooperative","trivia","negotiation"]',NULL)
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','book',NULL,45,'2022-01-09 21:58:16.000',NULL,NULL,'2023-03-19 07:24:40.000','deduction','["educational","cooperative","trivia","negotiation"]',NULL)
 ,(299,'Tempsoft','Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','game',NULL,9,'2021-11-28 09:47:04.000',NULL,NULL,'2022-02-26 06:11:27.000','racing','["worker-placement","horror","strategy","dexterity"]',NULL)
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','book',NULL,9,'2021-11-28 09:47:04.000',NULL,NULL,'2022-02-26 06:11:27.000','racing','["worker-placement","horror","strategy","dexterity"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (300,'Zaam-Dox','Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
@@ -335,31 +335,31 @@ Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue 
 
 Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','game',NULL,76,'2022-03-23 10:21:37.000',NULL,NULL,'2023-12-25 15:59:40.000','bluffing','["mystery","deck-building","historical","sports"]',NULL)
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','book',NULL,76,'2022-03-23 10:21:37.000',NULL,NULL,'2023-12-25 15:59:40.000','bluffing','["mystery","deck-building","historical","sports"]',NULL)
 ,(301,'Tampflex','Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','game',NULL,73,'2022-03-21 13:55:35.000',NULL,NULL,'2023-05-26 17:41:34.000','exploration','["strategy","puzzle","deck-building","horror"]',NULL)
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','book',NULL,73,'2022-03-21 13:55:35.000',NULL,NULL,'2023-05-26 17:41:34.000','exploration','["strategy","puzzle","deck-building","horror"]',NULL)
 ,(302,'Duobam','Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
 Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','game',NULL,57,'2021-03-28 08:19:17.000',NULL,NULL,'2022-08-04 22:33:52.000','','["sci-fi","deck-building","tile-placement","party"]',NULL)
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','book',NULL,57,'2021-03-28 08:19:17.000',NULL,NULL,'2022-08-04 22:33:52.000','','["sci-fi","deck-building","tile-placement","party"]',NULL)
 ,(303,'Temp','Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','game',NULL,53,'2022-04-10 19:06:36.000',NULL,NULL,'2022-06-30 00:35:40.000','bluffing','["fantasy","educational","party","tile-placement"]',NULL)
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','book',NULL,53,'2022-04-10 19:06:36.000',NULL,NULL,'2022-06-30 00:35:40.000','bluffing','["fantasy","educational","party","tile-placement"]',NULL)
 ,(304,'Solarbreeze','Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','game',NULL,50,'2020-02-12 19:57:49.000',NULL,NULL,'2023-12-30 10:23:42.000','roll-and-move','["deck-building","puzzle","worker-placement","mystery"]',NULL)
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','book',NULL,50,'2020-02-12 19:57:49.000',NULL,NULL,'2023-12-30 10:23:42.000','roll-and-move','["deck-building","puzzle","worker-placement","mystery"]',NULL)
 ,(655,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.','product','290',20,'2020-01-09 09:22:38.000',NULL,NULL,'2023-11-12 05:17:39.000','fair','["social-deduction","trivia","bluffing"]',NULL)
 ,(305,'Cardguard','Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
@@ -369,22 +369,22 @@ Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed 
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','game',NULL,50,'2022-07-28 02:16:13.000',NULL,NULL,'2022-06-24 04:47:36.000','negotiation','["party","cooperative","mystery","war"]',NULL)
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','book',NULL,50,'2022-07-28 02:16:13.000',NULL,NULL,'2022-06-24 04:47:36.000','negotiation','["party","cooperative","mystery","war"]',NULL)
 ,(306,'Overhold','Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','game',NULL,25,'2022-04-24 08:26:24.000',NULL,NULL,'2023-11-17 23:55:23.000','auction','["tile-placement","educational","war","worker-placement"]',NULL)
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','book',NULL,25,'2022-04-24 08:26:24.000',NULL,NULL,'2023-11-17 23:55:23.000','auction','["tile-placement","educational","war","worker-placement"]',NULL)
 ,(307,'Pannier','In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','game',NULL,41,'2022-12-13 02:02:31.000',NULL,NULL,'2022-04-21 16:19:15.000','worker-placement','["worker-placement","card","war","sci-fi"]',NULL)
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','book',NULL,41,'2022-12-13 02:02:31.000',NULL,NULL,'2022-04-21 16:19:15.000','worker-placement','["worker-placement","card","war","sci-fi"]',NULL)
 ,(308,'Cookley','Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','game',NULL,54,'2022-08-19 01:45:28.000',NULL,NULL,'2023-07-28 15:14:59.000','negotiation','["strategy","deck-building","sports","sci-fi"]',NULL)
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','book',NULL,54,'2022-08-19 01:45:28.000',NULL,NULL,'2023-07-28 15:14:59.000','negotiation','["strategy","deck-building","sports","sci-fi"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (309,'Flexidy','In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
@@ -395,14 +395,14 @@ Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vi
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Phasellus in felis. Donec semper sapien a libero. Nam dui.','game',NULL,67,'2021-04-23 15:48:58.000',NULL,NULL,'2023-11-22 13:53:57.000','trivia','["dexterity","adventure","worker-placement","sci-fi"]',NULL)
+Phasellus in felis. Donec semper sapien a libero. Nam dui.','book',NULL,67,'2021-04-23 15:48:58.000',NULL,NULL,'2023-11-22 13:53:57.000','trivia','["dexterity","adventure","worker-placement","sci-fi"]',NULL)
 ,(310,'Tempsoft','Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','game',NULL,6,'2020-11-08 13:00:50.000',NULL,NULL,'2023-04-28 12:16:57.000','party','["mystery","historical","war","sports"]',NULL)
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','book',NULL,6,'2020-11-08 13:00:50.000',NULL,NULL,'2023-04-28 12:16:57.000','party','["mystery","historical","war","sports"]',NULL)
 ,(311,'Regrant','Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
@@ -411,7 +411,7 @@ Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','game',NULL,11,'2021-03-07 10:46:31.000',NULL,NULL,'2023-10-09 17:40:04.000','','["cooperative","educational","strategy","deck-building"]',NULL)
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','book',NULL,11,'2021-03-07 10:46:31.000',NULL,NULL,'2023-10-09 17:40:04.000','','["cooperative","educational","strategy","deck-building"]',NULL)
 ,(312,'Alphazap','Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
@@ -420,24 +420,24 @@ Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','game',NULL,15,'2022-04-07 17:34:48.000',NULL,NULL,'2023-05-22 13:41:52.000','push-your-luck','["puzzle","strategy","trivia","sci-fi"]',NULL)
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','book',NULL,15,'2022-04-07 17:34:48.000',NULL,NULL,'2023-05-22 13:41:52.000','push-your-luck','["puzzle","strategy","trivia","sci-fi"]',NULL)
 ,(313,'Tres-Zap','Fusce consequat. Nulla nisl. Nunc nisl.
 
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
 In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','game',NULL,29,'2021-12-15 19:34:08.000',NULL,NULL,'2022-02-21 10:07:00.000','word','["strategy","tile-placement","educational","fantasy"]',NULL)
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','book',NULL,29,'2021-12-15 19:34:08.000',NULL,NULL,'2022-02-21 10:07:00.000','word','["strategy","tile-placement","educational","fantasy"]',NULL)
 ,(314,'Keylex','Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','game',NULL,43,'2021-08-16 06:11:37.000',NULL,NULL,'2023-01-27 11:01:33.000','area-control','["fantasy","dexterity","educational","cooperative"]',NULL)
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','book',NULL,43,'2021-08-16 06:11:37.000',NULL,NULL,'2023-01-27 11:01:33.000','area-control','["fantasy","dexterity","educational","cooperative"]',NULL)
 ,(315,'Stronghold','In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','game',NULL,46,'2022-01-08 14:08:08.000',NULL,NULL,'2022-02-19 05:54:59.000','social-deduction','["tile-placement","horror","educational","fantasy"]',NULL)
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','book',NULL,46,'2022-01-08 14:08:08.000',NULL,NULL,'2022-02-19 05:54:59.000','social-deduction','["tile-placement","horror","educational","fantasy"]',NULL)
 ,(316,'Greenlam','Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
@@ -446,14 +446,14 @@ Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non m
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','game',NULL,5,'2020-08-28 12:59:09.000',NULL,NULL,'2023-11-09 23:14:26.000','party','["historical","sci-fi","cooperative","card"]',NULL)
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','book',NULL,5,'2020-08-28 12:59:09.000',NULL,NULL,'2023-11-09 23:14:26.000','party','["historical","sci-fi","cooperative","card"]',NULL)
 ,(317,'Kanlam','Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','game',NULL,19,'2020-10-27 11:56:37.000',NULL,NULL,'2023-10-12 03:11:51.000','deduction','["dexterity","worker-placement","fantasy","educational"]',NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','book',NULL,19,'2020-10-27 11:56:37.000',NULL,NULL,'2023-10-12 03:11:51.000','deduction','["dexterity","worker-placement","fantasy","educational"]',NULL)
 ,(318,'Regrant','Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
@@ -462,21 +462,21 @@ Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit u
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','game',NULL,93,'2022-02-24 10:57:53.000',NULL,NULL,'2022-02-01 20:11:21.000','party','["dexterity","educational","strategy","fantasy"]',NULL)
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','book',NULL,93,'2022-02-24 10:57:53.000',NULL,NULL,'2022-02-01 20:11:21.000','party','["dexterity","educational","strategy","fantasy"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (319,'Trippledex','Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','game',NULL,84,'2021-03-26 18:45:15.000',NULL,NULL,'2022-06-14 12:25:08.000','economic','["worker-placement","historical","educational","party"]',NULL)
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','book',NULL,84,'2021-03-26 18:45:15.000',NULL,NULL,'2022-06-14 12:25:08.000','economic','["worker-placement","historical","educational","party"]',NULL)
 ,(320,'Holdlamis','Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','game',NULL,46,'2021-11-28 22:47:28.000',NULL,NULL,'2022-11-09 02:31:18.000','','["mystery","card","cooperative","war"]',NULL)
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','book',NULL,46,'2021-11-28 22:47:28.000',NULL,NULL,'2022-11-09 02:31:18.000','','["mystery","card","cooperative","war"]',NULL)
 ,(321,'Fintone','Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','game',NULL,48,'2022-11-21 08:52:57.000',NULL,NULL,'2022-06-19 23:59:44.000','racing','["adventure","deck-building","fantasy","educational"]',NULL)
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','book',NULL,48,'2022-11-21 08:52:57.000',NULL,NULL,'2022-06-19 23:59:44.000','racing','["adventure","deck-building","fantasy","educational"]',NULL)
 ,(322,'Kanlam','In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','game',NULL,45,'2022-02-02 05:05:32.000',NULL,NULL,'2023-03-31 05:46:00.000','dexterity','["educational","adventure","strategy","historical"]',NULL)
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','book',NULL,45,'2022-02-02 05:05:32.000',NULL,NULL,'2023-03-31 05:46:00.000','dexterity','["educational","adventure","strategy","historical"]',NULL)
 ,(323,'Daltfresh','Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
@@ -485,31 +485,31 @@ Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit u
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','game',NULL,53,'2020-09-03 23:28:11.000',NULL,NULL,'2023-02-06 03:21:17.000','party','["horror","card","dexterity","sports"]',NULL)
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','book',NULL,53,'2020-09-03 23:28:11.000',NULL,NULL,'2023-02-06 03:21:17.000','party','["horror","card","dexterity","sports"]',NULL)
 ,(324,'Viva','Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','game',NULL,16,'2020-12-15 06:23:46.000',NULL,NULL,'2022-05-04 12:28:40.000','racing','["educational","card","tile-placement","trivia"]',NULL)
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','book',NULL,16,'2020-12-15 06:23:46.000',NULL,NULL,'2022-05-04 12:28:40.000','racing','["educational","card","tile-placement","trivia"]',NULL)
 ,(325,'Fix San','Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','game',NULL,58,'2022-06-06 06:01:36.000',NULL,NULL,'2023-09-12 11:27:14.000','hidden-role','["historical","adventure","sports","cooperative"]',NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','book',NULL,58,'2022-06-06 06:01:36.000',NULL,NULL,'2023-09-12 11:27:14.000','hidden-role','["historical","adventure","sports","cooperative"]',NULL)
 ,(326,'Tempsoft','Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
 Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','game',NULL,79,'2020-12-23 04:13:40.000',NULL,NULL,'2023-06-03 08:36:26.000','push-your-luck','["adventure","historical","dexterity","trivia"]',NULL)
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','book',NULL,79,'2020-12-23 04:13:40.000',NULL,NULL,'2023-06-03 08:36:26.000','push-your-luck','["adventure","historical","dexterity","trivia"]',NULL)
 ,(327,'Veribet','Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','game',NULL,74,'2020-06-22 05:12:29.000',NULL,NULL,'2023-02-10 04:07:07.000','area-control','["mystery","educational","deck-building","cooperative"]',NULL)
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','book',NULL,74,'2020-06-22 05:12:29.000',NULL,NULL,'2023-02-10 04:07:07.000','area-control','["mystery","educational","deck-building","cooperative"]',NULL)
 ,(328,'Tempsoft','Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
@@ -518,57 +518,57 @@ Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','game',NULL,69,'2020-01-08 16:29:50.000',NULL,NULL,'2023-11-17 00:09:36.000','economic','["negotiation","war","dexterity","worker-placement"]',NULL)
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','book',NULL,69,'2020-01-08 16:29:50.000',NULL,NULL,'2023-11-17 00:09:36.000','economic','["negotiation","war","dexterity","worker-placement"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (329,'Latlux','Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','game',NULL,83,'2020-04-19 14:22:12.000',NULL,NULL,'2023-07-29 22:04:17.000','dexterity','["cooperative","educational","strategy","adventure"]',NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','book',NULL,83,'2020-04-19 14:22:12.000',NULL,NULL,'2023-07-29 22:04:17.000','dexterity','["cooperative","educational","strategy","adventure"]',NULL)
 ,(330,'Sub-Ex','Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
 Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','game',NULL,56,'2022-03-15 19:20:28.000',NULL,NULL,'2023-01-03 00:32:01.000','deduction','["historical","worker-placement","adventure","cooperative"]',NULL)
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','book',NULL,56,'2022-03-15 19:20:28.000',NULL,NULL,'2023-01-03 00:32:01.000','deduction','["historical","worker-placement","adventure","cooperative"]',NULL)
 ,(331,'Hatity','Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','game',NULL,99,'2021-08-02 09:54:19.000',NULL,NULL,'2022-05-05 11:12:53.000','roll-and-move','["puzzle","negotiation","card","fantasy"]',NULL)
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','book',NULL,99,'2021-08-02 09:54:19.000',NULL,NULL,'2022-05-05 11:12:53.000','roll-and-move','["puzzle","negotiation","card","fantasy"]',NULL)
 ,(332,'Zontrax','In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','game',NULL,63,'2020-05-29 20:30:02.000',NULL,NULL,'2023-11-10 13:33:25.000','hidden-role','["trivia","tile-placement","historical","card"]',NULL)
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','book',NULL,63,'2020-05-29 20:30:02.000',NULL,NULL,'2023-11-10 13:33:25.000','hidden-role','["trivia","tile-placement","historical","card"]',NULL)
 ,(333,'Fix San','Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','game',NULL,60,'2021-07-28 12:23:00.000',NULL,NULL,'2022-09-28 16:59:11.000','strategy','["mystery","historical","negotiation","card"]',NULL)
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','book',NULL,60,'2021-07-28 12:23:00.000',NULL,NULL,'2022-09-28 16:59:11.000','strategy','["mystery","historical","negotiation","card"]',NULL)
 ,(334,'Andalax','Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','game',NULL,72,'2021-10-21 09:16:09.000',NULL,NULL,'2022-10-21 03:02:47.000','strategy','["deck-building","card","historical","war"]',NULL)
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','book',NULL,72,'2021-10-21 09:16:09.000',NULL,NULL,'2022-10-21 03:02:47.000','strategy','["deck-building","card","historical","war"]',NULL)
 ,(335,'Alpha','Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','game',NULL,24,'2020-04-04 06:10:10.000',NULL,NULL,'2023-11-23 19:31:14.000','racing','["sports","dexterity","historical","puzzle"]',NULL)
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','book',NULL,24,'2020-04-04 06:10:10.000',NULL,NULL,'2023-11-23 19:31:14.000','racing','["sports","dexterity","historical","puzzle"]',NULL)
 ,(336,'Domainer','In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
 Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','game',NULL,7,'2020-11-08 22:34:24.000',NULL,NULL,'2023-09-06 09:01:46.000','push-your-luck','["negotiation","strategy","puzzle","sports"]',NULL)
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','book',NULL,7,'2020-11-08 22:34:24.000',NULL,NULL,'2023-09-06 09:01:46.000','push-your-luck','["negotiation","strategy","puzzle","sports"]',NULL)
 ,(337,'Fixflex','Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','game',NULL,31,'2021-10-07 12:13:06.000',NULL,NULL,'2022-08-30 14:41:52.000','negotiation','["puzzle","strategy","horror","card"]',NULL)
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','book',NULL,31,'2021-10-07 12:13:06.000',NULL,NULL,'2022-08-30 14:41:52.000','negotiation','["puzzle","strategy","horror","card"]',NULL)
 ,(338,'Bitwolf','Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','game',NULL,32,'2020-10-28 14:44:22.000',NULL,NULL,'2022-09-17 00:19:47.000','card-drafting','["horror","cooperative","trivia","adventure"]',NULL)
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','book',NULL,32,'2020-10-28 14:44:22.000',NULL,NULL,'2022-09-17 00:19:47.000','card-drafting','["horror","cooperative","trivia","adventure"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (339,'Trippledex','Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -579,7 +579,7 @@ Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condim
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','game',NULL,27,'2022-03-20 22:34:25.000',NULL,NULL,'2023-07-31 20:36:13.000','exploration','["dexterity","educational","tile-placement","historical"]',NULL)
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','book',NULL,27,'2022-03-20 22:34:25.000',NULL,NULL,'2023-07-31 20:36:13.000','exploration','["dexterity","educational","tile-placement","historical"]',NULL)
 ,(340,'Tampflex','Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
@@ -588,66 +588,66 @@ Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','game',NULL,25,'2021-07-01 16:02:10.000',NULL,NULL,'2022-02-23 23:27:35.000','hidden-role','["sci-fi","mystery","puzzle","negotiation"]',NULL)
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','book',NULL,25,'2021-07-01 16:02:10.000',NULL,NULL,'2022-02-23 23:27:35.000','hidden-role','["sci-fi","mystery","puzzle","negotiation"]',NULL)
 ,(341,'Transcof','In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','game',NULL,69,'2022-07-27 14:17:58.000',NULL,NULL,'2022-04-03 09:50:28.000','card-drafting','["strategy","historical","mystery","deck-building"]',NULL)
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','book',NULL,69,'2022-07-27 14:17:58.000',NULL,NULL,'2022-04-03 09:50:28.000','card-drafting','["strategy","historical","mystery","deck-building"]',NULL)
 ,(342,'Regrant','Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','game',NULL,29,'2022-03-02 09:41:38.000',NULL,NULL,'2023-05-17 19:26:17.000','hidden-role','["trivia","sports","sci-fi","deck-building"]',NULL)
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','book',NULL,29,'2022-03-02 09:41:38.000',NULL,NULL,'2023-05-17 19:26:17.000','hidden-role','["trivia","sports","sci-fi","deck-building"]',NULL)
 ,(343,'Overhold','Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','game',NULL,64,'2021-11-07 03:53:36.000',NULL,NULL,'2022-12-15 20:59:05.000','worker-placement','["cooperative","adventure","educational","tile-placement"]',NULL)
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','book',NULL,64,'2021-11-07 03:53:36.000',NULL,NULL,'2022-12-15 20:59:05.000','worker-placement','["cooperative","adventure","educational","tile-placement"]',NULL)
 ,(344,'Flexidy','Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','game',NULL,53,'2021-05-20 14:53:12.000',NULL,NULL,'2023-08-22 08:20:43.000','memory','["horror","war","mystery","worker-placement"]',NULL)
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','book',NULL,53,'2021-05-20 14:53:12.000',NULL,NULL,'2023-08-22 08:20:43.000','memory','["horror","war","mystery","worker-placement"]',NULL)
 ,(345,'Domainer','Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','game',NULL,97,'2020-08-29 23:06:56.000',NULL,NULL,'2023-10-05 06:34:27.000','bluffing','["trivia","horror","mystery","party"]',NULL)
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','book',NULL,97,'2020-08-29 23:06:56.000',NULL,NULL,'2023-10-05 06:34:27.000','bluffing','["trivia","horror","mystery","party"]',NULL)
 ,(346,'It','Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','game',NULL,83,'2020-01-05 03:00:27.000',NULL,NULL,'2022-07-20 14:32:56.000','word','["sci-fi","trivia","negotiation","worker-placement"]',NULL)
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','book',NULL,83,'2020-01-05 03:00:27.000',NULL,NULL,'2022-07-20 14:32:56.000','word','["sci-fi","trivia","negotiation","worker-placement"]',NULL)
 ,(347,'Kanlam','Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','game',NULL,79,'2022-05-11 02:03:53.000',NULL,NULL,'2023-10-26 11:03:11.000','abstract','["sports","puzzle","cooperative","dexterity"]',NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','book',NULL,79,'2022-05-11 02:03:53.000',NULL,NULL,'2023-10-26 11:03:11.000','abstract','["sports","puzzle","cooperative","dexterity"]',NULL)
 ,(348,'Opela','Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.
 
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','game',NULL,85,'2020-09-23 13:59:58.000',NULL,NULL,'2023-04-08 13:11:48.000','auction','["dexterity","card","deck-building","war"]',NULL)
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','book',NULL,85,'2020-09-23 13:59:58.000',NULL,NULL,'2023-04-08 13:11:48.000','auction','["dexterity","card","deck-building","war"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (349,'Gembucket','Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','game',NULL,27,'2021-05-27 13:46:49.000',NULL,NULL,'2023-12-17 05:32:46.000','push-your-luck','["tile-placement","educational","sci-fi","dexterity"]',NULL)
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','book',NULL,27,'2021-05-27 13:46:49.000',NULL,NULL,'2023-12-17 05:32:46.000','push-your-luck','["tile-placement","educational","sci-fi","dexterity"]',NULL)
 ,(350,'Veribet','Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Phasellus in felis. Donec semper sapien a libero. Nam dui.','game',NULL,93,'2022-10-08 20:59:39.000',NULL,NULL,'2023-01-07 21:42:44.000','push-your-luck','["dexterity","adventure","war","deck-building"]',NULL)
+Phasellus in felis. Donec semper sapien a libero. Nam dui.','book',NULL,93,'2022-10-08 20:59:39.000',NULL,NULL,'2023-01-07 21:42:44.000','push-your-luck','["dexterity","adventure","war","deck-building"]',NULL)
 ,(351,'Trippledex','Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','game',NULL,52,'2020-11-25 22:50:49.000',NULL,NULL,'2023-01-21 18:12:24.000','card-drafting','["puzzle","war","historical","deck-building"]',NULL)
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','book',NULL,52,'2020-11-25 22:50:49.000',NULL,NULL,'2023-01-21 18:12:24.000','card-drafting','["puzzle","war","historical","deck-building"]',NULL)
 ,(352,'Regrant','Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.
@@ -656,33 +656,33 @@ Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttito
 
 In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','game',NULL,69,'2021-05-23 10:12:37.000',NULL,NULL,'2023-08-14 18:12:22.000','trivia','["puzzle","trivia","war","educational"]',NULL)
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','book',NULL,69,'2021-05-23 10:12:37.000',NULL,NULL,'2023-08-14 18:12:22.000','trivia','["puzzle","trivia","war","educational"]',NULL)
 ,(353,'Zaam-Dox','Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','game',NULL,34,'2020-01-31 00:08:26.000',NULL,NULL,'2022-05-08 06:32:12.000','abstract','["sports","adventure","tile-placement","negotiation"]',NULL)
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','book',NULL,34,'2020-01-31 00:08:26.000',NULL,NULL,'2022-05-08 06:32:12.000','abstract','["sports","adventure","tile-placement","negotiation"]',NULL)
 ,(354,'Voltsillam','Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','game',NULL,99,'2020-01-11 14:22:03.000',NULL,NULL,'2022-01-28 00:42:43.000','abstract','["cooperative","sports","educational","mystery"]',NULL)
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','book',NULL,99,'2020-01-11 14:22:03.000',NULL,NULL,'2022-01-28 00:42:43.000','abstract','["cooperative","sports","educational","mystery"]',NULL)
 ,(355,'Y-Solowarm','Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','game',NULL,46,'2021-05-27 02:24:17.000',NULL,NULL,'2022-02-18 23:31:44.000','push-your-luck','["mystery","war","strategy","deck-building"]',NULL)
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','book',NULL,46,'2021-05-27 02:24:17.000',NULL,NULL,'2022-02-18 23:31:44.000','push-your-luck','["mystery","war","strategy","deck-building"]',NULL)
 ,(356,'Span','Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','game',NULL,43,'2022-12-22 00:03:25.000',NULL,NULL,'2023-08-23 02:41:59.000','worker-placement','["trivia","adventure","deck-building","mystery"]',NULL)
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','book',NULL,43,'2022-12-22 00:03:25.000',NULL,NULL,'2023-08-23 02:41:59.000','worker-placement','["trivia","adventure","deck-building","mystery"]',NULL)
 ,(357,'Asoka','Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','game',NULL,71,'2021-06-26 13:44:19.000',NULL,NULL,'2023-10-18 14:40:05.000','hidden-role','["educational","worker-placement","puzzle","cooperative"]',NULL)
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','book',NULL,71,'2021-06-26 13:44:19.000',NULL,NULL,'2023-10-18 14:40:05.000','hidden-role','["educational","worker-placement","puzzle","cooperative"]',NULL)
 ,(358,'Matsoft','Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','game',NULL,93,'2020-10-30 16:53:39.000',NULL,NULL,'2023-06-01 02:56:04.000','push-your-luck','["fantasy","cooperative","deck-building","trivia"]',NULL)
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','book',NULL,93,'2020-10-30 16:53:39.000',NULL,NULL,'2023-06-01 02:56:04.000','push-your-luck','["fantasy","cooperative","deck-building","trivia"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (359,'Stronghold','In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
@@ -693,7 +693,7 @@ Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat 
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','game',NULL,7,'2020-09-07 05:37:07.000',NULL,NULL,'2022-03-27 20:53:12.000','bluffing','["historical","mystery","sci-fi","strategy"]',NULL)
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','book',NULL,7,'2020-09-07 05:37:07.000',NULL,NULL,'2022-03-27 20:53:12.000','bluffing','["historical","mystery","sci-fi","strategy"]',NULL)
 ,(360,'Namfix','Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
 Sed ante. Vivamus tortor. Duis mattis egestas metus.
@@ -702,11 +702,11 @@ Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque liber
 
 Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','game',NULL,11,'2020-01-22 15:38:11.000',NULL,NULL,'2022-02-04 11:52:16.000','abstract','["war","educational","trivia","dexterity"]',NULL)
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','book',NULL,11,'2020-01-22 15:38:11.000',NULL,NULL,'2022-02-04 11:52:16.000','abstract','["war","educational","trivia","dexterity"]',NULL)
 ,(361,'Tres-Zap','In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','game',NULL,76,'2021-08-08 12:09:50.000',NULL,NULL,'2022-06-28 07:38:07.000','dexterity','["historical","negotiation","worker-placement","dexterity"]',NULL)
-,(1837,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','572',59,'2022-12-14 03:14:34.000',NULL,'game','2022-05-14 22:53:57.000',NULL,NULL,NULL)
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','book',NULL,76,'2021-08-08 12:09:50.000',NULL,NULL,'2022-06-28 07:38:07.000','dexterity','["historical","negotiation","worker-placement","dexterity"]',NULL)
+,(1837,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','572',59,'2022-12-14 03:14:34.000',NULL,'book','2022-05-14 22:53:57.000',NULL,NULL,NULL)
 ,(362,'Duobam','Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -715,17 +715,17 @@ Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','game',NULL,67,'2021-04-19 22:56:31.000',NULL,NULL,'2023-05-24 23:25:47.000','dexterity','["educational","trivia","party","card"]',NULL)
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','book',NULL,67,'2021-04-19 22:56:31.000',NULL,NULL,'2023-05-24 23:25:47.000','dexterity','["educational","trivia","party","card"]',NULL)
 ,(363,'Andalax','Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','game',NULL,46,'2022-09-17 12:09:39.000',NULL,NULL,'2022-09-11 14:43:39.000','social-deduction','["dexterity","negotiation","historical","sports"]',NULL)
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','book',NULL,46,'2022-09-17 12:09:39.000',NULL,NULL,'2022-09-11 14:43:39.000','social-deduction','["dexterity","negotiation","historical","sports"]',NULL)
 ,(364,'Alpha','In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','game',NULL,98,'2020-05-11 22:33:07.000',NULL,NULL,'2022-10-12 17:37:06.000','bluffing','["mystery","adventure","dexterity","horror"]',NULL)
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','book',NULL,98,'2020-05-11 22:33:07.000',NULL,NULL,'2022-10-12 17:37:06.000','bluffing','["mystery","adventure","dexterity","horror"]',NULL)
 ,(365,'Span','Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
@@ -734,14 +734,14 @@ Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci
 
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','game',NULL,90,'2022-07-16 05:54:09.000',NULL,NULL,'2023-08-10 20:28:10.000','cooperative','["war","fantasy","deck-building","cooperative"]',NULL)
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','book',NULL,90,'2022-07-16 05:54:09.000',NULL,NULL,'2023-08-10 20:28:10.000','cooperative','["war","fantasy","deck-building","cooperative"]',NULL)
 ,(366,'Opela','In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','game',NULL,56,'2022-03-13 15:32:53.000',NULL,NULL,'2022-09-05 21:11:15.000','deck-building','["party","strategy","worker-placement","fantasy"]',NULL)
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','book',NULL,56,'2022-03-13 15:32:53.000',NULL,NULL,'2022-09-05 21:11:15.000','deck-building','["party","strategy","worker-placement","fantasy"]',NULL)
 ,(367,'Biodex','Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
@@ -750,22 +750,22 @@ Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','game',NULL,44,'2020-06-26 23:16:20.000',NULL,NULL,'2023-03-27 19:32:30.000','negotiation','["strategy","tile-placement","war","sci-fi"]',NULL)
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','book',NULL,44,'2020-06-26 23:16:20.000',NULL,NULL,'2023-03-27 19:32:30.000','negotiation','["strategy","tile-placement","war","sci-fi"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (368,'Duobam','Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','game',NULL,45,'2021-03-17 14:17:17.000',NULL,NULL,'2023-04-01 17:59:48.000','worker-placement','["party","deck-building","mystery","fantasy"]',NULL)
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','book',NULL,45,'2021-03-17 14:17:17.000',NULL,NULL,'2023-04-01 17:59:48.000','worker-placement','["party","deck-building","mystery","fantasy"]',NULL)
 ,(369,'Stim','Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','game',NULL,66,'2021-02-26 18:55:50.000',NULL,NULL,'2023-06-02 09:39:10.000','push-your-luck','["worker-placement","deck-building","horror","sports"]',NULL)
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','book',NULL,66,'2021-02-26 18:55:50.000',NULL,NULL,'2023-06-02 09:39:10.000','push-your-luck','["worker-placement","deck-building","horror","sports"]',NULL)
 ,(370,'Fintone','Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','game',NULL,61,'2021-05-12 13:36:49.000',NULL,NULL,'2023-11-22 18:09:15.000','racing','["cooperative","fantasy","war","party"]',NULL)
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','book',NULL,61,'2021-05-12 13:36:49.000',NULL,NULL,'2023-11-22 18:09:15.000','racing','["cooperative","fantasy","war","party"]',NULL)
 ,(371,'Alphazap','Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
@@ -774,10 +774,10 @@ Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turp
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','game',NULL,96,'2020-07-30 02:01:37.000',NULL,NULL,'2023-12-08 08:25:56.000','auction','["trivia","card","worker-placement","adventure"]',NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','book',NULL,96,'2020-07-30 02:01:37.000',NULL,NULL,'2023-12-08 08:25:56.000','auction','["trivia","card","worker-placement","adventure"]',NULL)
 ,(372,'Subin','In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','game',NULL,15,'2022-12-27 06:45:10.000',NULL,NULL,'2023-10-26 10:10:08.000','strategy','["tile-placement","cooperative","adventure","fantasy"]',NULL)
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','book',NULL,15,'2022-12-27 06:45:10.000',NULL,NULL,'2023-10-26 10:10:08.000','strategy','["tile-placement","cooperative","adventure","fantasy"]',NULL)
 ,(373,'Alphazap','Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
@@ -786,7 +786,7 @@ Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum pri
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
-In congue. Etiam justo. Etiam pretium iaculis justo.','game',NULL,64,'2020-05-20 18:27:31.000',NULL,NULL,'2023-03-23 18:57:07.000','roll-and-move','["deck-building","party","war","mystery"]',NULL)
+In congue. Etiam justo. Etiam pretium iaculis justo.','book',NULL,64,'2020-05-20 18:27:31.000',NULL,NULL,'2023-03-23 18:57:07.000','roll-and-move','["deck-building","party","war","mystery"]',NULL)
 ,(374,'Alphazap','Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.
@@ -795,20 +795,20 @@ Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttito
 
 In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','game',NULL,53,'2022-12-20 13:12:34.000',NULL,NULL,'2022-04-22 17:06:15.000','','["worker-placement","war","historical","dexterity"]',NULL)
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','book',NULL,53,'2022-12-20 13:12:34.000',NULL,NULL,'2022-04-22 17:06:15.000','','["worker-placement","war","historical","dexterity"]',NULL)
 ,(400,'Domainer','Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','game',NULL,12,'2021-05-13 02:28:56.000',NULL,NULL,'2023-11-12 20:40:50.000','area-control','["cooperative","tile-placement","adventure","party"]',NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','book',NULL,12,'2021-05-13 02:28:56.000',NULL,NULL,'2023-11-12 20:40:50.000','area-control','["cooperative","tile-placement","adventure","party"]',NULL)
 ,(375,'Gembucket','In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','game',NULL,13,'2022-03-04 14:20:06.000',NULL,NULL,'2022-12-15 09:47:19.000','hidden-role','["educational","dexterity","tile-placement","puzzle"]',NULL)
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','book',NULL,13,'2022-03-04 14:20:06.000',NULL,NULL,'2022-12-15 09:47:19.000','hidden-role','["educational","dexterity","tile-placement","puzzle"]',NULL)
 ,(376,'Opela','Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','game',NULL,19,'2022-05-14 07:04:29.000',NULL,NULL,'2022-02-23 13:47:38.000','deduction','["historical","sports","fantasy","tile-placement"]',NULL)
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','book',NULL,19,'2022-05-14 07:04:29.000',NULL,NULL,'2022-02-23 13:47:38.000','deduction','["historical","sports","fantasy","tile-placement"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (377,'Y-Solowarm','In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
@@ -819,7 +819,7 @@ Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','game',NULL,89,'2020-05-06 17:06:58.000',NULL,NULL,'2022-05-31 17:07:38.000','cooperative','["sports","card","worker-placement","dexterity"]',NULL)
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','book',NULL,89,'2020-05-06 17:06:58.000',NULL,NULL,'2022-05-31 17:07:38.000','cooperative','["sports","card","worker-placement","dexterity"]',NULL)
 ,(378,'Kanlam','Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
@@ -828,19 +828,19 @@ Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luc
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','game',NULL,70,'2021-05-20 05:52:12.000',NULL,NULL,'2022-06-09 01:34:10.000','','["dexterity","horror","war","adventure"]',NULL)
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','book',NULL,70,'2021-05-20 05:52:12.000',NULL,NULL,'2022-06-09 01:34:10.000','','["dexterity","horror","war","adventure"]',NULL)
 ,(379,'Stronghold','Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','game',NULL,6,'2020-06-23 04:27:03.000',NULL,NULL,'2022-02-11 19:12:04.000','memory','["trivia","cooperative","dexterity","educational"]',NULL)
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','book',NULL,6,'2020-06-23 04:27:03.000',NULL,NULL,'2022-02-11 19:12:04.000','memory','["trivia","cooperative","dexterity","educational"]',NULL)
 ,(380,'Opela','Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','game',NULL,63,'2021-01-01 19:38:31.000',NULL,NULL,'2022-06-03 16:43:05.000','worker-placement','["sports","negotiation","dexterity","mystery"]',NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','book',NULL,63,'2021-01-01 19:38:31.000',NULL,NULL,'2022-06-03 16:43:05.000','worker-placement','["sports","negotiation","dexterity","mystery"]',NULL)
 ,(381,'Vagram','Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
@@ -849,7 +849,7 @@ Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed 
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','game',NULL,97,'2021-12-06 15:31:10.000',NULL,NULL,'2023-04-06 19:34:14.000','exploration','["fantasy","party","strategy","horror"]',NULL)
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','book',NULL,97,'2021-12-06 15:31:10.000',NULL,NULL,'2023-04-06 19:34:14.000','exploration','["fantasy","party","strategy","horror"]',NULL)
 ,(382,'Fix San','Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
 Sed ante. Vivamus tortor. Duis mattis egestas metus.
@@ -858,10 +858,10 @@ Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque liber
 
 Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','game',NULL,2,'2021-02-11 22:36:36.000',NULL,NULL,'2023-08-06 00:45:05.000','auction','["strategy","tile-placement","puzzle","sports"]',NULL)
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','book',NULL,2,'2021-02-11 22:36:36.000',NULL,NULL,'2023-08-06 00:45:05.000','auction','["strategy","tile-placement","puzzle","sports"]',NULL)
 ,(383,'Aerified','Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','game',NULL,30,'2021-09-12 23:53:21.000',NULL,NULL,'2023-09-21 01:54:12.000','racing','["mystery","worker-placement","historical","tile-placement"]',NULL)
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','book',NULL,30,'2021-09-12 23:53:21.000',NULL,NULL,'2023-09-21 01:54:12.000','racing','["mystery","worker-placement","historical","tile-placement"]',NULL)
 ,(384,'Greenlam','Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
@@ -870,17 +870,17 @@ Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condim
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','game',NULL,54,'2020-11-23 12:30:10.000',NULL,NULL,'2023-07-20 14:10:30.000','card-drafting','["historical","deck-building","horror","dexterity"]',NULL)
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','book',NULL,54,'2020-11-23 12:30:10.000',NULL,NULL,'2023-07-20 14:10:30.000','card-drafting','["historical","deck-building","horror","dexterity"]',NULL)
 ,(385,'Flexidy','In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','game',NULL,90,'2021-12-20 02:23:55.000',NULL,NULL,'2022-08-30 08:27:03.000','hidden-role','["tile-placement","horror","mystery","sports"]',NULL)
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','book',NULL,90,'2021-12-20 02:23:55.000',NULL,NULL,'2022-08-30 08:27:03.000','hidden-role','["tile-placement","horror","mystery","sports"]',NULL)
 ,(386,'Duobam','Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','game',NULL,5,'2021-04-25 16:18:30.000',NULL,NULL,'2023-12-27 19:27:59.000','tile-placement','["sci-fi","deck-building","war","negotiation"]',NULL)
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','book',NULL,5,'2021-04-25 16:18:30.000',NULL,NULL,'2023-12-27 19:27:59.000','tile-placement','["sci-fi","deck-building","war","negotiation"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (401,'Vagram','Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
@@ -889,7 +889,7 @@ Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est ris
 
 Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','game',NULL,63,'2021-07-06 03:17:31.000',NULL,NULL,'2023-11-24 13:38:26.000','card-drafting','["horror","mystery","trivia","card"]',NULL)
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','book',NULL,63,'2021-07-06 03:17:31.000',NULL,NULL,'2023-11-24 13:38:26.000','card-drafting','["horror","mystery","trivia","card"]',NULL)
 ,(1860,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','708',22,'2020-03-12 22:43:10.000',NULL,'product','2023-02-15 19:56:14.000',NULL,NULL,NULL)
 ,(387,'Quo Lux','Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
@@ -897,37 +897,37 @@ Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum pri
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
-In congue. Etiam justo. Etiam pretium iaculis justo.','game',NULL,81,'2020-12-16 16:12:02.000',NULL,NULL,'2022-10-07 00:24:39.000','area-control','["puzzle","tile-placement","fantasy","strategy"]',NULL)
+In congue. Etiam justo. Etiam pretium iaculis justo.','book',NULL,81,'2020-12-16 16:12:02.000',NULL,NULL,'2022-10-07 00:24:39.000','area-control','["puzzle","tile-placement","fantasy","strategy"]',NULL)
 ,(388,'Greenlam','Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','game',NULL,33,'2020-10-23 02:09:01.000',NULL,NULL,'2023-10-21 08:19:49.000','strategy','["adventure","trivia","horror","worker-placement"]',NULL)
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','book',NULL,33,'2020-10-23 02:09:01.000',NULL,NULL,'2023-10-21 08:19:49.000','strategy','["adventure","trivia","horror","worker-placement"]',NULL)
 ,(389,'Span','In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','game',NULL,23,'2021-11-02 18:39:39.000',NULL,NULL,'2022-05-20 13:09:50.000','push-your-luck','["strategy","cooperative","dexterity","card"]',NULL)
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','book',NULL,23,'2021-11-02 18:39:39.000',NULL,NULL,'2022-05-20 13:09:50.000','push-your-luck','["strategy","cooperative","dexterity","card"]',NULL)
 ,(390,'Temp','Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','game',NULL,24,'2021-07-26 03:26:22.000',NULL,NULL,'2023-11-15 06:09:56.000','bluffing','["war","educational","tile-placement","deck-building"]',NULL)
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','book',NULL,24,'2021-07-26 03:26:22.000',NULL,NULL,'2023-11-15 06:09:56.000','bluffing','["war","educational","tile-placement","deck-building"]',NULL)
 ,(391,'Biodex','Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','game',NULL,26,'2022-04-05 01:40:25.000',NULL,NULL,'2022-07-10 20:03:19.000','word','["strategy","historical","worker-placement","sports"]',NULL)
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','book',NULL,26,'2022-04-05 01:40:25.000',NULL,NULL,'2022-07-10 20:03:19.000','word','["strategy","historical","worker-placement","sports"]',NULL)
 ,(392,'Zamit','Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','game',NULL,55,'2020-12-04 22:45:25.000',NULL,NULL,'2023-01-22 11:19:17.000','push-your-luck','["fantasy","negotiation","sports","educational"]',NULL)
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','book',NULL,55,'2020-12-04 22:45:25.000',NULL,NULL,'2023-01-22 11:19:17.000','push-your-luck','["fantasy","negotiation","sports","educational"]',NULL)
 ,(393,'Pannier','Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','game',NULL,53,'2022-06-09 22:55:01.000',NULL,NULL,'2023-12-16 15:06:51.000','worker-placement','["adventure","deck-building","party","cooperative"]',NULL)
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','book',NULL,53,'2022-06-09 22:55:01.000',NULL,NULL,'2023-12-16 15:06:51.000','worker-placement','["adventure","deck-building","party","cooperative"]',NULL)
 ,(394,'Cardify','Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
@@ -936,7 +936,7 @@ Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turp
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','game',NULL,47,'2021-05-26 09:11:26.000',NULL,NULL,'2023-06-18 06:07:59.000','social-deduction','["party","cooperative","puzzle","worker-placement"]',NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','book',NULL,47,'2021-05-26 09:11:26.000',NULL,NULL,'2023-06-18 06:07:59.000','social-deduction','["party","cooperative","puzzle","worker-placement"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (395,'Bamity','Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
@@ -947,7 +947,7 @@ Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','game',NULL,17,'2022-06-23 02:05:50.000',NULL,NULL,'2022-07-05 15:57:16.000','hidden-role','["war","mystery","historical","deck-building"]',NULL)
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','book',NULL,17,'2022-06-23 02:05:50.000',NULL,NULL,'2022-07-05 15:57:16.000','hidden-role','["war","mystery","historical","deck-building"]',NULL)
 ,(396,'Ronstring','Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -956,36 +956,36 @@ Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in s
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','game',NULL,79,'2021-10-29 11:15:18.000',NULL,NULL,'2023-03-20 20:58:16.000','word','["party","cooperative","dexterity","war"]',NULL)
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','book',NULL,79,'2021-10-29 11:15:18.000',NULL,NULL,'2023-03-20 20:58:16.000','word','["party","cooperative","dexterity","war"]',NULL)
 ,(397,'Solarbreeze','Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo.
 
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','game',NULL,38,'2021-02-01 08:05:15.000',NULL,NULL,'2022-07-04 02:56:09.000','deduction','["cooperative","adventure","sci-fi","worker-placement"]',NULL)
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','book',NULL,38,'2021-02-01 08:05:15.000',NULL,NULL,'2022-07-04 02:56:09.000','deduction','["cooperative","adventure","sci-fi","worker-placement"]',NULL)
 ,(398,'Temp','Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','game',NULL,23,'2021-04-16 19:44:38.000',NULL,NULL,'2023-11-16 17:44:18.000','abstract','["historical","educational","deck-building","cooperative"]',NULL)
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','book',NULL,23,'2021-04-16 19:44:38.000',NULL,NULL,'2023-11-16 17:44:18.000','abstract','["historical","educational","deck-building","cooperative"]',NULL)
 ,(399,'Fixflex','Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','game',NULL,81,'2021-02-10 08:44:19.000',NULL,NULL,'2022-11-06 20:11:37.000','abstract','["party","war","card","mystery"]',NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','book',NULL,81,'2021-02-10 08:44:19.000',NULL,NULL,'2022-11-06 20:11:37.000','abstract','["party","war","card","mystery"]',NULL)
 ,(402,'Alphazap','Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','game',NULL,50,'2021-05-14 05:37:35.000',NULL,NULL,'2023-02-11 10:12:51.000','abstract','["sci-fi","historical","dexterity","strategy"]',NULL)
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','book',NULL,50,'2021-05-14 05:37:35.000',NULL,NULL,'2023-02-11 10:12:51.000','abstract','["sci-fi","historical","dexterity","strategy"]',NULL)
 ,(403,'Domainer','Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
 Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','game',NULL,86,'2022-01-21 14:41:04.000',NULL,NULL,'2023-02-28 15:59:33.000','abstract','["educational","horror","dexterity","worker-placement"]',NULL)
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','book',NULL,86,'2022-01-21 14:41:04.000',NULL,NULL,'2023-02-28 15:59:33.000','abstract','["educational","horror","dexterity","worker-placement"]',NULL)
 ,(404,'Subin','Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
@@ -994,19 +994,19 @@ Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, 
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','game',NULL,89,'2021-11-25 22:30:04.000',NULL,NULL,'2022-04-20 10:19:40.000','deduction','["dexterity","adventure","sports","puzzle"]',NULL)
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','book',NULL,89,'2021-11-25 22:30:04.000',NULL,NULL,'2022-04-20 10:19:40.000','deduction','["dexterity","adventure","sports","puzzle"]',NULL)
 ,(405,'Latlux','Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','game',NULL,22,'2021-12-05 09:32:25.000',NULL,NULL,'2022-03-16 15:13:14.000','','["worker-placement","puzzle","sports","party"]',NULL)
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','book',NULL,22,'2021-12-05 09:32:25.000',NULL,NULL,'2022-03-16 15:13:14.000','','["worker-placement","puzzle","sports","party"]',NULL)
 ,(406,'Voyatouch','Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','game',NULL,84,'2021-10-24 03:38:25.000',NULL,NULL,'2022-05-28 15:09:46.000','dexterity','["adventure","puzzle","historical","trivia"]',NULL)
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','book',NULL,84,'2021-10-24 03:38:25.000',NULL,NULL,'2022-05-28 15:09:46.000','dexterity','["adventure","puzzle","historical","trivia"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (407,'Stronghold','Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
@@ -1017,28 +1017,28 @@ Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','game',NULL,32,'2022-04-06 00:51:21.000',NULL,NULL,'2023-09-05 12:42:31.000','auction','["historical","adventure","horror","tile-placement"]',NULL)
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','book',NULL,32,'2022-04-06 00:51:21.000',NULL,NULL,'2023-09-05 12:42:31.000','auction','["historical","adventure","horror","tile-placement"]',NULL)
 ,(408,'Matsoft','Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo.
 
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','game',NULL,9,'2021-04-17 02:11:06.000',NULL,NULL,'2023-05-12 13:14:12.000','hidden-role','["cooperative","puzzle","trivia","horror"]',NULL)
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','book',NULL,9,'2021-04-17 02:11:06.000',NULL,NULL,'2023-05-12 13:14:12.000','hidden-role','["cooperative","puzzle","trivia","horror"]',NULL)
 ,(409,'Greenlam','Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','game',NULL,59,'2022-12-21 22:42:42.000',NULL,NULL,'2023-09-14 13:35:54.000','abstract','["war","strategy","mystery","dexterity"]',NULL)
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','book',NULL,59,'2022-12-21 22:42:42.000',NULL,NULL,'2023-09-14 13:35:54.000','abstract','["war","strategy","mystery","dexterity"]',NULL)
 ,(410,'Stringtough','Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','game',NULL,21,'2022-01-27 10:52:56.000',NULL,NULL,'2023-08-05 13:24:52.000','worker-placement','["mystery","sci-fi","fantasy","deck-building"]',NULL)
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','book',NULL,21,'2022-01-27 10:52:56.000',NULL,NULL,'2023-08-05 13:24:52.000','worker-placement','["mystery","sci-fi","fantasy","deck-building"]',NULL)
 ,(411,'Sub-Ex','Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
@@ -1047,7 +1047,7 @@ Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integ
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','game',NULL,88,'2021-08-26 04:56:29.000',NULL,NULL,'2023-04-09 12:20:50.000','bluffing','["adventure","worker-placement","war","trivia"]',NULL)
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','book',NULL,88,'2021-08-26 04:56:29.000',NULL,NULL,'2023-04-09 12:20:50.000','bluffing','["adventure","worker-placement","war","trivia"]',NULL)
 ,(412,'Overhold','Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
@@ -1056,41 +1056,41 @@ Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non m
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','game',NULL,5,'2022-02-20 03:00:37.000',NULL,NULL,'2023-10-06 08:06:15.000','economic','["historical","deck-building","horror","adventure"]',NULL)
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','book',NULL,5,'2022-02-20 03:00:37.000',NULL,NULL,'2023-10-06 08:06:15.000','economic','["historical","deck-building","horror","adventure"]',NULL)
 ,(413,'Regrant','In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
 Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
-Sed ante. Vivamus tortor. Duis mattis egestas metus.','game',NULL,51,'2020-11-25 07:47:25.000',NULL,NULL,'2023-08-29 23:42:44.000','dexterity','["sci-fi","horror","educational","historical"]',NULL)
+Sed ante. Vivamus tortor. Duis mattis egestas metus.','book',NULL,51,'2020-11-25 07:47:25.000',NULL,NULL,'2023-08-29 23:42:44.000','dexterity','["sci-fi","horror","educational","historical"]',NULL)
 ,(563,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','product','332',59,'2021-11-17 18:10:11.000',NULL,NULL,'2023-05-03 14:09:00.000','unboxed','["racing","cooperative","hidden-role"]',NULL)
 ,(414,'Bitchip','Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','game',NULL,23,'2022-06-07 01:26:19.000',NULL,NULL,'2023-11-17 06:33:38.000','word','["fantasy","worker-placement","tile-placement","adventure"]',NULL)
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','book',NULL,23,'2022-06-07 01:26:19.000',NULL,NULL,'2023-11-17 06:33:38.000','word','["fantasy","worker-placement","tile-placement","adventure"]',NULL)
 ,(415,'Sub-Ex','Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','game',NULL,42,'2020-01-12 03:12:55.000',NULL,NULL,'2022-08-28 05:24:51.000','word','["fantasy","horror","worker-placement","trivia"]',NULL)
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','book',NULL,42,'2020-01-12 03:12:55.000',NULL,NULL,'2022-08-28 05:24:51.000','word','["fantasy","horror","worker-placement","trivia"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (416,'Fix San','Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','game',NULL,55,'2022-10-16 01:04:40.000',NULL,NULL,'2022-07-16 12:17:12.000','push-your-luck','["party","sci-fi","historical","strategy"]',NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','book',NULL,55,'2022-10-16 01:04:40.000',NULL,NULL,'2022-07-16 12:17:12.000','push-your-luck','["party","sci-fi","historical","strategy"]',NULL)
 ,(417,'Matsoft','Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
 Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','game',NULL,92,'2022-03-09 14:07:20.000',NULL,NULL,'2022-03-20 16:53:38.000','dexterity','["cooperative","party","horror","sci-fi"]',NULL)
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','book',NULL,92,'2022-03-09 14:07:20.000',NULL,NULL,'2022-03-20 16:53:38.000','dexterity','["cooperative","party","horror","sci-fi"]',NULL)
 ,(418,'Veribet','Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','game',NULL,60,'2020-01-14 04:48:08.000',NULL,NULL,'2023-12-03 03:27:04.000','auction','["tile-placement","educational","fantasy","card"]',NULL)
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','book',NULL,60,'2020-01-14 04:48:08.000',NULL,NULL,'2023-12-03 03:27:04.000','auction','["tile-placement","educational","fantasy","card"]',NULL)
 ,(419,'Cardify','Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','game',NULL,58,'2022-02-10 09:04:30.000',NULL,NULL,'2022-09-27 06:22:56.000','party','["cooperative","historical","card","negotiation"]',NULL)
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','book',NULL,58,'2022-02-10 09:04:30.000',NULL,NULL,'2022-09-27 06:22:56.000','party','["cooperative","historical","card","negotiation"]',NULL)
 ,(420,'Duobam','Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
@@ -1099,7 +1099,7 @@ Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integ
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','game',NULL,62,'2021-08-02 11:18:29.000',NULL,NULL,'2022-06-27 09:32:46.000','auction','["sci-fi","educational","cooperative","mystery"]',NULL)
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','book',NULL,62,'2021-08-02 11:18:29.000',NULL,NULL,'2022-06-27 09:32:46.000','auction','["sci-fi","educational","cooperative","mystery"]',NULL)
 ,(421,'Cookley','Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
@@ -1108,25 +1108,25 @@ Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, 
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','game',NULL,10,'2020-07-08 14:42:47.000',NULL,NULL,'2022-03-08 16:48:31.000','party','["worker-placement","dexterity","historical","party"]',NULL)
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','book',NULL,10,'2020-07-08 14:42:47.000',NULL,NULL,'2022-03-08 16:48:31.000','party','["worker-placement","dexterity","historical","party"]',NULL)
 ,(422,'Latlux','Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
 Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','game',NULL,52,'2022-02-12 01:11:38.000',NULL,NULL,'2022-11-14 18:39:15.000','area-control','["horror","fantasy","negotiation","mystery"]',NULL)
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','book',NULL,52,'2022-02-12 01:11:38.000',NULL,NULL,'2022-11-14 18:39:15.000','area-control','["horror","fantasy","negotiation","mystery"]',NULL)
 ,(423,'Bamity','Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','game',NULL,87,'2021-09-28 02:17:06.000',NULL,NULL,'2023-08-11 19:36:30.000','exploration','["cooperative","strategy","puzzle","deck-building"]',NULL)
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','book',NULL,87,'2021-09-28 02:17:06.000',NULL,NULL,'2023-08-11 19:36:30.000','exploration','["cooperative","strategy","puzzle","deck-building"]',NULL)
 ,(424,'Zoolab','Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
-Sed ante. Vivamus tortor. Duis mattis egestas metus.','game',NULL,29,'2022-08-14 20:17:48.000',NULL,NULL,'2023-10-21 11:43:19.000','strategy','["mystery","card","puzzle","fantasy"]',NULL)
+Sed ante. Vivamus tortor. Duis mattis egestas metus.','book',NULL,29,'2022-08-14 20:17:48.000',NULL,NULL,'2023-10-21 11:43:19.000','strategy','["mystery","card","puzzle","fantasy"]',NULL)
 ,(425,'Latlux','Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','game',NULL,75,'2020-03-10 21:29:57.000',NULL,NULL,'2023-11-06 16:05:52.000','cooperative','["fantasy","adventure","dexterity","strategy"]',NULL)
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','book',NULL,75,'2020-03-10 21:29:57.000',NULL,NULL,'2023-11-06 16:05:52.000','cooperative','["fantasy","adventure","dexterity","strategy"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (426,'Aerified','Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
@@ -1137,7 +1137,7 @@ In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat n
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','game',NULL,91,'2020-05-26 16:50:27.000',NULL,NULL,'2023-05-11 11:24:02.000','abstract','["negotiation","sci-fi","historical","trivia"]',NULL)
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','book',NULL,91,'2020-05-26 16:50:27.000',NULL,NULL,'2023-05-11 11:24:02.000','abstract','["negotiation","sci-fi","historical","trivia"]',NULL)
 ,(427,'Overhold','Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
@@ -1146,7 +1146,7 @@ Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','game',NULL,28,'2020-02-06 00:41:59.000',NULL,NULL,'2022-02-24 04:30:48.000','','["sci-fi","strategy","horror","mystery"]',NULL)
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','book',NULL,28,'2020-02-06 00:41:59.000',NULL,NULL,'2022-02-24 04:30:48.000','','["sci-fi","strategy","horror","mystery"]',NULL)
 ,(1788,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','426',43,'2022-12-22 09:19:15.000',NULL,'article','2023-09-12 00:57:31.000',NULL,NULL,NULL)
 ,(428,'Sonair','In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
@@ -1156,33 +1156,33 @@ Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vi
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Phasellus in felis. Donec semper sapien a libero. Nam dui.','game',NULL,38,'2020-11-09 16:11:20.000',NULL,NULL,'2023-01-09 12:51:02.000','bluffing','["war","deck-building","worker-placement","dexterity"]',NULL)
+Phasellus in felis. Donec semper sapien a libero. Nam dui.','book',NULL,38,'2020-11-09 16:11:20.000',NULL,NULL,'2023-01-09 12:51:02.000','bluffing','["war","deck-building","worker-placement","dexterity"]',NULL)
 ,(429,'Voltsillam','Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','game',NULL,61,'2021-12-25 12:00:54.000',NULL,NULL,'2022-01-08 11:54:53.000','memory','["negotiation","fantasy","horror","sports"]',NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','book',NULL,61,'2021-12-25 12:00:54.000',NULL,NULL,'2022-01-08 11:54:53.000','memory','["negotiation","fantasy","horror","sports"]',NULL)
 ,(430,'Zontrax','Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
 Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
 Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','game',NULL,29,'2021-08-10 15:56:52.000',NULL,NULL,'2023-06-13 21:02:28.000','economic','["sci-fi","educational","puzzle","dexterity"]',NULL)
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','book',NULL,29,'2021-08-10 15:56:52.000',NULL,NULL,'2023-06-13 21:02:28.000','economic','["sci-fi","educational","puzzle","dexterity"]',NULL)
 ,(431,'Zontrax','Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','game',NULL,28,'2020-03-01 17:34:18.000',NULL,NULL,'2023-04-04 13:22:43.000','push-your-luck','["horror","sci-fi","trivia","fantasy"]',NULL)
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','book',NULL,28,'2020-03-01 17:34:18.000',NULL,NULL,'2023-04-04 13:22:43.000','push-your-luck','["horror","sci-fi","trivia","fantasy"]',NULL)
 ,(432,'Quo Lux','Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','game',NULL,24,'2022-03-17 21:43:37.000',NULL,NULL,'2023-11-21 14:50:33.000','worker-placement','["adventure","strategy","horror","dexterity"]',NULL)
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','book',NULL,24,'2022-03-17 21:43:37.000',NULL,NULL,'2023-11-21 14:50:33.000','worker-placement','["adventure","strategy","horror","dexterity"]',NULL)
 ,(433,'Sonsing','Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','game',NULL,63,'2022-03-07 07:43:56.000',NULL,NULL,'2022-11-06 04:59:04.000','dexterity','["cooperative","adventure","historical","trivia"]',NULL)
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','book',NULL,63,'2022-03-07 07:43:56.000',NULL,NULL,'2022-11-06 04:59:04.000','dexterity','["cooperative","adventure","historical","trivia"]',NULL)
 ,(434,'Rank','Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
-In congue. Etiam justo. Etiam pretium iaculis justo.','game',NULL,71,'2021-11-21 09:43:31.000',NULL,NULL,'2022-06-21 11:50:52.000','cooperative','["war","historical","sports","tile-placement"]',NULL)
+In congue. Etiam justo. Etiam pretium iaculis justo.','book',NULL,71,'2021-11-21 09:43:31.000',NULL,NULL,'2022-06-21 11:50:52.000','cooperative','["war","historical","sports","tile-placement"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (435,'Tresom','Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
@@ -1191,41 +1191,41 @@ Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','game',NULL,28,'2022-05-24 03:14:48.000',NULL,NULL,'2022-09-08 05:52:45.000','','["party","card","deck-building","war"]',NULL)
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','book',NULL,28,'2022-05-24 03:14:48.000',NULL,NULL,'2022-09-08 05:52:45.000','','["party","card","deck-building","war"]',NULL)
 ,(436,'Aerified','Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo.
 
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','game',NULL,7,'2021-07-09 13:12:22.000',NULL,NULL,'2022-10-05 07:15:22.000','word','["cooperative","party","trivia","negotiation"]',NULL)
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','book',NULL,7,'2021-07-09 13:12:22.000',NULL,NULL,'2022-10-05 07:15:22.000','word','["cooperative","party","trivia","negotiation"]',NULL)
 ,(437,'Flexidy','Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','game',NULL,77,'2021-01-13 22:33:43.000',NULL,NULL,'2023-02-02 09:47:05.000','deduction','["strategy","dexterity","trivia","adventure"]',NULL)
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','book',NULL,77,'2021-01-13 22:33:43.000',NULL,NULL,'2023-02-02 09:47:05.000','deduction','["strategy","dexterity","trivia","adventure"]',NULL)
 ,(438,'Gembucket','Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','game',NULL,41,'2021-07-12 12:39:52.000',NULL,NULL,'2022-10-21 00:16:38.000','tile-placement','["sci-fi","sports","party","trivia"]',NULL)
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','book',NULL,41,'2021-07-12 12:39:52.000',NULL,NULL,'2022-10-21 00:16:38.000','tile-placement','["sci-fi","sports","party","trivia"]',NULL)
 ,(439,'Y-find','Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','game',NULL,95,'2021-12-06 13:48:41.000',NULL,NULL,'2023-02-10 15:51:07.000','auction','["horror","trivia","cooperative","historical"]',NULL)
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','book',NULL,95,'2021-12-06 13:48:41.000',NULL,NULL,'2023-02-10 15:51:07.000','auction','["horror","trivia","cooperative","historical"]',NULL)
 ,(440,'Home Ing','Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','game',NULL,83,'2021-04-13 14:45:31.000',NULL,NULL,'2022-04-13 03:11:41.000','abstract','["war","strategy","dexterity","negotiation"]',NULL)
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','book',NULL,83,'2021-04-13 14:45:31.000',NULL,NULL,'2022-04-13 03:11:41.000','abstract','["war","strategy","dexterity","negotiation"]',NULL)
 ,(441,'Bitchip','In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','game',NULL,49,'2020-03-19 06:34:47.000',NULL,NULL,'2022-12-30 08:36:47.000','memory','["sports","negotiation","trivia","worker-placement"]',NULL)
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','book',NULL,49,'2020-03-19 06:34:47.000',NULL,NULL,'2022-12-30 08:36:47.000','memory','["sports","negotiation","trivia","worker-placement"]',NULL)
 ,(442,'Flexidy','Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
@@ -1234,12 +1234,12 @@ Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit u
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','game',NULL,85,'2020-06-07 04:59:20.000',NULL,NULL,'2023-05-07 00:50:31.000','worker-placement','["puzzle","adventure","tile-placement","sci-fi"]',NULL)
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','book',NULL,85,'2020-06-07 04:59:20.000',NULL,NULL,'2023-05-07 00:50:31.000','worker-placement','["puzzle","adventure","tile-placement","sci-fi"]',NULL)
 ,(443,'Solarbreeze','In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','game',NULL,79,'2020-02-15 08:35:43.000',NULL,NULL,'2022-02-12 16:54:23.000','economic','["negotiation","horror","trivia","fantasy"]',NULL)
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','book',NULL,79,'2020-02-15 08:35:43.000',NULL,NULL,'2022-02-12 16:54:23.000','economic','["negotiation","horror","trivia","fantasy"]',NULL)
 ,(444,'Ventosanzap','Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
@@ -1248,7 +1248,7 @@ In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat n
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','game',NULL,27,'2021-11-12 05:20:18.000',NULL,NULL,'2022-12-04 10:28:39.000','worker-placement','["worker-placement","strategy","historical","sci-fi"]',NULL)
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','book',NULL,27,'2021-11-12 05:20:18.000',NULL,NULL,'2022-12-04 10:28:39.000','worker-placement','["worker-placement","strategy","historical","sci-fi"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (445,'Greenlam','Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
@@ -1257,10 +1257,10 @@ Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, t
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','game',NULL,58,'2022-05-08 04:18:43.000',NULL,NULL,'2022-05-05 04:24:34.000','memory','["historical","fantasy","sports","war"]',NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','book',NULL,58,'2022-05-08 04:18:43.000',NULL,NULL,'2022-05-05 04:24:34.000','memory','["historical","fantasy","sports","war"]',NULL)
 ,(446,'Lotlux','Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','game',NULL,2,'2020-07-20 11:19:02.000',NULL,NULL,'2023-12-27 01:49:18.000','hidden-role','["historical","tile-placement","negotiation","worker-placement"]',NULL)
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','book',NULL,2,'2020-07-20 11:19:02.000',NULL,NULL,'2023-12-27 01:49:18.000','hidden-role','["historical","tile-placement","negotiation","worker-placement"]',NULL)
 ,(447,'Sonsing','In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
 Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
@@ -1269,7 +1269,7 @@ Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','game',NULL,31,'2022-01-30 06:32:40.000',NULL,NULL,'2023-12-15 00:23:15.000','push-your-luck','["cooperative","mystery","sports","war"]',NULL)
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','book',NULL,31,'2022-01-30 06:32:40.000',NULL,NULL,'2023-12-15 00:23:15.000','push-your-luck','["cooperative","mystery","sports","war"]',NULL)
 ,(448,'Flexidy','Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
@@ -1278,31 +1278,31 @@ Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turp
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','game',NULL,93,'2021-06-01 20:50:24.000',NULL,NULL,'2022-09-17 23:18:49.000','roll-and-move','["war","horror","strategy","party"]',NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','book',NULL,93,'2021-06-01 20:50:24.000',NULL,NULL,'2022-09-17 23:18:49.000','roll-and-move','["war","horror","strategy","party"]',NULL)
 ,(449,'Vagram','Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','game',NULL,93,'2020-05-19 00:59:54.000',NULL,NULL,'2022-05-01 13:12:03.000','strategy','["adventure","horror","party","tile-placement"]',NULL)
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','book',NULL,93,'2020-05-19 00:59:54.000',NULL,NULL,'2022-05-01 13:12:03.000','strategy','["adventure","horror","party","tile-placement"]',NULL)
 ,(450,'Trippledex','Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','game',NULL,90,'2022-12-06 14:54:37.000',NULL,NULL,'2023-08-27 00:19:34.000','trivia','["fantasy","historical","cooperative","deck-building"]',NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','book',NULL,90,'2022-12-06 14:54:37.000',NULL,NULL,'2023-08-27 00:19:34.000','trivia','["fantasy","historical","cooperative","deck-building"]',NULL)
 ,(451,'Voltsillam','Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','game',NULL,55,'2022-04-20 14:03:57.000',NULL,NULL,'2022-10-29 10:10:37.000','exploration','["cooperative","dexterity","sports","worker-placement"]',NULL)
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','book',NULL,55,'2022-04-20 14:03:57.000',NULL,NULL,'2022-10-29 10:10:37.000','exploration','["cooperative","dexterity","sports","worker-placement"]',NULL)
 ,(452,'Lotstring','Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','game',NULL,71,'2021-05-16 23:31:28.000',NULL,NULL,'2023-12-11 01:14:20.000','memory','["fantasy","dexterity","sci-fi","negotiation"]',NULL)
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','book',NULL,71,'2021-05-16 23:31:28.000',NULL,NULL,'2023-12-11 01:14:20.000','memory','["fantasy","dexterity","sci-fi","negotiation"]',NULL)
 ,(453,'Transcof','Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','game',NULL,2,'2020-07-30 20:49:30.000',NULL,NULL,'2022-04-22 13:54:05.000','social-deduction','["party","horror","educational","worker-placement"]',NULL)
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','book',NULL,2,'2020-07-30 20:49:30.000',NULL,NULL,'2022-04-22 13:54:05.000','social-deduction','["party","horror","educational","worker-placement"]',NULL)
 ,(454,'Konklab','Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','game',NULL,16,'2022-07-27 13:18:14.000',NULL,NULL,'2023-04-13 17:32:10.000','','["fantasy","sports","trivia","cooperative"]',NULL)
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','book',NULL,16,'2022-07-27 13:18:14.000',NULL,NULL,'2023-04-13 17:32:10.000','','["fantasy","sports","trivia","cooperative"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (455,'Zontrax','Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
@@ -1311,19 +1311,19 @@ Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turp
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','game',NULL,13,'2020-04-23 21:19:40.000',NULL,NULL,'2023-10-28 18:01:03.000','word','["mystery","deck-building","fantasy","horror"]',NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','book',NULL,13,'2020-04-23 21:19:40.000',NULL,NULL,'2023-10-28 18:01:03.000','word','["mystery","deck-building","fantasy","horror"]',NULL)
 ,(456,'Fintone','Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
 Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','game',NULL,23,'2021-12-26 15:16:08.000',NULL,NULL,'2023-12-14 02:50:28.000','worker-placement','["puzzle","tile-placement","historical","party"]',NULL)
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','book',NULL,23,'2021-12-26 15:16:08.000',NULL,NULL,'2023-12-14 02:50:28.000','worker-placement','["puzzle","tile-placement","historical","party"]',NULL)
 ,(457,'Otcom','In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
 Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
 Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','game',NULL,97,'2021-02-05 15:23:06.000',NULL,NULL,'2022-04-12 22:22:35.000','card-drafting','["deck-building","educational","horror","trivia"]',NULL)
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','book',NULL,97,'2021-02-05 15:23:06.000',NULL,NULL,'2022-04-12 22:22:35.000','card-drafting','["deck-building","educational","horror","trivia"]',NULL)
 ,(458,'Zaam-Dox','Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
@@ -1332,15 +1332,15 @@ Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed 
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','game',NULL,70,'2021-07-30 17:13:47.000',NULL,NULL,'2022-06-19 21:26:09.000','memory','["tile-placement","adventure","deck-building","educational"]',NULL)
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','book',NULL,70,'2021-07-30 17:13:47.000',NULL,NULL,'2022-06-19 21:26:09.000','memory','["tile-placement","adventure","deck-building","educational"]',NULL)
 ,(459,'Voyatouch','Fusce consequat. Nulla nisl. Nunc nisl.
 
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','game',NULL,94,'2021-01-22 16:03:17.000',NULL,NULL,'2022-03-06 10:29:14.000','negotiation','["educational","historical","puzzle","cooperative"]',NULL)
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','book',NULL,94,'2021-01-22 16:03:17.000',NULL,NULL,'2022-03-06 10:29:14.000','negotiation','["educational","historical","puzzle","cooperative"]',NULL)
 ,(460,'Alphazap','Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','game',NULL,60,'2022-04-01 08:40:55.000',NULL,NULL,'2022-05-30 09:40:44.000','card-drafting','["educational","strategy","puzzle","negotiation"]',NULL)
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','book',NULL,60,'2022-04-01 08:40:55.000',NULL,NULL,'2022-05-30 09:40:44.000','card-drafting','["educational","strategy","puzzle","negotiation"]',NULL)
 ,(461,'Treeflex','Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
@@ -1349,7 +1349,7 @@ Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan fe
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','game',NULL,65,'2021-03-19 18:41:05.000',NULL,NULL,'2023-04-29 02:15:07.000','','["sports","worker-placement","strategy","adventure"]',NULL)
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','book',NULL,65,'2021-03-19 18:41:05.000',NULL,NULL,'2023-04-29 02:15:07.000','','["sports","worker-placement","strategy","adventure"]',NULL)
 ,(462,'Kanlam','Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -1358,14 +1358,14 @@ Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','game',NULL,93,'2021-11-16 17:15:26.000',NULL,NULL,'2023-03-19 22:06:16.000','economic','["trivia","negotiation","cooperative","party"]',NULL)
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','book',NULL,93,'2021-11-16 17:15:26.000',NULL,NULL,'2023-03-19 22:06:16.000','economic','["trivia","negotiation","cooperative","party"]',NULL)
 ,(463,'Sonair','Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','game',NULL,53,'2020-12-24 06:33:10.000',NULL,NULL,'2023-05-26 22:41:24.000','cooperative','["deck-building","trivia","mystery","war"]',NULL)
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','book',NULL,53,'2020-12-24 06:33:10.000',NULL,NULL,'2023-05-26 22:41:24.000','cooperative','["deck-building","trivia","mystery","war"]',NULL)
 ,(464,'Tin','Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.
@@ -1374,20 +1374,20 @@ Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttito
 
 In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','game',NULL,66,'2020-09-13 09:56:48.000',NULL,NULL,'2022-08-17 14:59:56.000','memory','["negotiation","educational","sci-fi","war"]',NULL)
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','book',NULL,66,'2020-09-13 09:56:48.000',NULL,NULL,'2022-08-17 14:59:56.000','memory','["negotiation","educational","sci-fi","war"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (465,'Gembucket','Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
 Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','game',NULL,39,'2020-05-16 19:31:04.000',NULL,NULL,'2022-01-09 12:54:35.000','deck-building','["worker-placement","fantasy","tile-placement","cooperative"]',NULL)
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','book',NULL,39,'2020-05-16 19:31:04.000',NULL,NULL,'2022-01-09 12:54:35.000','deck-building','["worker-placement","fantasy","tile-placement","cooperative"]',NULL)
 ,(466,'Sonair','Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','game',NULL,70,'2020-04-17 20:13:37.000',NULL,NULL,'2022-11-01 16:49:30.000','dexterity','["strategy","educational","historical","card"]',NULL)
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','book',NULL,70,'2020-04-17 20:13:37.000',NULL,NULL,'2022-11-01 16:49:30.000','dexterity','["strategy","educational","historical","card"]',NULL)
 ,(467,'Tres-Zap','Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','game',NULL,75,'2022-09-17 05:11:32.000',NULL,NULL,'2022-10-05 15:24:47.000','card-drafting','["war","adventure","cooperative","historical"]',NULL)
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','book',NULL,75,'2022-09-17 05:11:32.000',NULL,NULL,'2022-10-05 15:24:47.000','card-drafting','["war","adventure","cooperative","historical"]',NULL)
 ,(468,'Gembucket','Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
@@ -1396,16 +1396,16 @@ Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','game',NULL,61,'2020-01-03 20:50:02.000',NULL,NULL,'2023-02-22 11:54:15.000','deduction','["puzzle","dexterity","sci-fi","deck-building"]',NULL)
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','book',NULL,61,'2020-01-03 20:50:02.000',NULL,NULL,'2023-02-22 11:54:15.000','deduction','["puzzle","dexterity","sci-fi","deck-building"]',NULL)
 ,(469,'Bytecard','In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
 Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','game',NULL,45,'2020-07-16 09:36:47.000',NULL,NULL,'2022-12-20 23:19:05.000','','["party","dexterity","educational","worker-placement"]',NULL)
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','book',NULL,45,'2020-07-16 09:36:47.000',NULL,NULL,'2022-12-20 23:19:05.000','','["party","dexterity","educational","worker-placement"]',NULL)
 ,(630,NULL,'Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','product','397',35,'2022-10-07 13:27:20.000',NULL,NULL,'2023-01-23 06:40:38.000','new (shrink-wrapped)','["tile-placement","hidden-role",""]',NULL)
 ,(470,'Zoolab','Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','game',NULL,41,'2021-03-13 12:08:49.000',NULL,NULL,'2022-04-25 12:19:21.000','card-drafting','["card","dexterity","negotiation","tile-placement"]',NULL)
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','book',NULL,41,'2021-03-13 12:08:49.000',NULL,NULL,'2022-04-25 12:19:21.000','card-drafting','["card","dexterity","negotiation","tile-placement"]',NULL)
 ,(471,'Quo Lux','Fusce consequat. Nulla nisl. Nunc nisl.
 
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
@@ -1414,20 +1414,20 @@ In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, di
 
 Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
-Sed ante. Vivamus tortor. Duis mattis egestas metus.','game',NULL,98,'2022-02-22 01:11:13.000',NULL,NULL,'2022-06-01 13:28:44.000','','["sports","worker-placement","dexterity","party"]',NULL)
+Sed ante. Vivamus tortor. Duis mattis egestas metus.','book',NULL,98,'2022-02-22 01:11:13.000',NULL,NULL,'2022-06-01 13:28:44.000','','["sports","worker-placement","dexterity","party"]',NULL)
 ,(472,'Tempsoft','Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','game',NULL,61,'2021-08-30 20:57:36.000',NULL,NULL,'2022-05-23 12:55:02.000','','["sports","historical","war","dexterity"]',NULL)
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','book',NULL,61,'2021-08-30 20:57:36.000',NULL,NULL,'2022-05-23 12:55:02.000','','["sports","historical","war","dexterity"]',NULL)
 ,(473,'Prodder','Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','game',NULL,63,'2022-01-06 12:48:45.000',NULL,NULL,'2022-03-07 18:17:55.000','roll-and-move','["cooperative","sci-fi","fantasy","war"]',NULL)
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','book',NULL,63,'2022-01-06 12:48:45.000',NULL,NULL,'2022-03-07 18:17:55.000','roll-and-move','["cooperative","sci-fi","fantasy","war"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (474,'Tresom','Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','game',NULL,4,'2021-07-30 13:51:31.000',NULL,NULL,'2023-08-10 12:17:14.000','deck-building','["trivia","mystery","deck-building","puzzle"]',NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','book',NULL,4,'2021-07-30 13:51:31.000',NULL,NULL,'2023-08-10 12:17:14.000','deck-building','["trivia","mystery","deck-building","puzzle"]',NULL)
 ,(475,'Voyatouch','Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
@@ -1436,7 +1436,7 @@ Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed 
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','game',NULL,96,'2020-09-10 01:36:21.000',NULL,NULL,'2022-02-03 10:26:04.000','exploration','["puzzle","dexterity","trivia","party"]',NULL)
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','book',NULL,96,'2020-09-10 01:36:21.000',NULL,NULL,'2022-02-03 10:26:04.000','exploration','["puzzle","dexterity","trivia","party"]',NULL)
 ,(476,'Matsoft','Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
@@ -1445,26 +1445,26 @@ Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','game',NULL,70,'2020-03-11 18:11:02.000',NULL,NULL,'2022-11-13 09:19:23.000','card-drafting','["sci-fi","historical","negotiation","cooperative"]',NULL)
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','book',NULL,70,'2020-03-11 18:11:02.000',NULL,NULL,'2022-11-13 09:19:23.000','card-drafting','["sci-fi","historical","negotiation","cooperative"]',NULL)
 ,(477,'Mat Lam Tam','Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','game',NULL,64,'2020-04-19 08:18:30.000',NULL,NULL,'2023-08-28 11:26:35.000','card-drafting','["educational","fantasy","horror","trivia"]',NULL)
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','book',NULL,64,'2020-04-19 08:18:30.000',NULL,NULL,'2023-08-28 11:26:35.000','card-drafting','["educational","fantasy","horror","trivia"]',NULL)
 ,(478,'Tres-Zap','Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','game',NULL,78,'2021-02-19 16:41:43.000',NULL,NULL,'2022-11-11 09:22:38.000','party','["historical","trivia","sci-fi","party"]',NULL)
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','book',NULL,78,'2021-02-19 16:41:43.000',NULL,NULL,'2022-11-11 09:22:38.000','party','["historical","trivia","sci-fi","party"]',NULL)
 ,(479,'Zamit','Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','game',NULL,15,'2021-12-03 21:33:10.000',NULL,NULL,'2023-02-16 16:07:10.000','memory','["cooperative","tile-placement","deck-building","war"]',NULL)
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','book',NULL,15,'2021-12-03 21:33:10.000',NULL,NULL,'2023-02-16 16:07:10.000','memory','["cooperative","tile-placement","deck-building","war"]',NULL)
 ,(480,'Konklux','Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
 Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
@@ -1473,12 +1473,12 @@ Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, t
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','game',NULL,34,'2021-07-18 04:04:58.000',NULL,NULL,'2023-12-02 13:54:02.000','tile-placement','["dexterity","adventure","horror","strategy"]',NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','book',NULL,34,'2021-07-18 04:04:58.000',NULL,NULL,'2023-12-02 13:54:02.000','tile-placement','["dexterity","adventure","horror","strategy"]',NULL)
 ,(481,'Bamity','Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','game',NULL,85,'2020-10-22 05:16:12.000',NULL,NULL,'2022-12-18 06:16:20.000','worker-placement','["negotiation","party","dexterity","worker-placement"]',NULL)
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','book',NULL,85,'2020-10-22 05:16:12.000',NULL,NULL,'2022-12-18 06:16:20.000','worker-placement','["negotiation","party","dexterity","worker-placement"]',NULL)
 ,(482,'Stim','Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
@@ -1487,7 +1487,7 @@ Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non m
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','game',NULL,62,'2020-06-15 09:32:23.000',NULL,NULL,'2022-08-12 14:12:28.000','negotiation','["trivia","war","strategy","card"]',NULL)
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','book',NULL,62,'2020-06-15 09:32:23.000',NULL,NULL,'2022-08-12 14:12:28.000','negotiation','["trivia","war","strategy","card"]',NULL)
 ,(1835,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','191',24,'2021-07-19 18:39:16.000',NULL,'article','2022-01-06 01:07:34.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
@@ -1497,15 +1497,15 @@ Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','game',NULL,16,'2022-05-25 05:55:44.000',NULL,NULL,'2023-11-16 10:31:43.000','strategy','["fantasy","deck-building","negotiation","sci-fi"]',NULL)
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','book',NULL,16,'2022-05-25 05:55:44.000',NULL,NULL,'2023-11-16 10:31:43.000','strategy','["fantasy","deck-building","negotiation","sci-fi"]',NULL)
 ,(484,'Mat Lam Tam','Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Phasellus in felis. Donec semper sapien a libero. Nam dui.','game',NULL,55,'2020-10-31 17:01:15.000',NULL,NULL,'2023-11-29 22:50:43.000','negotiation','["sci-fi","worker-placement","puzzle","party"]',NULL)
+Phasellus in felis. Donec semper sapien a libero. Nam dui.','book',NULL,55,'2020-10-31 17:01:15.000',NULL,NULL,'2023-11-29 22:50:43.000','negotiation','["sci-fi","worker-placement","puzzle","party"]',NULL)
 ,(485,'Job','Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','game',NULL,48,'2022-01-24 01:20:54.000',NULL,NULL,'2022-10-05 20:44:23.000','party','["tile-placement","puzzle","strategy","mystery"]',NULL)
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','book',NULL,48,'2022-01-24 01:20:54.000',NULL,NULL,'2022-10-05 20:44:23.000','party','["tile-placement","puzzle","strategy","mystery"]',NULL)
 ,(486,'Namfix','Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
@@ -1514,26 +1514,26 @@ Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est ris
 
 Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','game',NULL,77,'2021-04-04 10:47:10.000',NULL,NULL,'2022-12-24 08:45:49.000','party','["educational","negotiation","tile-placement","cooperative"]',NULL)
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','book',NULL,77,'2021-04-04 10:47:10.000',NULL,NULL,'2022-12-24 08:45:49.000','party','["educational","negotiation","tile-placement","cooperative"]',NULL)
 ,(487,'Cardify','Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
 Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','game',NULL,17,'2021-01-16 03:10:50.000',NULL,NULL,'2022-06-19 01:05:13.000','trivia','["worker-placement","sci-fi","tile-placement","strategy"]',NULL)
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','book',NULL,17,'2021-01-16 03:10:50.000',NULL,NULL,'2022-06-19 01:05:13.000','trivia','["worker-placement","sci-fi","tile-placement","strategy"]',NULL)
 ,(488,'Ronstring','Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','game',NULL,10,'2021-11-10 23:53:01.000',NULL,NULL,'2022-05-24 15:37:45.000','hidden-role','["mystery","card","sports","adventure"]',NULL)
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','book',NULL,10,'2021-11-10 23:53:01.000',NULL,NULL,'2022-05-24 15:37:45.000','hidden-role','["mystery","card","sports","adventure"]',NULL)
 ,(489,'Fintone','Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','game',NULL,53,'2021-09-15 17:03:26.000',NULL,NULL,'2023-01-21 18:37:36.000','','["negotiation","war","fantasy","deck-building"]',NULL)
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','book',NULL,53,'2021-09-15 17:03:26.000',NULL,NULL,'2023-01-21 18:37:36.000','','["negotiation","war","fantasy","deck-building"]',NULL)
 ,(490,'Voltsillam','Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','game',NULL,10,'2020-02-09 22:30:59.000',NULL,NULL,'2023-10-21 10:53:00.000','area-control','["war","adventure","dexterity","negotiation"]',NULL)
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','book',NULL,10,'2020-02-09 22:30:59.000',NULL,NULL,'2023-10-21 10:53:00.000','area-control','["war","adventure","dexterity","negotiation"]',NULL)
 ,(491,'Domainer','Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','game',NULL,31,'2021-07-06 07:34:01.000',NULL,NULL,'2023-08-15 06:39:49.000','abstract','["trivia","educational","puzzle","party"]',NULL)
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','book',NULL,31,'2021-07-06 07:34:01.000',NULL,NULL,'2023-08-15 06:39:49.000','abstract','["trivia","educational","puzzle","party"]',NULL)
 ,(492,'Domainer','Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
@@ -1542,7 +1542,7 @@ Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, 
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','game',NULL,38,'2022-01-20 05:17:39.000',NULL,NULL,'2023-08-18 20:40:25.000','deck-building','["card","horror","trivia","deck-building"]',NULL)
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','book',NULL,38,'2022-01-20 05:17:39.000',NULL,NULL,'2023-08-18 20:40:25.000','deck-building','["card","horror","trivia","deck-building"]',NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (493,'Bamity','In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
@@ -1553,15 +1553,15 @@ Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vi
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Phasellus in felis. Donec semper sapien a libero. Nam dui.','game',NULL,54,'2021-10-31 11:43:37.000',NULL,NULL,'2022-09-28 14:33:35.000','tile-placement','["tile-placement","party","educational","war"]',NULL)
+Phasellus in felis. Donec semper sapien a libero. Nam dui.','book',NULL,54,'2021-10-31 11:43:37.000',NULL,NULL,'2022-09-28 14:33:35.000','tile-placement','["tile-placement","party","educational","war"]',NULL)
 ,(494,'Regrant','Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','game',NULL,83,'2020-01-04 20:05:16.000',NULL,NULL,'2023-08-19 14:37:39.000','push-your-luck','["adventure","strategy","tile-placement","war"]',NULL)
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','book',NULL,83,'2020-01-04 20:05:16.000',NULL,NULL,'2023-08-19 14:37:39.000','push-your-luck','["adventure","strategy","tile-placement","war"]',NULL)
 ,(495,'Tin','Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','game',NULL,62,'2022-05-10 00:33:36.000',NULL,NULL,'2022-04-05 04:56:21.000','worker-placement','["deck-building","fantasy","sports","horror"]',NULL)
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','book',NULL,62,'2022-05-10 00:33:36.000',NULL,NULL,'2022-04-05 04:56:21.000','worker-placement','["deck-building","fantasy","sports","horror"]',NULL)
 ,(496,'Treeflex','Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
@@ -1570,22 +1570,22 @@ Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pu
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','game',NULL,91,'2022-12-19 20:26:27.000',NULL,NULL,'2023-11-26 16:30:10.000','push-your-luck','["cooperative","mystery","sports","negotiation"]',NULL)
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','book',NULL,91,'2022-12-19 20:26:27.000',NULL,NULL,'2023-11-26 16:30:10.000','push-your-luck','["cooperative","mystery","sports","negotiation"]',NULL)
 ,(497,'Opela','Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','game',NULL,98,'2021-09-01 00:34:46.000',NULL,NULL,'2023-05-29 20:50:19.000','auction','["historical","war","party","worker-placement"]',NULL)
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','book',NULL,98,'2021-09-01 00:34:46.000',NULL,NULL,'2023-05-29 20:50:19.000','auction','["historical","war","party","worker-placement"]',NULL)
 ,(498,'Ventosanzap','Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','game',NULL,64,'2020-11-03 12:15:53.000',NULL,NULL,'2022-06-19 10:25:36.000','exploration','["educational","negotiation","trivia","party"]',NULL)
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','book',NULL,64,'2020-11-03 12:15:53.000',NULL,NULL,'2022-06-19 10:25:36.000','exploration','["educational","negotiation","trivia","party"]',NULL)
 ,(499,'Job','Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','game',NULL,3,'2022-04-19 07:36:02.000',NULL,NULL,'2022-09-07 07:50:16.000','racing','["party","horror","sci-fi","adventure"]',NULL)
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','book',NULL,3,'2022-04-19 07:36:02.000',NULL,NULL,'2022-09-07 07:50:16.000','racing','["party","horror","sci-fi","adventure"]',NULL)
 ,(500,'Zoolab','Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
@@ -1594,7 +1594,7 @@ Fusce consequat. Nulla nisl. Nunc nisl.
 
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','game',NULL,17,'2020-04-17 03:17:09.000',NULL,NULL,'2023-04-11 14:35:00.000','hidden-role','["puzzle","horror","tile-placement","trivia"]',NULL)
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','book',NULL,17,'2020-04-17 03:17:09.000',NULL,NULL,'2023-04-11 14:35:00.000','hidden-role','["puzzle","horror","tile-placement","trivia"]',NULL)
 ,(501,NULL,'Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.','product','436',26,'2021-11-16 07:13:57.000',NULL,NULL,'2022-01-20 11:26:11.000','new (shrink-wrapped)','["push-your-luck","party","strategy"]',NULL)
 ,(502,NULL,'Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','product','456',24,'2021-01-19 22:14:38.000',NULL,NULL,'2023-06-30 18:53:12.000','missing parts','["memory","deck-building","economic"]',NULL)
 ;
@@ -2823,7 +2823,7 @@ Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','article',NULL,53,'2022-06-23 08:21:59.000',NULL,NULL,'2022-06-05 20:03:20.000','Health Care',NULL,NULL)
-,(1033,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','536',75,'2021-09-04 09:54:36.000',NULL,'game','2022-09-28 08:15:54.000',NULL,NULL,NULL)
+,(1033,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','536',75,'2021-09-04 09:54:36.000',NULL,'book','2022-09-28 08:15:54.000',NULL,NULL,NULL)
 ,(2279,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','188',23,'2021-03-24 13:39:13.000',NULL,'comment','2023-11-26 02:20:27.000',NULL,NULL,NULL)
 ,(63,'Advanced system-worthy toolset','Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
@@ -3466,7 +3466,7 @@ Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','article',NULL,51,'2022-07-20 19:27:49.000',NULL,NULL,'2022-09-02 21:28:28.000','',NULL,NULL)
 ,(1539,NULL,'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','229',84,'2022-01-18 21:00:25.000',NULL,'game','2022-09-28 20:49:22.000',NULL,NULL,NULL)
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','229',84,'2022-01-18 21:00:25.000',NULL,'book','2022-09-28 20:49:22.000',NULL,NULL,NULL)
 ,(111,'Expanded secondary workforce','Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
@@ -3885,7 +3885,7 @@ Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','ar
 ,(1035,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.','comment','737',39,'2021-07-28 04:45:57.000',NULL,'article','2023-11-22 03:39:58.000',NULL,NULL,NULL)
 ,(1036,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','514',11,'2020-05-22 17:52:42.000',NULL,'game','2022-04-03 06:13:39.000',NULL,NULL,NULL)
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','514',11,'2020-05-22 17:52:42.000',NULL,'book','2022-04-03 06:13:39.000',NULL,NULL,NULL)
 ,(142,'Multi-tiered actuating archive','Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
 Sed ante. Vivamus tortor. Duis mattis egestas metus.
@@ -4197,11 +4197,11 @@ Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','article',NULL,64,'2022-01-20 02:13:50.000',NULL,NULL,'2022-08-07 11:06:29.000','Consumer Non-Durables',NULL,NULL)
-,(1026,NULL,'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','351',1,'2021-11-26 16:49:15.000',NULL,'game','2023-09-19 15:37:23.000',NULL,NULL,NULL)
-,(1027,NULL,'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','694',36,'2021-07-09 11:27:27.000',NULL,'game','2023-01-04 21:47:56.000',NULL,NULL,NULL)
+,(1026,NULL,'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','351',1,'2021-11-26 16:49:15.000',NULL,'book','2023-09-19 15:37:23.000',NULL,NULL,NULL)
+,(1027,NULL,'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','694',36,'2021-07-09 11:27:27.000',NULL,'book','2023-01-04 21:47:56.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
-(1540,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','363',16,'2022-09-14 17:26:58.000',NULL,'game','2022-04-11 15:07:23.000',NULL,NULL,NULL)
+(1540,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','363',16,'2022-09-14 17:26:58.000',NULL,'book','2022-04-11 15:07:23.000',NULL,NULL,NULL)
 ,(166,'Business-focused optimizing policy','Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
@@ -4531,7 +4531,7 @@ Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque liber
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','199',44,'2022-07-15 16:21:23.000',NULL,'game','2022-05-27 15:17:21.000',NULL,NULL,NULL)
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','199',44,'2022-07-15 16:21:23.000',NULL,'book','2022-05-27 15:17:21.000',NULL,NULL,NULL)
 ,(189,'Enterprise-wide actuating portal','Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
@@ -4632,7 +4632,7 @@ In congue. Etiam justo. Etiam pretium iaculis justo.
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','article',NULL,5,'2020-02-15 18:01:07.000',NULL,NULL,'2022-07-28 13:47:50.000','Capital Goods',NULL,NULL)
 ,(1038,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','comment','588',77,'2020-11-08 06:38:45.000',NULL,'game','2022-07-08 10:29:36.000',NULL,NULL,NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','comment','588',77,'2020-11-08 06:38:45.000',NULL,'book','2022-07-08 10:29:36.000',NULL,NULL,NULL)
 ,(196,'Exclusive encompassing parallelism','In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
 Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
@@ -4745,7 +4745,7 @@ Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','article',NULL,47,'2022-06-05 20:23:58.000',NULL,NULL,'2023-07-06 22:07:41.000','Consumer Services',NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
-(1039,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','320',52,'2021-02-26 07:56:12.000',NULL,'game','2023-04-20 10:08:55.000',NULL,NULL,NULL)
+(1039,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','320',52,'2021-02-26 07:56:12.000',NULL,'book','2023-04-20 10:08:55.000',NULL,NULL,NULL)
 ,(202,'Seamless web-enabled info-mediaries','Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
 Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
@@ -4955,7 +4955,7 @@ Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','766',6,'2020-09-12 08:22:14.000',NULL,'product','2022-08-26 14:00:18.000',NULL,NULL,NULL)
-,(1040,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','283',93,'2022-10-09 19:44:20.000',NULL,'game','2022-02-27 20:48:30.000',NULL,NULL,NULL)
+,(1040,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','283',93,'2022-10-09 19:44:20.000',NULL,'book','2022-02-27 20:48:30.000',NULL,NULL,NULL)
 ,(217,'Customer-focused zero administration algorithm','Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
@@ -5429,7 +5429,7 @@ Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibu
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','37',35,'2022-01-08 20:08:11.000',NULL,'article','2022-11-20 07:32:04.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
-(1011,NULL,'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','231',42,'2021-01-09 01:00:10.000',NULL,'game','2023-01-30 05:15:18.000',NULL,NULL,NULL)
+(1011,NULL,'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','231',42,'2021-01-09 01:00:10.000',NULL,'book','2023-01-30 05:15:18.000',NULL,NULL,NULL)
 ,(1012,NULL,'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','644',22,'2021-09-08 06:42:51.000',NULL,'product','2022-07-17 04:19:09.000',NULL,NULL,NULL)
 ,(1013,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
@@ -5443,24 +5443,24 @@ Fusce consequat. Nulla nisl. Nunc nisl.
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','96',78,'2022-08-17 16:32:30.000',NULL,'article','2022-09-06 19:28:20.000',NULL,NULL,NULL)
 ,(1015,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.
 
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','490',39,'2021-12-12 10:56:38.000',NULL,'game','2022-12-29 05:08:39.000',NULL,NULL,NULL)
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','490',39,'2021-12-12 10:56:38.000',NULL,'book','2022-12-29 05:08:39.000',NULL,NULL,NULL)
 ,(1016,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','531',8,'2021-07-03 04:56:25.000',NULL,'product','2023-09-21 05:24:14.000',NULL,NULL,NULL)
-,(1017,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','159',76,'2021-08-14 17:16:47.000',NULL,'game','2022-05-22 09:15:32.000',NULL,NULL,NULL)
+,(1017,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','159',76,'2021-08-14 17:16:47.000',NULL,'book','2022-05-22 09:15:32.000',NULL,NULL,NULL)
 ,(1018,NULL,'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','735',89,'2021-05-16 08:07:51.000',NULL,'game','2023-09-14 03:36:42.000',NULL,NULL,NULL)
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','735',89,'2021-05-16 08:07:51.000',NULL,'book','2023-09-14 03:36:42.000',NULL,NULL,NULL)
 ,(1019,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','533',96,'2022-07-09 14:00:51.000',NULL,'game','2023-02-13 02:36:41.000',NULL,NULL,NULL)
-,(1020,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.','comment','221',62,'2022-08-16 18:05:48.000',NULL,'game','2022-11-16 01:09:13.000',NULL,NULL,NULL)
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','533',96,'2022-07-09 14:00:51.000',NULL,'book','2023-02-13 02:36:41.000',NULL,NULL,NULL)
+,(1020,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.','comment','221',62,'2022-08-16 18:05:48.000',NULL,'book','2022-11-16 01:09:13.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1021,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','774',92,'2021-09-02 09:40:14.000',NULL,'article','2023-05-28 02:51:47.000',NULL,NULL,NULL)
-,(1022,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','487',31,'2022-11-12 14:54:57.000',NULL,'game','2022-11-21 12:40:42.000',NULL,NULL,NULL)
+,(1022,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','487',31,'2022-11-12 14:54:57.000',NULL,'book','2022-11-21 12:40:42.000',NULL,NULL,NULL)
 ,(1023,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','161',84,'2020-08-28 13:28:14.000',NULL,'product','2022-11-30 09:33:41.000',NULL,NULL,NULL)
 ,(1041,NULL,'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
@@ -5479,7 +5479,7 @@ Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turp
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','353',15,'2020-02-09 17:12:23.000',NULL,'article','2022-12-03 21:25:08.000',NULL,NULL,NULL)
 ,(1044,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','196',42,'2021-07-21 07:42:51.000',NULL,'game','2022-09-11 17:10:00.000',NULL,NULL,NULL)
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','196',42,'2021-07-21 07:42:51.000',NULL,'book','2022-09-11 17:10:00.000',NULL,NULL,NULL)
 ,(1045,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
@@ -5488,14 +5488,14 @@ Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luc
 ,(1046,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','428',18,'2020-08-08 14:10:49.000',NULL,'product','2022-11-10 01:53:16.000',NULL,NULL,NULL)
-,(1047,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','514',17,'2022-11-13 04:55:54.000',NULL,'game','2023-11-17 10:53:24.000',NULL,NULL,NULL)
+,(1047,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','514',17,'2022-11-13 04:55:54.000',NULL,'book','2023-11-17 10:53:24.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1048,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','222',63,'2020-11-24 15:25:35.000',NULL,'article','2023-08-14 13:30:10.000',NULL,NULL,NULL)
 ,(1049,NULL,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','264',16,'2021-07-23 13:06:02.000',NULL,'product','2023-12-18 16:08:31.000',NULL,NULL,NULL)
-,(1050,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','22',91,'2021-11-25 11:36:28.000',NULL,'game','2022-04-08 16:26:54.000',NULL,NULL,NULL)
+,(1050,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','22',91,'2021-11-25 11:36:28.000',NULL,'book','2022-04-08 16:26:54.000',NULL,NULL,NULL)
 ,(1051,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','713',46,'2022-04-23 03:21:29.000',NULL,'article','2023-04-08 01:51:49.000',NULL,NULL,NULL)
 ,(1052,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
@@ -5505,7 +5505,7 @@ Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quis
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','65',18,'2021-07-10 10:08:04.000',NULL,'article','2023-06-01 12:11:47.000',NULL,NULL,NULL)
-,(1054,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','169',86,'2022-08-09 07:40:47.000',NULL,'game','2023-04-28 10:52:00.000',NULL,NULL,NULL)
+,(1054,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','169',86,'2022-08-09 07:40:47.000',NULL,'book','2023-04-28 10:52:00.000',NULL,NULL,NULL)
 ,(1055,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
 Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
@@ -5529,7 +5529,7 @@ Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','98',99,'2020-03
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','177',8,'2022-05-16 05:54:54.000',NULL,'game','2023-04-03 16:38:10.000',NULL,NULL,NULL)
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','177',8,'2022-05-16 05:54:54.000',NULL,'book','2023-04-03 16:38:10.000',NULL,NULL,NULL)
 ,(1061,NULL,'Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
@@ -5538,14 +5538,14 @@ Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment',
 ,(1062,NULL,'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','260',50,'2021-07-25 01:47:07.000',NULL,'product','2023-03-03 20:08:17.000',NULL,NULL,NULL)
 ,(1063,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.
 
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','736',3,'2020-06-17 13:11:33.000',NULL,'game','2023-05-21 13:45:03.000',NULL,NULL,NULL)
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','736',3,'2020-06-17 13:11:33.000',NULL,'book','2023-05-21 13:45:03.000',NULL,NULL,NULL)
 ,(1064,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','757',57,'2021-12-09 02:09:47.000',NULL,'product','2022-06-17 08:31:16.000',NULL,NULL,NULL)
-,(1065,NULL,'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','92',77,'2020-12-15 12:50:01.000',NULL,'game','2023-03-05 05:52:29.000',NULL,NULL,NULL)
+,(1065,NULL,'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','92',77,'2020-12-15 12:50:01.000',NULL,'book','2023-03-05 05:52:29.000',NULL,NULL,NULL)
 ,(1066,NULL,'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','796',89,'2020-07-08 10:09:37.000',NULL,'game','2023-07-09 20:54:26.000',NULL,NULL,NULL)
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','796',89,'2020-07-08 10:09:37.000',NULL,'book','2023-07-09 20:54:26.000',NULL,NULL,NULL)
 ,(1067,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
@@ -5559,8 +5559,8 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','619',84,'2021-09-10 07:01:00.000',NULL,'article','2022-05-01 10:33:17.000',NULL,NULL,NULL)
-,(1070,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','comment','779',23,'2020-03-13 06:44:42.000',NULL,'game','2022-10-02 16:18:36.000',NULL,NULL,NULL)
-,(1071,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','707',56,'2022-07-11 09:01:46.000',NULL,'game','2022-12-09 21:08:56.000',NULL,NULL,NULL)
+,(1070,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','comment','779',23,'2020-03-13 06:44:42.000',NULL,'book','2022-10-02 16:18:36.000',NULL,NULL,NULL)
+,(1071,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','707',56,'2022-07-11 09:01:46.000',NULL,'book','2022-12-09 21:08:56.000',NULL,NULL,NULL)
 ,(1072,NULL,'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','481',37,'2021-12-02 09:11:10.000',NULL,'product','2022-01-18 11:41:30.000',NULL,NULL,NULL)
@@ -5569,9 +5569,9 @@ Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.'
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','142',20,'2022-06-27 08:25:46.000',NULL,'article','2022-01-29 01:52:52.000',NULL,NULL,NULL)
-,(1074,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.','comment','456',45,'2022-05-04 12:32:27.000',NULL,'game','2023-03-20 03:23:21.000',NULL,NULL,NULL)
+,(1074,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.','comment','456',45,'2022-05-04 12:32:27.000',NULL,'book','2023-03-20 03:23:21.000',NULL,NULL,NULL)
 ,(1075,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','38',45,'2022-03-03 21:10:29.000',NULL,'product','2023-07-06 15:15:27.000',NULL,NULL,NULL)
-,(1076,NULL,'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','116',34,'2021-06-13 00:58:14.000',NULL,'game','2023-10-04 03:10:26.000',NULL,NULL,NULL)
+,(1076,NULL,'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','116',34,'2021-06-13 00:58:14.000',NULL,'book','2023-10-04 03:10:26.000',NULL,NULL,NULL)
 ,(1077,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
 Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','696',49,'2022-06-28 08:00:39.000',NULL,'article','2022-10-15 07:15:25.000',NULL,NULL,NULL)
@@ -5592,10 +5592,10 @@ Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibu
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','comment','122',99,'2021-02-13 05:54:30.000',NULL,'game','2023-09-25 18:34:23.000',NULL,NULL,NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','comment','122',99,'2021-02-13 05:54:30.000',NULL,'book','2023-09-25 18:34:23.000',NULL,NULL,NULL)
 ,(1084,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','668',86,'2021-08-24 23:58:26.000',NULL,'game','2022-09-24 13:03:13.000',NULL,NULL,NULL)
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','668',86,'2021-08-24 23:58:26.000',NULL,'book','2022-09-24 13:03:13.000',NULL,NULL,NULL)
 ,(1085,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','509',29,'2021-07-04 19:05:19.000',NULL,'article','2023-07-24 07:42:47.000',NULL,NULL,NULL)
@@ -5610,10 +5610,10 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','256',35,'2020-07-22 21:02:38.000',NULL,'article','2023-07-10 23:45:51.000',NULL,NULL,NULL)
-,(1089,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','783',84,'2020-11-16 00:43:44.000',NULL,'game','2023-08-08 12:14:28.000',NULL,NULL,NULL)
+,(1089,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','783',84,'2020-11-16 00:43:44.000',NULL,'book','2023-08-08 12:14:28.000',NULL,NULL,NULL)
 ,(1115,NULL,'Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','155',38,'2022-03-01 13:18:33.000',NULL,'game','2023-09-05 02:44:00.000',NULL,NULL,NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','155',38,'2022-03-01 13:18:33.000',NULL,'book','2023-09-05 02:44:00.000',NULL,NULL,NULL)
 ,(1090,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
@@ -5631,8 +5631,8 @@ Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quis
 ,(1094,NULL,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','697',14,'2020-06-16 15:05:15.000',NULL,'article','2023-03-25 00:41:43.000',NULL,NULL,NULL)
 ,(1095,NULL,'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','456',64,'2020-01-02 11:25:56.000',NULL,'game','2023-09-10 20:03:20.000',NULL,NULL,NULL)
-,(1096,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.','comment','30',53,'2021-07-16 01:43:13.000',NULL,'game','2023-07-10 06:26:58.000',NULL,NULL,NULL)
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','456',64,'2020-01-02 11:25:56.000',NULL,'book','2023-09-10 20:03:20.000',NULL,NULL,NULL)
+,(1096,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.','comment','30',53,'2021-07-16 01:43:13.000',NULL,'book','2023-07-10 06:26:58.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1097,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
@@ -5649,7 +5649,7 @@ Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condim
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','746',63,'2021-09-23 13:56:55.000',NULL,'game','2022-10-31 12:58:31.000',NULL,NULL,NULL)
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','746',63,'2021-09-23 13:56:55.000',NULL,'book','2022-10-31 12:58:31.000',NULL,NULL,NULL)
 ,(1102,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','332',84,'2022-04-19 04:16:43.000',NULL,'product','2023-05-19 00:05:33.000',NULL,NULL,NULL)
 ,(1103,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','73',86,'2020-04-07 11:57:54.000',NULL,'product','2023-09-13 21:52:00.000',NULL,NULL,NULL)
 ,(1104,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -5666,7 +5666,7 @@ Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odi
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1107,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','580',99,'2020-12-31 02:00:54.000',NULL,'article','2023-12-16 15:16:45.000',NULL,NULL,NULL)
-,(1108,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','445',59,'2020-11-08 03:17:02.000',NULL,'game','2023-09-26 05:32:41.000',NULL,NULL,NULL)
+,(1108,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','445',59,'2020-11-08 03:17:02.000',NULL,'book','2023-09-26 05:32:41.000',NULL,NULL,NULL)
 ,(1109,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
@@ -5674,20 +5674,20 @@ Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer al
 Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','241',48,'2022-12-09 15:58:54.000',NULL,'article','2023-08-21 20:40:54.000',NULL,NULL,NULL)
 ,(1110,NULL,'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','comment','632',35,'2021-12-11 16:39:42.000',NULL,'game','2022-06-05 08:29:18.000',NULL,NULL,NULL)
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','comment','632',35,'2021-12-11 16:39:42.000',NULL,'book','2022-06-05 08:29:18.000',NULL,NULL,NULL)
 ,(1111,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','26',62,'2020-01-06 22:45:36.000',NULL,'product','2023-01-20 03:41:28.000',NULL,NULL,NULL)
 ,(1112,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.','comment','182',61,'2020-04-27 07:36:54.000',NULL,'product','2023-08-31 15:47:33.000',NULL,NULL,NULL)
 ,(1113,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','comment','405',56,'2020-11-29 18:37:15.000',NULL,'game','2022-03-04 13:47:24.000',NULL,NULL,NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','comment','405',56,'2020-11-29 18:37:15.000',NULL,'book','2022-03-04 13:47:24.000',NULL,NULL,NULL)
 ,(1114,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','12',44,'2020-07-14 13:20:18.000',NULL,'article','2023-04-13 23:17:19.000',NULL,NULL,NULL)
-,(1116,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','791',11,'2021-07-10 03:08:40.000',NULL,'game','2023-12-16 21:16:40.000',NULL,NULL,NULL)
+,(1116,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','791',11,'2021-07-10 03:08:40.000',NULL,'book','2023-12-16 21:16:40.000',NULL,NULL,NULL)
 ,(1117,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
@@ -5695,7 +5695,7 @@ Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','191',54,'2022-03-22 00:56:12.000',NULL,'article','2022-03-11 04:58:11.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
-(1118,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','201',92,'2022-04-20 05:39:55.000',NULL,'game','2022-03-18 22:13:13.000',NULL,NULL,NULL)
+(1118,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','201',92,'2022-04-20 05:39:55.000',NULL,'book','2022-03-18 22:13:13.000',NULL,NULL,NULL)
 ,(1119,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -5705,16 +5705,16 @@ Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','co
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','231',57,'2020-10-23 17:23:39.000',NULL,'game','2023-12-01 14:55:34.000',NULL,NULL,NULL)
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','231',57,'2020-10-23 17:23:39.000',NULL,'book','2023-12-01 14:55:34.000',NULL,NULL,NULL)
 ,(1121,NULL,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','73',14,'2022-02-10 16:31:54.000',NULL,'game','2023-02-09 16:32:42.000',NULL,NULL,NULL)
-,(1122,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','729',14,'2022-05-07 10:05:21.000',NULL,'game','2023-07-15 16:27:29.000',NULL,NULL,NULL)
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','73',14,'2022-02-10 16:31:54.000',NULL,'book','2023-02-09 16:32:42.000',NULL,NULL,NULL)
+,(1122,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','729',14,'2022-05-07 10:05:21.000',NULL,'book','2023-07-15 16:27:29.000',NULL,NULL,NULL)
 ,(1123,NULL,'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
 Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','493',20,'2022-06-17 08:00:50.000',NULL,'game','2023-01-29 15:34:56.000',NULL,NULL,NULL)
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','493',20,'2022-06-17 08:00:50.000',NULL,'book','2023-01-29 15:34:56.000',NULL,NULL,NULL)
 ,(1124,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
@@ -5732,14 +5732,14 @@ Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan fe
 
 Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','355',28,'2021-09-30 07:04:00.000',NULL,'game','2022-12-07 17:49:58.000',NULL,NULL,NULL)
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','355',28,'2021-09-30 07:04:00.000',NULL,'book','2022-12-07 17:49:58.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1128,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','6',48,'2021-04-16 09:53:07.000',NULL,'game','2022-04-21 19:45:04.000',NULL,NULL,NULL)
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','6',48,'2021-04-16 09:53:07.000',NULL,'book','2022-04-21 19:45:04.000',NULL,NULL,NULL)
 ,(1129,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
@@ -5755,19 +5755,19 @@ Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luc
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','241',96,'2020-11-28 02:14:17.000',NULL,'product','2023-02-08 11:55:04.000',NULL,NULL,NULL)
 ,(1132,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','623',47,'2020-06-18 18:05:04.000',NULL,'game','2022-08-29 12:08:17.000',NULL,NULL,NULL)
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','623',47,'2020-06-18 18:05:04.000',NULL,'book','2022-08-29 12:08:17.000',NULL,NULL,NULL)
 ,(1133,NULL,'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','comment','82',94,'2021-06-30 04:37:57.000',NULL,'product','2022-05-07 08:31:35.000',NULL,NULL,NULL)
 ,(1134,NULL,'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','410',53,'2021-11-08 01:06:49.000',NULL,'game','2022-03-31 15:59:51.000',NULL,NULL,NULL)
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','410',53,'2021-11-08 01:06:49.000',NULL,'book','2022-03-31 15:59:51.000',NULL,NULL,NULL)
 ,(1135,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','409',61,'2020-08-27 04:32:10.000',NULL,'product','2022-08-21 02:10:39.000',NULL,NULL,NULL)
-,(1136,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','92',59,'2020-11-08 23:28:19.000',NULL,'game','2022-03-25 19:35:46.000',NULL,NULL,NULL)
+,(1136,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','92',59,'2020-11-08 23:28:19.000',NULL,'book','2022-03-25 19:35:46.000',NULL,NULL,NULL)
 ,(1137,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
@@ -5775,7 +5775,7 @@ Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non m
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','693',85,'2020-09-21 13:44:47.000',NULL,'product','2022-01-13 01:35:00.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
-(1138,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','659',70,'2021-12-15 22:10:57.000',NULL,'game','2023-10-20 16:25:26.000',NULL,NULL,NULL)
+(1138,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','659',70,'2021-12-15 22:10:57.000',NULL,'book','2023-10-20 16:25:26.000',NULL,NULL,NULL)
 ,(1139,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','98',80,'2020-06-02 02:01:25.000',NULL,'product','2022-03-13 08:58:22.000',NULL,NULL,NULL)
@@ -5796,35 +5796,35 @@ Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer al
 Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','493',70,'2021-10-04 12:07:53.000',NULL,'product','2023-09-10 10:48:49.000',NULL,NULL,NULL)
 ,(1145,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','738',54,'2020-08-19 12:26:02.000',NULL,'game','2023-06-01 05:38:02.000',NULL,NULL,NULL)
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','738',54,'2020-08-19 12:26:02.000',NULL,'book','2023-06-01 05:38:02.000',NULL,NULL,NULL)
 ,(1146,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','270',2,'2020-05-14 08:29:59.000',NULL,'article','2022-09-02 02:45:09.000',NULL,NULL,NULL)
 ,(1147,NULL,'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
 In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','457',28,'2022-02-03 20:44:24.000',NULL,'game','2023-05-31 08:00:32.000',NULL,NULL,NULL)
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','457',28,'2022-02-03 20:44:24.000',NULL,'book','2023-05-31 08:00:32.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
-(1148,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','249',58,'2021-05-28 13:07:36.000',NULL,'game','2023-01-31 13:42:28.000',NULL,NULL,NULL)
-,(1149,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','656',9,'2022-06-25 00:38:13.000',NULL,'game','2022-12-22 18:44:44.000',NULL,NULL,NULL)
+(1148,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','249',58,'2021-05-28 13:07:36.000',NULL,'book','2023-01-31 13:42:28.000',NULL,NULL,NULL)
+,(1149,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','656',9,'2022-06-25 00:38:13.000',NULL,'book','2022-12-22 18:44:44.000',NULL,NULL,NULL)
 ,(1150,NULL,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','576',1,'2020-07-23 03:53:12.000',NULL,'product','2023-11-09 18:33:32.000',NULL,NULL,NULL)
 ,(1151,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','405',25,'2020-03-24 03:48:04.000',NULL,'game','2023-05-21 10:14:25.000',NULL,NULL,NULL)
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','405',25,'2020-03-24 03:48:04.000',NULL,'book','2023-05-21 10:14:25.000',NULL,NULL,NULL)
 ,(1152,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','378',92,'2020-06-26 16:21:43.000',NULL,'product','2022-09-10 13:44:30.000',NULL,NULL,NULL)
 ,(1153,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','615',51,'2022-06-05 20:46:13.000',NULL,'game','2023-12-10 13:53:29.000',NULL,NULL,NULL)
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','615',51,'2022-06-05 20:46:13.000',NULL,'book','2023-12-10 13:53:29.000',NULL,NULL,NULL)
 ,(1154,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','48',5,'2020-06-19 05:48:19.000',NULL,'product','2022-02-02 04:03:34.000',NULL,NULL,NULL)
 ,(1155,NULL,'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','645',29,'2021-05-02 18:04:31.000',NULL,'article','2023-02-23 23:54:01.000',NULL,NULL,NULL)
 ,(1156,NULL,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','318',85,'2020-03-23 04:43:48.000',NULL,'article','2023-05-31 14:39:01.000',NULL,NULL,NULL)
-,(1157,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','583',14,'2020-04-27 09:32:09.000',NULL,'game','2023-01-21 06:05:22.000',NULL,NULL,NULL)
+,(1157,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','583',14,'2020-04-27 09:32:09.000',NULL,'book','2023-01-21 06:05:22.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1158,NULL,'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','535',28,'2022-04-26 09:46:10.000',NULL,'product','2023-07-22 16:54:47.000',NULL,NULL,NULL)
@@ -5833,7 +5833,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','562',5,'2020-05-11 22:21:40.000',NULL,'game','2022-12-08 23:48:35.000',NULL,NULL,NULL)
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','562',5,'2020-05-11 22:21:40.000',NULL,'book','2022-12-08 23:48:35.000',NULL,NULL,NULL)
 ,(1161,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
@@ -5849,7 +5849,7 @@ Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, t
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','648',4,'2022-03-02 10:33:34.000',NULL,'article','2023-02-24 02:00:09.000',NULL,NULL,NULL)
 ,(1163,NULL,'Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','449',42,'2021-09-09 10:43:41.000',NULL,'game','2022-01-04 13:06:40.000',NULL,NULL,NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','449',42,'2021-09-09 10:43:41.000',NULL,'book','2022-01-04 13:06:40.000',NULL,NULL,NULL)
 ,(1164,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','448',79,'2022-04-19 09:57:17.000',NULL,'product','2022-07-13 04:46:45.000',NULL,NULL,NULL)
 ,(1165,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
@@ -5881,7 +5881,7 @@ In congue. Etiam justo. Etiam pretium iaculis justo.','comment','410',88,'2020-0
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','529',73,'2021-10-11 23:44:46.000',NULL,'product','2022-03-25 12:42:27.000',NULL,NULL,NULL)
-,(1175,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','751',37,'2022-03-22 08:37:10.000',NULL,'game','2022-11-15 12:04:45.000',NULL,NULL,NULL)
+,(1175,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','751',37,'2022-03-22 08:37:10.000',NULL,'book','2022-11-15 12:04:45.000',NULL,NULL,NULL)
 ,(1176,NULL,'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
@@ -5914,7 +5914,7 @@ Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odi
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','725',96,'2021-02-28 04:41:32.000',NULL,'game','2023-03-21 00:40:41.000',NULL,NULL,NULL)
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','725',96,'2021-02-28 04:41:32.000',NULL,'book','2023-03-21 00:40:41.000',NULL,NULL,NULL)
 ,(1185,NULL,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','68',80,'2022-03-26 22:44:22.000',NULL,'article','2023-08-04 12:09:11.000',NULL,NULL,NULL)
 ,(1186,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','727',43,'2020-07-06 04:29:44.000',NULL,'product','2022-03-19 20:01:33.000',NULL,NULL,NULL)
 ;
@@ -5926,7 +5926,7 @@ Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment',
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','653',76,'2020-10-21 17:30:41.000',NULL,'game','2022-03-09 21:18:59.000',NULL,NULL,NULL)
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','653',76,'2020-10-21 17:30:41.000',NULL,'book','2022-03-09 21:18:59.000',NULL,NULL,NULL)
 ,(1192,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','37',81,'2020-01-17 07:24:25.000',NULL,'article','2023-06-26 22:29:18.000',NULL,NULL,NULL)
@@ -5934,13 +5934,13 @@ Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turp
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','145',75,'2020-08-30 07:37:33.000',NULL,'game','2022-11-10 00:35:04.000',NULL,NULL,NULL)
-,(1194,NULL,'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','224',70,'2021-09-12 12:57:21.000',NULL,'game','2023-04-29 04:54:46.000',NULL,NULL,NULL)
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','145',75,'2020-08-30 07:37:33.000',NULL,'book','2022-11-10 00:35:04.000',NULL,NULL,NULL)
+,(1194,NULL,'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','224',70,'2021-09-12 12:57:21.000',NULL,'book','2023-04-29 04:54:46.000',NULL,NULL,NULL)
 ,(1195,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','472',54,'2021-06-05 04:46:42.000',NULL,'game','2022-07-17 07:24:43.000',NULL,NULL,NULL)
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','472',54,'2021-06-05 04:46:42.000',NULL,'book','2022-07-17 07:24:43.000',NULL,NULL,NULL)
 ,(1196,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','416',63,'2022-10-11 13:20:56.000',NULL,'article','2023-01-02 02:59:58.000',NULL,NULL,NULL)
 ,(1197,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','63',11,'2020-06-29 19:40:53.000',NULL,'product','2022-11-07 21:41:43.000',NULL,NULL,NULL)
 ,(1198,NULL,'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
@@ -5950,7 +5950,7 @@ Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscip
 Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','356',14,'2021-05-09 03:45:02.000',NULL,'article','2023-10-19 08:28:07.000',NULL,NULL,NULL)
 ,(1199,NULL,'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
-Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','15',21,'2020-06-15 08:37:51.000',NULL,'game','2022-11-25 21:35:16.000',NULL,NULL,NULL)
+Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','15',21,'2020-06-15 08:37:51.000',NULL,'book','2022-11-25 21:35:16.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1200,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
@@ -5968,7 +5968,7 @@ Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan fe
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','478',2,'2021-12-04 17:17:51.000',NULL,'product','2022-04-15 16:39:49.000',NULL,NULL,NULL)
 ,(1205,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','758',77,'2021-02-14 13:30:40.000',NULL,'game','2022-10-14 21:38:49.000',NULL,NULL,NULL)
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','758',77,'2021-02-14 13:30:40.000',NULL,'book','2022-10-14 21:38:49.000',NULL,NULL,NULL)
 ,(1206,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','499',94,'2022-04-27 11:34:04.000',NULL,'product','2023-01-25 01:23:15.000',NULL,NULL,NULL)
 ,(1207,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.','comment','527',3,'2022-04-11 17:43:54.000',NULL,'product','2023-05-25 20:52:19.000',NULL,NULL,NULL)
 ,(1208,NULL,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','89',31,'2022-02-11 22:18:43.000',NULL,'article','2023-08-23 09:35:29.000',NULL,NULL,NULL)
@@ -5986,7 +5986,7 @@ Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non
 
 Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','651',24,'2020-04-12 11:18:13.000',NULL,'game','2023-12-13 08:29:48.000',NULL,NULL,NULL)
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','651',24,'2020-04-12 11:18:13.000',NULL,'book','2023-12-13 08:29:48.000',NULL,NULL,NULL)
 ,(1214,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
@@ -5994,10 +5994,10 @@ In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultric
 Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','703',22,'2022-08-07 11:31:24.000',NULL,'article','2022-04-13 15:03:36.000',NULL,NULL,NULL)
 ,(1215,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','comment','469',62,'2022-12-06 20:12:47.000',NULL,'game','2023-01-08 01:00:24.000',NULL,NULL,NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','comment','469',62,'2022-12-06 20:12:47.000',NULL,'book','2023-01-08 01:00:24.000',NULL,NULL,NULL)
 ,(1217,NULL,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','560',69,'2021-09-07 19:25:36.000',NULL,'game','2022-03-06 22:54:13.000',NULL,NULL,NULL)
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','560',69,'2021-09-07 19:25:36.000',NULL,'book','2022-03-06 22:54:13.000',NULL,NULL,NULL)
 ,(1218,NULL,'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','216',4,'2020-04-09 18:14:48.000',NULL,'product','2022-09-20 02:11:33.000',NULL,NULL,NULL)
@@ -6005,41 +6005,41 @@ Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','co
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','comment','158',33,'2020-11-08 14:55:13.000',NULL,'game','2022-04-23 13:28:40.000',NULL,NULL,NULL)
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','comment','158',33,'2020-11-08 14:55:13.000',NULL,'book','2022-04-23 13:28:40.000',NULL,NULL,NULL)
 ,(1220,NULL,'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
 Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
-Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','169',13,'2022-01-15 12:04:55.000',NULL,'game','2022-08-27 17:46:27.000',NULL,NULL,NULL)
+Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','169',13,'2022-01-15 12:04:55.000',NULL,'book','2022-08-27 17:46:27.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1221,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','281',63,'2022-11-14 05:10:57.000',NULL,'game','2023-05-03 05:13:44.000',NULL,NULL,NULL)
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','281',63,'2022-11-14 05:10:57.000',NULL,'book','2023-05-03 05:13:44.000',NULL,NULL,NULL)
 ,(1222,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.
 
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
 In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','296',82,'2022-04-07 19:03:58.000',NULL,'product','2022-01-03 17:39:58.000',NULL,NULL,NULL)
-,(1223,NULL,'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','252',24,'2022-05-24 21:17:36.000',NULL,'game','2023-11-23 07:10:33.000',NULL,NULL,NULL)
+,(1223,NULL,'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','252',24,'2022-05-24 21:17:36.000',NULL,'book','2023-11-23 07:10:33.000',NULL,NULL,NULL)
 ,(1224,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','444',12,'2021-12-16 06:50:34.000',NULL,'article','2022-04-24 20:32:48.000',NULL,NULL,NULL)
-,(1225,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.','comment','559',41,'2021-06-06 11:55:56.000',NULL,'game','2022-01-14 13:25:45.000',NULL,NULL,NULL)
+,(1225,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.','comment','559',41,'2021-06-06 11:55:56.000',NULL,'book','2022-01-14 13:25:45.000',NULL,NULL,NULL)
 ,(1226,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','751',26,'2020-02-08 11:45:59.000',NULL,'article','2023-06-22 19:47:15.000',NULL,NULL,NULL)
 ,(1227,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','7',6,'2022-05-13 22:57:15.000',NULL,'product','2022-05-09 10:58:07.000',NULL,NULL,NULL)
 ,(1228,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','comment','325',37,'2022-04-22 09:14:56.000',NULL,'game','2022-11-18 07:22:54.000',NULL,NULL,NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','comment','325',37,'2022-04-22 09:14:56.000',NULL,'book','2022-11-18 07:22:54.000',NULL,NULL,NULL)
 ,(1229,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','613',66,'2020-05-10 13:00:26.000',NULL,'game','2023-01-01 07:06:46.000',NULL,NULL,NULL)
+Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','613',66,'2020-05-10 13:00:26.000',NULL,'book','2023-01-01 07:06:46.000',NULL,NULL,NULL)
 ,(1230,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','321',38,'2022-06-13 14:14:19.000',NULL,'article','2022-05-26 10:58:39.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
@@ -6051,10 +6051,10 @@ Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','762',31,'2022-11-13 04:33:04.000',NULL,'product','2023-07-10 09:09:54.000',NULL,NULL,NULL)
 ,(1233,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','107',4,'2021-12-05 20:01:10.000',NULL,'game','2023-11-16 10:58:30.000',NULL,NULL,NULL)
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','107',4,'2021-12-05 20:01:10.000',NULL,'book','2023-11-16 10:58:30.000',NULL,NULL,NULL)
 ,(1234,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','179',68,'2021-05-29 18:42:49.000',NULL,'game','2023-12-17 23:08:44.000',NULL,NULL,NULL)
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','179',68,'2021-05-29 18:42:49.000',NULL,'book','2023-12-17 23:08:44.000',NULL,NULL,NULL)
 ,(1235,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.','comment','360',7,'2022-09-16 13:34:54.000',NULL,'article','2023-02-27 23:05:34.000',NULL,NULL,NULL)
@@ -6068,7 +6068,7 @@ Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue 
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','219',14,'2022-02-26 17:13:54.000',NULL,'game','2022-09-14 04:50:22.000',NULL,NULL,NULL)
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','219',14,'2022-02-26 17:13:54.000',NULL,'book','2022-09-14 04:50:22.000',NULL,NULL,NULL)
 ,(1239,NULL,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','355',6,'2021-03-23 18:14:12.000',NULL,'article','2023-01-04 12:57:43.000',NULL,NULL,NULL)
 ,(1240,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','605',64,'2021-06-17 18:41:31.000',NULL,'product','2022-07-23 08:49:39.000',NULL,NULL,NULL)
 ;
@@ -6077,7 +6077,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','352',74,'2022-04-15 08:34:20.000',NULL,'game','2023-06-07 05:52:49.000',NULL,NULL,NULL)
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','352',74,'2022-04-15 08:34:20.000',NULL,'book','2023-06-07 05:52:49.000',NULL,NULL,NULL)
 ,(1241,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
@@ -6091,8 +6091,8 @@ Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque liber
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','218',78,'2021-10-01 12:51:05.000',NULL,'product','2023-07-11 21:37:46.000',NULL,NULL,NULL)
 ,(1244,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.
 
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','734',20,'2022-02-18 01:40:17.000',NULL,'game','2022-10-09 20:56:21.000',NULL,NULL,NULL)
-,(1245,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.','comment','608',10,'2021-08-28 14:26:38.000',NULL,'game','2022-12-15 04:49:41.000',NULL,NULL,NULL)
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','734',20,'2022-02-18 01:40:17.000',NULL,'book','2022-10-09 20:56:21.000',NULL,NULL,NULL)
+,(1245,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.','comment','608',10,'2021-08-28 14:26:38.000',NULL,'book','2022-12-15 04:49:41.000',NULL,NULL,NULL)
 ,(1246,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','155',40,'2021-03-29 22:45:57.000',NULL,'article','2023-08-13 12:17:02.000',NULL,NULL,NULL)
@@ -6101,14 +6101,14 @@ Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
-Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','725',28,'2022-08-29 21:36:53.000',NULL,'game','2023-07-27 01:06:38.000',NULL,NULL,NULL)
-,(1249,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','517',47,'2020-08-25 14:51:06.000',NULL,'game','2023-02-05 11:06:36.000',NULL,NULL,NULL)
+Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','725',28,'2022-08-29 21:36:53.000',NULL,'book','2023-07-27 01:06:38.000',NULL,NULL,NULL)
+,(1249,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','517',47,'2020-08-25 14:51:06.000',NULL,'book','2023-02-05 11:06:36.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1250,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','638',62,'2020-10-20 19:56:20.000',NULL,'article','2023-08-13 01:03:31.000',NULL,NULL,NULL)
 ,(1251,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','29',21,'2020-12-01 15:04:48.000',NULL,'game','2022-08-13 20:19:21.000',NULL,NULL,NULL)
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','29',21,'2020-12-01 15:04:48.000',NULL,'book','2022-08-13 20:19:21.000',NULL,NULL,NULL)
 ,(1252,NULL,'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','74',26,'2022-07-29 17:12:36.000',NULL,'product','2022-01-22 10:10:33.000',NULL,NULL,NULL)
 ,(1253,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
@@ -6117,12 +6117,12 @@ Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in s
 
 In congue. Etiam justo. Etiam pretium iaculis justo.
 
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','223',92,'2020-06-04 07:06:31.000',NULL,'game','2023-02-17 03:22:59.000',NULL,NULL,NULL)
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','223',92,'2020-06-04 07:06:31.000',NULL,'book','2023-02-17 03:22:59.000',NULL,NULL,NULL)
 ,(1255,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','506',29,'2020-01-30 10:47:43.000',NULL,'game','2023-04-07 01:52:45.000',NULL,NULL,NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','506',29,'2020-01-30 10:47:43.000',NULL,'book','2023-04-07 01:52:45.000',NULL,NULL,NULL)
 ,(1256,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
@@ -6131,13 +6131,13 @@ Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vi
 ,(1257,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
 Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','407',84,'2021-04-01 14:47:27.000',NULL,'article','2023-02-21 19:03:53.000',NULL,NULL,NULL)
-,(1258,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','288',34,'2020-08-08 18:40:28.000',NULL,'game','2022-12-28 04:16:28.000',NULL,NULL,NULL)
+,(1258,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','288',34,'2020-08-08 18:40:28.000',NULL,'book','2022-12-28 04:16:28.000',NULL,NULL,NULL)
 ,(1259,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','532',11,'2020-11-23 08:02:32.000',NULL,'game','2022-07-25 22:00:24.000',NULL,NULL,NULL)
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','532',11,'2020-11-23 08:02:32.000',NULL,'book','2022-07-25 22:00:24.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
-(1260,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','721',56,'2022-10-31 21:42:53.000',NULL,'game','2023-02-03 03:42:31.000',NULL,NULL,NULL)
+(1260,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','721',56,'2022-10-31 21:42:53.000',NULL,'book','2023-02-03 03:42:31.000',NULL,NULL,NULL)
 ,(1261,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','730',55,'2020-02-11 00:09:42.000',NULL,'product','2022-09-20 06:39:50.000',NULL,NULL,NULL)
 ,(1262,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
@@ -6152,7 +6152,7 @@ Fusce consequat. Nulla nisl. Nunc nisl.','comment','418',66,'2020-04-20 06:50:42
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','177',36,'2022-11-29 06:03:04.000',NULL,'article','2023-11-24 05:13:18.000',NULL,NULL,NULL)
 ,(1265,NULL,'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','352',32,'2021-10-30 17:45:51.000',NULL,'game','2022-02-08 16:16:55.000',NULL,NULL,NULL)
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','352',32,'2021-10-30 17:45:51.000',NULL,'book','2022-02-08 16:16:55.000',NULL,NULL,NULL)
 ,(1267,NULL,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
@@ -6167,11 +6167,11 @@ In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat n
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','182',31,'2022-08-18 17:56:34.000',NULL,'product','2022-06-28 14:37:16.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
-(1271,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','686',83,'2020-12-04 18:25:58.000',NULL,'game','2023-01-09 07:43:31.000',NULL,NULL,NULL)
+(1271,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','686',83,'2020-12-04 18:25:58.000',NULL,'book','2023-01-09 07:43:31.000',NULL,NULL,NULL)
 ,(1272,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','713',49,'2022-07-10 20:15:13.000',NULL,'article','2023-12-17 01:28:42.000',NULL,NULL,NULL)
-,(1273,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.','comment','151',41,'2020-07-25 01:59:23.000',NULL,'game','2022-03-31 11:37:44.000',NULL,NULL,NULL)
+,(1273,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.','comment','151',41,'2020-07-25 01:59:23.000',NULL,'book','2022-03-31 11:37:44.000',NULL,NULL,NULL)
 ,(1274,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.','comment','437',95,'2020-01-26 12:13:33.000',NULL,'article','2023-10-23 12:03:05.000',NULL,NULL,NULL)
 ,(1275,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
@@ -6194,22 +6194,22 @@ Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus 
 
 Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','470',82,'2020-03-23 17:11:07.000',NULL,'game','2022-11-05 07:49:19.000',NULL,NULL,NULL)
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','470',82,'2020-03-23 17:11:07.000',NULL,'book','2022-11-05 07:49:19.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1281,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','comment','707',21,'2022-07-02 05:45:07.000',NULL,'product','2023-10-22 02:23:34.000',NULL,NULL,NULL)
-,(1282,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','461',37,'2022-12-22 18:12:35.000',NULL,'game','2023-08-17 18:29:46.000',NULL,NULL,NULL)
+,(1282,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','461',37,'2022-12-22 18:12:35.000',NULL,'book','2023-08-17 18:29:46.000',NULL,NULL,NULL)
 ,(1283,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.','comment','59',18,'2022-04-16 19:12:29.000',NULL,'article','2023-03-28 21:46:09.000',NULL,NULL,NULL)
 ,(1284,NULL,'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','696',48,'2020-11-16 21:11:01.000',NULL,'article','2022-09-01 09:39:40.000',NULL,NULL,NULL)
-,(1285,NULL,'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','723',95,'2021-03-17 04:28:31.000',NULL,'game','2023-09-20 08:57:01.000',NULL,NULL,NULL)
-,(1286,NULL,'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','224',2,'2021-09-14 22:56:35.000',NULL,'game','2023-08-12 22:46:41.000',NULL,NULL,NULL)
+,(1285,NULL,'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','723',95,'2021-03-17 04:28:31.000',NULL,'book','2023-09-20 08:57:01.000',NULL,NULL,NULL)
+,(1286,NULL,'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','224',2,'2021-09-14 22:56:35.000',NULL,'book','2023-08-12 22:46:41.000',NULL,NULL,NULL)
 ,(1287,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.
 
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','494',7,'2022-09-10 23:39:41.000',NULL,'game','2023-09-22 16:08:53.000',NULL,NULL,NULL)
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','494',7,'2022-09-10 23:39:41.000',NULL,'book','2023-09-22 16:08:53.000',NULL,NULL,NULL)
 ,(1288,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -6222,19 +6222,19 @@ Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','561',48,'2022-01-23 10:08:20.000',NULL,'article','2022-09-04 07:30:00.000',NULL,NULL,NULL)
 ,(1290,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.
 
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','652',6,'2020-07-12 12:16:20.000',NULL,'game','2022-03-20 12:51:34.000',NULL,NULL,NULL)
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','652',6,'2020-07-12 12:16:20.000',NULL,'book','2022-03-20 12:51:34.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1291,NULL,'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','320',29,'2021-06-22 02:01:24.000',NULL,'game','2022-12-03 10:46:09.000',NULL,NULL,NULL)
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','320',29,'2021-06-22 02:01:24.000',NULL,'book','2022-12-03 10:46:09.000',NULL,NULL,NULL)
 ,(1292,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','419',88,'2021-06-24 15:21:00.000',NULL,'game','2022-12-07 14:57:14.000',NULL,NULL,NULL)
-,(1439,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','76',51,'2020-05-17 03:42:20.000',NULL,'game','2023-06-04 05:38:42.000',NULL,NULL,NULL)
-,(1293,NULL,'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','325',78,'2021-01-27 07:00:46.000',NULL,'game','2023-06-13 17:28:06.000',NULL,NULL,NULL)
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','419',88,'2021-06-24 15:21:00.000',NULL,'book','2022-12-07 14:57:14.000',NULL,NULL,NULL)
+,(1439,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','76',51,'2020-05-17 03:42:20.000',NULL,'book','2023-06-04 05:38:42.000',NULL,NULL,NULL)
+,(1293,NULL,'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','325',78,'2021-01-27 07:00:46.000',NULL,'book','2023-06-13 17:28:06.000',NULL,NULL,NULL)
 ,(1294,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
 Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
@@ -6244,7 +6244,7 @@ Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus 
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','449',63,'2020-03-10 23:04:42.000',NULL,'game','2023-08-15 04:30:02.000',NULL,NULL,NULL)
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','449',63,'2020-03-10 23:04:42.000',NULL,'book','2023-08-15 04:30:02.000',NULL,NULL,NULL)
 ,(1296,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','13',19,'2020-08-21 13:00:11.000',NULL,'product','2023-01-19 15:07:56.000',NULL,NULL,NULL)
 ,(1297,NULL,'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
@@ -6253,7 +6253,7 @@ Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue 
 Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','112',40,'2020-10-25 06:41:44.000',NULL,'product','2023-03-07 12:26:35.000',NULL,NULL,NULL)
 ,(1298,NULL,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
-Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','747',76,'2020-11-30 10:06:38.000',NULL,'game','2022-08-31 00:43:33.000',NULL,NULL,NULL)
+Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','747',76,'2020-11-30 10:06:38.000',NULL,'book','2022-08-31 00:43:33.000',NULL,NULL,NULL)
 ,(1299,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
@@ -6269,28 +6269,28 @@ Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula
 ,(1301,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','107',82,'2021-06-01 23:47:48.000',NULL,'article','2023-02-25 10:06:24.000',NULL,NULL,NULL)
-,(1302,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.','comment','101',4,'2021-11-19 06:39:19.000',NULL,'game','2023-07-13 06:24:22.000',NULL,NULL,NULL)
+,(1302,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.','comment','101',4,'2021-11-19 06:39:19.000',NULL,'book','2023-07-13 06:24:22.000',NULL,NULL,NULL)
 ,(1303,NULL,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','232',15,'2021-07-23 16:56:03.000',NULL,'article','2022-10-08 15:10:11.000',NULL,NULL,NULL)
 ,(1304,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','comment','151',87,'2020-01-21 11:43:28.000',NULL,'product','2022-02-25 05:11:03.000',NULL,NULL,NULL)
 ,(1305,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','25',88,'2020-11-27 12:10:17.000',NULL,'game','2023-09-23 00:10:12.000',NULL,NULL,NULL)
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','25',88,'2020-11-27 12:10:17.000',NULL,'book','2023-09-23 00:10:12.000',NULL,NULL,NULL)
 ,(1306,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','336',69,'2022-04-23 08:25:49.000',NULL,'game','2023-10-26 20:45:07.000',NULL,NULL,NULL)
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','336',69,'2022-04-23 08:25:49.000',NULL,'book','2023-10-26 20:45:07.000',NULL,NULL,NULL)
 ,(1307,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','comment','146',59,'2021-08-20 09:50:41.000',NULL,'game','2022-09-28 13:49:09.000',NULL,NULL,NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','comment','146',59,'2021-08-20 09:50:41.000',NULL,'book','2022-09-28 13:49:09.000',NULL,NULL,NULL)
 ,(1308,NULL,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','231',51,'2022-08-05 20:01:25.000',NULL,'product','2022-09-28 20:57:19.000',NULL,NULL,NULL)
 ,(1309,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','689',86,'2020-05-18 15:59:29.000',NULL,'game','2023-04-26 13:53:03.000',NULL,NULL,NULL)
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','689',86,'2020-05-18 15:59:29.000',NULL,'book','2023-04-26 13:53:03.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1310,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','780',72,'2021-05-21 02:22:42.000',NULL,'article','2023-04-21 12:33:20.000',NULL,NULL,NULL)
@@ -6298,19 +6298,19 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','679',46,'2021-10-03 18:45:58.000',NULL,'game','2022-01-18 10:48:34.000',NULL,NULL,NULL)
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','679',46,'2021-10-03 18:45:58.000',NULL,'book','2022-01-18 10:48:34.000',NULL,NULL,NULL)
 ,(1312,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','36',77,'2020-07-05 14:39:57.000',NULL,'game','2023-05-17 10:03:23.000',NULL,NULL,NULL)
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','36',77,'2020-07-05 14:39:57.000',NULL,'book','2023-05-17 10:03:23.000',NULL,NULL,NULL)
 ,(1313,NULL,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','443',23,'2020-03-09 22:44:13.000',NULL,'product','2023-07-01 16:50:17.000',NULL,NULL,NULL)
 ,(1314,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.','comment','8',59,'2022-01-16 09:26:19.000',NULL,'product','2023-11-22 23:48:20.000',NULL,NULL,NULL)
-,(1485,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','40',32,'2022-01-06 16:00:42.000',NULL,'game','2023-09-12 15:15:11.000',NULL,NULL,NULL)
+,(1485,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','40',32,'2022-01-06 16:00:42.000',NULL,'book','2023-09-12 15:15:11.000',NULL,NULL,NULL)
 ,(1315,NULL,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
@@ -6343,16 +6343,16 @@ Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque liber
 
 Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','459',52,'2022-05-04 13:59:58.000',NULL,'game','2023-09-18 13:17:44.000',NULL,NULL,NULL)
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','459',52,'2022-05-04 13:59:58.000',NULL,'book','2023-09-18 13:17:44.000',NULL,NULL,NULL)
 ,(1326,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','350',41,'2022-09-21 16:15:38.000',NULL,'product','2022-07-28 07:55:17.000',NULL,NULL,NULL)
 ,(1327,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','736',31,'2022-02-06 11:48:43.000',NULL,'game','2023-12-30 14:37:51.000',NULL,NULL,NULL)
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','736',31,'2022-02-06 11:48:43.000',NULL,'book','2023-12-30 14:37:51.000',NULL,NULL,NULL)
 ,(1328,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','334',66,'2020-05-29 06:05:19.000',NULL,'game','2023-07-20 06:16:46.000',NULL,NULL,NULL)
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','334',66,'2020-05-29 06:05:19.000',NULL,'book','2023-07-20 06:16:46.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1329,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
@@ -6363,13 +6363,13 @@ Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quis
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','528',9,'2020-09-08 07:04:07.000',NULL,'article','2022-10-04 04:09:56.000',NULL,NULL,NULL)
 ,(1331,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','655',52,'2022-02-24 20:36:56.000',NULL,'game','2023-04-06 02:28:17.000',NULL,NULL,NULL)
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','655',52,'2022-02-24 20:36:56.000',NULL,'book','2023-04-06 02:28:17.000',NULL,NULL,NULL)
 ,(1332,NULL,'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
 Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','207',45,'2021-03-18 14:08:30.000',NULL,'product','2022-02-05 22:52:30.000',NULL,NULL,NULL)
 ,(1333,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','408',77,'2022-12-09 00:44:02.000',NULL,'game','2022-04-28 15:00:50.000',NULL,NULL,NULL)
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','408',77,'2022-12-09 00:44:02.000',NULL,'book','2022-04-28 15:00:50.000',NULL,NULL,NULL)
 ,(1334,NULL,'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','343',11,'2022-07-06 10:06:35.000',NULL,'article','2022-08-02 19:15:16.000',NULL,NULL,NULL)
 ,(1335,NULL,'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
@@ -6390,11 +6390,11 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 (1339,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','269',64,'2022-06-18 17:39:31.000',NULL,'product','2022-03-07 23:03:34.000',NULL,NULL,NULL)
-,(1340,NULL,'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','582',81,'2022-01-18 14:43:05.000',NULL,'game','2023-11-14 00:33:57.000',NULL,NULL,NULL)
-,(1341,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','753',56,'2020-12-27 01:41:19.000',NULL,'game','2022-08-10 14:48:58.000',NULL,NULL,NULL)
+,(1340,NULL,'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','582',81,'2022-01-18 14:43:05.000',NULL,'book','2023-11-14 00:33:57.000',NULL,NULL,NULL)
+,(1341,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','753',56,'2020-12-27 01:41:19.000',NULL,'book','2022-08-10 14:48:58.000',NULL,NULL,NULL)
 ,(1342,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','227',13,'2020-05-24 20:26:51.000',NULL,'game','2023-02-11 22:53:04.000',NULL,NULL,NULL)
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','227',13,'2020-05-24 20:26:51.000',NULL,'book','2023-02-11 22:53:04.000',NULL,NULL,NULL)
 ,(1343,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','596',89,'2022-07-08 06:34:30.000',NULL,'product','2022-12-20 05:51:07.000',NULL,NULL,NULL)
 ,(1344,NULL,'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','432',4,'2021-01-30 09:21:51.000',NULL,'product','2023-01-07 05:19:10.000',NULL,NULL,NULL)
 ,(1345,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
@@ -6402,7 +6402,7 @@ Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vi
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','455',72,'2020-09-26 09:23:57.000',NULL,'article','2022-10-31 05:48:11.000',NULL,NULL,NULL)
-,(1346,NULL,'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','590',80,'2022-03-15 11:44:29.000',NULL,'game','2022-03-12 21:29:30.000',NULL,NULL,NULL)
+,(1346,NULL,'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','590',80,'2022-03-15 11:44:29.000',NULL,'book','2022-03-12 21:29:30.000',NULL,NULL,NULL)
 ,(1347,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
 Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
@@ -6410,7 +6410,7 @@ Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum an
 Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','comment','271',91,'2022-04-15 14:31:15.000',NULL,'article','2022-07-21 22:14:34.000',NULL,NULL,NULL)
 ,(1348,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','447',57,'2022-10-25 12:16:53.000',NULL,'game','2023-04-25 15:19:47.000',NULL,NULL,NULL)
+Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','447',57,'2022-10-25 12:16:53.000',NULL,'book','2023-04-25 15:19:47.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1349,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
@@ -6421,15 +6421,15 @@ Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quis
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','708',27,'2020-07-23 12:40:42.000',NULL,'article','2023-08-06 00:10:00.000',NULL,NULL,NULL)
 ,(1351,NULL,'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','795',70,'2022-07-11 14:01:45.000',NULL,'game','2022-12-20 22:47:58.000',NULL,NULL,NULL)
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','795',70,'2022-07-11 14:01:45.000',NULL,'book','2022-12-20 22:47:58.000',NULL,NULL,NULL)
 ,(1352,NULL,'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','265',98,'2022-03-04 07:20:00.000',NULL,'game','2022-07-24 03:24:16.000',NULL,NULL,NULL)
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','265',98,'2022-03-04 07:20:00.000',NULL,'book','2022-07-24 03:24:16.000',NULL,NULL,NULL)
 ,(1353,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
-Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','606',98,'2020-09-01 03:19:32.000',NULL,'game','2022-03-14 12:59:43.000',NULL,NULL,NULL)
+Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','606',98,'2020-09-01 03:19:32.000',NULL,'book','2022-03-14 12:59:43.000',NULL,NULL,NULL)
 ,(1354,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','556',15,'2020-06-23 22:44:48.000',NULL,'article','2022-06-26 08:18:53.000',NULL,NULL,NULL)
 ,(1355,NULL,'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','20',84,'2021-01-25 17:07:25.000',NULL,'product','2023-11-02 21:12:57.000',NULL,NULL,NULL)
 ,(1356,NULL,'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','505',37,'2022-03-01 14:17:53.000',NULL,'article','2023-08-04 03:50:31.000',NULL,NULL,NULL)
@@ -6448,18 +6448,18 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','204',89,'2021-04-15 01:41:18.000',NULL,'game','2023-06-30 10:03:18.000',NULL,NULL,NULL)
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','204',89,'2021-04-15 01:41:18.000',NULL,'book','2023-06-30 10:03:18.000',NULL,NULL,NULL)
 ,(1361,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','374',43,'2021-04-03 07:12:35.000',NULL,'article','2023-12-19 10:09:13.000',NULL,NULL,NULL)
 ,(1362,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','279',39,'2022-09-23 01:00:55.000',NULL,'article','2023-10-08 04:12:56.000',NULL,NULL,NULL)
-,(1363,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','317',34,'2021-05-06 05:33:09.000',NULL,'game','2022-06-01 05:35:14.000',NULL,NULL,NULL)
-,(1364,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','335',44,'2020-01-05 02:57:24.000',NULL,'game','2022-11-28 11:06:24.000',NULL,NULL,NULL)
+,(1363,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','317',34,'2021-05-06 05:33:09.000',NULL,'book','2022-06-01 05:35:14.000',NULL,NULL,NULL)
+,(1364,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','335',44,'2020-01-05 02:57:24.000',NULL,'book','2022-11-28 11:06:24.000',NULL,NULL,NULL)
 ,(1365,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','691',51,'2022-08-06 20:11:15.000',NULL,'game','2023-06-10 15:15:20.000',NULL,NULL,NULL)
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','691',51,'2022-08-06 20:11:15.000',NULL,'book','2023-06-10 15:15:20.000',NULL,NULL,NULL)
 ,(1366,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
@@ -6472,7 +6472,7 @@ Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment',
 
 In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','96',6,'2022-08-17 04:28:41.000',NULL,'game','2022-04-10 12:02:37.000',NULL,NULL,NULL)
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','96',6,'2022-08-17 04:28:41.000',NULL,'book','2022-04-10 12:02:37.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1369,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
@@ -6480,8 +6480,8 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','746',14,'2020-12-02 07:30:53.000',NULL,'article','2022-11-07 11:04:01.000',NULL,NULL,NULL)
 ,(1370,NULL,'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','514',59,'2021-11-22 00:31:56.000',NULL,'game','2023-12-28 16:53:25.000',NULL,NULL,NULL)
-,(1371,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','141',93,'2020-09-17 09:09:03.000',NULL,'game','2023-11-24 09:27:42.000',NULL,NULL,NULL)
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','514',59,'2021-11-22 00:31:56.000',NULL,'book','2023-12-28 16:53:25.000',NULL,NULL,NULL)
+,(1371,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','141',93,'2020-09-17 09:09:03.000',NULL,'book','2023-11-24 09:27:42.000',NULL,NULL,NULL)
 ,(1372,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','469',81,'2020-12-16 21:06:35.000',NULL,'product','2023-07-21 08:41:15.000',NULL,NULL,NULL)
@@ -6499,7 +6499,7 @@ Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luc
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','16',8,'2022-11-27 04:22:30.000',NULL,'game','2022-10-11 06:09:24.000',NULL,NULL,NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','16',8,'2022-11-27 04:22:30.000',NULL,'book','2022-10-11 06:09:24.000',NULL,NULL,NULL)
 ,(1378,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','548',86,'2022-07-19 04:16:33.000',NULL,'product','2023-09-13 00:05:21.000',NULL,NULL,NULL)
@@ -6513,13 +6513,13 @@ Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','671',77,'2020-02-28 08:35:43.000',NULL,'article','2022-08-28 14:31:57.000',NULL,NULL,NULL)
 ,(1381,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','648',91,'2020-06-25 17:41:29.000',NULL,'game','2022-07-21 18:04:27.000',NULL,NULL,NULL)
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','648',91,'2020-06-25 17:41:29.000',NULL,'book','2022-07-21 18:04:27.000',NULL,NULL,NULL)
 ,(1382,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','565',3,'2021-06-14 03:56:20.000',NULL,'product','2022-02-03 20:46:28.000',NULL,NULL,NULL)
 ,(1383,NULL,'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','77',84,'2022-02-05 16:03:34.000',NULL,'game','2023-05-23 19:05:22.000',NULL,NULL,NULL)
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','77',84,'2022-02-05 16:03:34.000',NULL,'book','2023-05-23 19:05:22.000',NULL,NULL,NULL)
 ,(1384,NULL,'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
@@ -6543,7 +6543,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','506',39,'2020-05-27 10:21:30.000',NULL,'game','2022-10-21 22:07:17.000',NULL,NULL,NULL)
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','506',39,'2020-05-27 10:21:30.000',NULL,'book','2022-10-21 22:07:17.000',NULL,NULL,NULL)
 ,(1390,NULL,'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','742',24,'2021-04-26 12:47:45.000',NULL,'product','2023-08-13 22:23:14.000',NULL,NULL,NULL)
@@ -6558,7 +6558,7 @@ Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','6
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','188',49,'2020-08-22 16:55:53.000',NULL,'product','2023-03-15 11:26:14.000',NULL,NULL,NULL)
 ,(1394,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.
 
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','112',61,'2022-11-06 11:50:33.000',NULL,'game','2023-02-14 19:21:10.000',NULL,NULL,NULL)
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','112',61,'2022-11-06 11:50:33.000',NULL,'book','2023-02-14 19:21:10.000',NULL,NULL,NULL)
 ,(1395,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','399',72,'2022-03-09 23:10:33.000',NULL,'product','2022-09-15 15:41:04.000',NULL,NULL,NULL)
 ,(1396,NULL,'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
@@ -6578,7 +6578,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','741',61,'2022-06-18 02:30:41.000',NULL,'game','2023-02-24 06:18:31.000',NULL,NULL,NULL)
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','741',61,'2022-06-18 02:30:41.000',NULL,'book','2023-02-24 06:18:31.000',NULL,NULL,NULL)
 ,(1403,NULL,'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
@@ -6589,7 +6589,7 @@ Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit u
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','20',85,'2020-04-25 20:50:24.000',NULL,'article','2022-09-22 07:59:50.000',NULL,NULL,NULL)
-,(1405,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','455',55,'2021-03-27 05:34:34.000',NULL,'game','2022-09-01 06:16:25.000',NULL,NULL,NULL)
+,(1405,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','455',55,'2021-03-27 05:34:34.000',NULL,'book','2022-09-01 06:16:25.000',NULL,NULL,NULL)
 ,(1406,NULL,'Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','70',47,'2022-07-07 01:31:23.000',NULL,'article','2022-07-11 22:04:23.000',NULL,NULL,NULL)
@@ -6598,7 +6598,7 @@ Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan fe
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','725',14,'2022-11-18 10:03:24.000',NULL,'product','2023-11-03 05:22:39.000',NULL,NULL,NULL)
-,(1408,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','comment','234',98,'2020-04-09 07:56:08.000',NULL,'game','2022-02-24 16:16:36.000',NULL,NULL,NULL)
+,(1408,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','comment','234',98,'2020-04-09 07:56:08.000',NULL,'book','2022-02-24 16:16:36.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1409,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.','comment','484',78,'2022-08-22 17:16:00.000',NULL,'article','2023-07-08 04:20:10.000',NULL,NULL,NULL)
@@ -6607,7 +6607,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','276',6,'2020-01-07 20:28:24.000',NULL,'article','2023-02-27 07:42:24.000',NULL,NULL,NULL)
 ,(1411,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','292',74,'2020-03-22 19:21:53.000',NULL,'game','2023-06-03 17:31:35.000',NULL,NULL,NULL)
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','292',74,'2020-03-22 19:21:53.000',NULL,'book','2023-06-03 17:31:35.000',NULL,NULL,NULL)
 ,(1412,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
@@ -6636,7 +6636,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','473',4,'2020-11-09 21:26:50.000',NULL,'product','2022-05-15 10:26:28.000',NULL,NULL,NULL)
 ,(1420,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','555',37,'2022-01-15 08:38:00.000',NULL,'game','2022-07-16 08:45:37.000',NULL,NULL,NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','555',37,'2022-01-15 08:38:00.000',NULL,'book','2022-07-16 08:45:37.000',NULL,NULL,NULL)
 ,(1421,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','442',32,'2020-11-07 18:56:53.000',NULL,'product','2023-12-17 12:04:41.000',NULL,NULL,NULL)
@@ -6646,9 +6646,9 @@ Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer al
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','223',48,'2021-03-12 19:47:19.000',NULL,'article','2023-02-03 19:37:57.000',NULL,NULL,NULL)
 ,(1424,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','595',76,'2020-04-11 08:48:11.000',NULL,'game','2023-12-17 00:25:05.000',NULL,NULL,NULL)
-,(1425,NULL,'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','203',25,'2020-10-07 22:54:06.000',NULL,'game','2022-02-01 23:34:42.000',NULL,NULL,NULL)
-,(1426,NULL,'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','315',19,'2020-08-13 03:28:27.000',NULL,'game','2022-01-05 12:03:52.000',NULL,NULL,NULL)
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','595',76,'2020-04-11 08:48:11.000',NULL,'book','2023-12-17 00:25:05.000',NULL,NULL,NULL)
+,(1425,NULL,'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','203',25,'2020-10-07 22:54:06.000',NULL,'book','2022-02-01 23:34:42.000',NULL,NULL,NULL)
+,(1426,NULL,'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','315',19,'2020-08-13 03:28:27.000',NULL,'book','2022-01-05 12:03:52.000',NULL,NULL,NULL)
 ,(1427,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','424',51,'2021-05-24 02:23:16.000',NULL,'product','2022-02-21 07:21:26.000',NULL,NULL,NULL)
 ,(1428,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
@@ -6666,23 +6666,23 @@ Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in s
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','707',39,'2020-04-14 09:09:10.000',NULL,'game','2023-01-17 00:46:20.000',NULL,NULL,NULL)
-,(1431,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','448',14,'2021-06-03 03:24:42.000',NULL,'game','2022-02-06 06:33:50.000',NULL,NULL,NULL)
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','707',39,'2020-04-14 09:09:10.000',NULL,'book','2023-01-17 00:46:20.000',NULL,NULL,NULL)
+,(1431,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','448',14,'2021-06-03 03:24:42.000',NULL,'book','2022-02-06 06:33:50.000',NULL,NULL,NULL)
 ,(1432,NULL,'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','567',7,'2021-10-20 14:32:01.000',NULL,'product','2022-01-09 12:51:06.000',NULL,NULL,NULL)
 ,(1433,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','257',37,'2020-05-13 19:39:01.000',NULL,'game','2022-06-05 11:38:04.000',NULL,NULL,NULL)
+Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','257',37,'2020-05-13 19:39:01.000',NULL,'book','2022-06-05 11:38:04.000',NULL,NULL,NULL)
 ,(1434,NULL,'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','782',19,'2021-08-22 18:33:21.000',NULL,'product','2023-06-08 05:16:40.000',NULL,NULL,NULL)
 ,(1435,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','712',67,'2020-02-27 10:49:25.000',NULL,'game','2022-08-12 18:14:35.000',NULL,NULL,NULL)
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','712',67,'2020-02-27 10:49:25.000',NULL,'book','2022-08-12 18:14:35.000',NULL,NULL,NULL)
 ,(1436,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','255',28,'2020-07-07 08:29:26.000',NULL,'game','2023-09-02 01:46:37.000',NULL,NULL,NULL)
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','255',28,'2020-07-07 08:29:26.000',NULL,'book','2023-09-02 01:46:37.000',NULL,NULL,NULL)
 ,(1437,NULL,'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','447',41,'2022-01-20 14:56:32.000',NULL,'article','2022-07-07 23:13:52.000',NULL,NULL,NULL)
@@ -6710,7 +6710,7 @@ Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscip
 Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','763',72,'2022-01-14 10:33:50.000',NULL,'article','2023-12-27 05:10:51.000',NULL,NULL,NULL)
 ,(1445,NULL,'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','392',89,'2020-02-17 01:14:32.000',NULL,'game','2023-04-15 23:21:10.000',NULL,NULL,NULL)
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','392',89,'2020-02-17 01:14:32.000',NULL,'book','2023-04-15 23:21:10.000',NULL,NULL,NULL)
 ,(1446,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
@@ -6720,7 +6720,7 @@ Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pu
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','500',52,'2021-10-22 02:14:02.000',NULL,'game','2023-07-08 13:15:16.000',NULL,NULL,NULL)
+Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','500',52,'2021-10-22 02:14:02.000',NULL,'book','2023-07-08 13:15:16.000',NULL,NULL,NULL)
 ,(1448,NULL,'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
@@ -6738,7 +6738,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','595',59,'2022-08-17 14:15:40.000',NULL,'product','2022-04-21 21:11:34.000',NULL,NULL,NULL)
-,(1451,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','513',70,'2022-04-25 04:08:20.000',NULL,'game','2022-06-02 20:07:37.000',NULL,NULL,NULL)
+,(1451,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','513',70,'2022-04-25 04:08:20.000',NULL,'book','2022-06-02 20:07:37.000',NULL,NULL,NULL)
 ,(1452,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
@@ -6749,7 +6749,7 @@ Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan fe
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','553',73,'2021-11-28 11:31:14.000',NULL,'game','2023-06-05 22:18:37.000',NULL,NULL,NULL)
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','553',73,'2021-11-28 11:31:14.000',NULL,'book','2023-06-05 22:18:37.000',NULL,NULL,NULL)
 ,(1455,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
 Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','684',56,'2022-06-17 19:31:11.000',NULL,'article','2023-04-05 04:29:20.000',NULL,NULL,NULL)
@@ -6765,8 +6765,8 @@ Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integ
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','380',86,'2021-05-16 15:41:03.000',NULL,'game','2023-04-04 18:18:03.000',NULL,NULL,NULL)
-,(1459,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','327',99,'2021-07-29 13:57:32.000',NULL,'game','2023-11-26 22:24:59.000',NULL,NULL,NULL)
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','380',86,'2021-05-16 15:41:03.000',NULL,'book','2023-04-04 18:18:03.000',NULL,NULL,NULL)
+,(1459,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','327',99,'2021-07-29 13:57:32.000',NULL,'book','2023-11-26 22:24:59.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1460,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.','comment','567',55,'2020-07-23 01:05:33.000',NULL,'product','2023-11-25 18:51:29.000',NULL,NULL,NULL)
@@ -6774,7 +6774,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','463',70,'2022-08-30 23:17:00.000',NULL,'game','2023-10-20 15:14:37.000',NULL,NULL,NULL)
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','463',70,'2022-08-30 23:17:00.000',NULL,'book','2023-10-20 15:14:37.000',NULL,NULL,NULL)
 ,(1462,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
@@ -6789,7 +6789,7 @@ Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer al
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','600',5,'2022-11-16 16:53:39.000',NULL,'game','2023-08-05 06:23:21.000',NULL,NULL,NULL)
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','600',5,'2022-11-16 16:53:39.000',NULL,'book','2023-08-05 06:23:21.000',NULL,NULL,NULL)
 ,(1465,NULL,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','102',65,'2022-03-04 11:59:52.000',NULL,'article','2022-08-17 10:48:57.000',NULL,NULL,NULL)
@@ -6806,7 +6806,7 @@ Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integ
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','428',79,'2022-02-04 08:34:52.000',NULL,'product','2022-03-06 09:26:03.000',NULL,NULL,NULL)
 ,(1469,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','475',37,'2022-05-24 20:40:03.000',NULL,'game','2023-10-05 10:39:37.000',NULL,NULL,NULL)
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','475',37,'2022-05-24 20:40:03.000',NULL,'book','2023-10-05 10:39:37.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1470,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','495',10,'2022-09-11 11:58:07.000',NULL,'article','2023-03-13 15:07:45.000',NULL,NULL,NULL)
@@ -6831,7 +6831,7 @@ Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luc
 ,(1477,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
 Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','274',4,'2020-04-10 12:28:22.000',NULL,'product','2022-08-26 18:49:40.000',NULL,NULL,NULL)
-,(1478,NULL,'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','679',82,'2022-12-25 01:56:10.000',NULL,'game','2023-07-11 19:39:42.000',NULL,NULL,NULL)
+,(1478,NULL,'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','679',82,'2022-12-25 01:56:10.000',NULL,'book','2023-07-11 19:39:42.000',NULL,NULL,NULL)
 ,(1479,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','84',19,'2020-06-15 22:05:20.000',NULL,'article','2023-03-31 22:16:00.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
@@ -6848,16 +6848,16 @@ Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luc
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','515',53,'2020-08-06 15:43:07.000',NULL,'game','2022-11-18 08:09:18.000',NULL,NULL,NULL)
-,(1484,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','464',22,'2020-09-14 21:57:11.000',NULL,'game','2023-12-05 00:07:38.000',NULL,NULL,NULL)
+Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','515',53,'2020-08-06 15:43:07.000',NULL,'book','2022-11-18 08:09:18.000',NULL,NULL,NULL)
+,(1484,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','464',22,'2020-09-14 21:57:11.000',NULL,'book','2023-12-05 00:07:38.000',NULL,NULL,NULL)
 ,(1486,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','555',64,'2021-04-14 00:02:54.000',NULL,'game','2023-12-10 20:59:44.000',NULL,NULL,NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','555',64,'2021-04-14 00:02:54.000',NULL,'book','2023-12-10 20:59:44.000',NULL,NULL,NULL)
 ,(1487,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','455',28,'2021-11-27 16:04:17.000',NULL,'game','2022-11-07 17:42:48.000',NULL,NULL,NULL)
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','455',28,'2021-11-27 16:04:17.000',NULL,'book','2022-11-07 17:42:48.000',NULL,NULL,NULL)
 ,(1488,NULL,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
@@ -6881,10 +6881,10 @@ In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, di
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','618',78,'2022-02-21 14:04:39.000',NULL,'game','2022-11-14 08:55:16.000',NULL,NULL,NULL)
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','618',78,'2022-02-21 14:04:39.000',NULL,'book','2022-11-14 08:55:16.000',NULL,NULL,NULL)
 ,(1494,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','198',61,'2020-04-27 15:26:52.000',NULL,'game','2023-05-11 19:40:42.000',NULL,NULL,NULL)
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','198',61,'2020-04-27 15:26:52.000',NULL,'book','2023-05-11 19:40:42.000',NULL,NULL,NULL)
 ,(1495,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','315',49,'2020-05-07 01:02:32.000',NULL,'article','2022-08-25 13:58:00.000',NULL,NULL,NULL)
@@ -6893,7 +6893,7 @@ Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quis
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','738',38,'2020-12-26 03:49:13.000',NULL,'product','2023-01-30 09:29:23.000',NULL,NULL,NULL)
 ,(1498,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','comment','640',60,'2022-02-11 02:35:04.000',NULL,'article','2022-12-27 22:17:04.000',NULL,NULL,NULL)
-,(1499,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','346',54,'2021-04-30 17:24:10.000',NULL,'game','2023-02-27 07:10:35.000',NULL,NULL,NULL)
+,(1499,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','346',54,'2021-04-30 17:24:10.000',NULL,'book','2023-02-27 07:10:35.000',NULL,NULL,NULL)
 ,(1500,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','215',40,'2021-03-30 20:28:01.000',NULL,'product','2022-03-19 09:21:00.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
@@ -6908,26 +6908,26 @@ Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','319',81,'2021-03-19 13:46:34.000',NULL,'article','2022-10-09 12:58:30.000',NULL,NULL,NULL)
 ,(1504,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','336',46,'2021-01-17 23:53:35.000',NULL,'game','2023-09-19 22:39:00.000',NULL,NULL,NULL)
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','336',46,'2021-01-17 23:53:35.000',NULL,'book','2023-09-19 22:39:00.000',NULL,NULL,NULL)
 ,(1505,NULL,'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','713',48,'2021-04-13 20:08:15.000',NULL,'game','2022-03-02 17:54:38.000',NULL,NULL,NULL)
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','713',48,'2021-04-13 20:08:15.000',NULL,'book','2022-03-02 17:54:38.000',NULL,NULL,NULL)
 ,(1506,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','75',84,'2020-11-26 13:18:51.000',NULL,'game','2023-11-12 10:17:58.000',NULL,NULL,NULL)
-,(1507,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','379',17,'2021-04-25 14:29:08.000',NULL,'game','2022-05-30 16:28:07.000',NULL,NULL,NULL)
-,(1508,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','694',54,'2022-05-17 07:00:54.000',NULL,'game','2022-06-26 05:28:01.000',NULL,NULL,NULL)
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','75',84,'2020-11-26 13:18:51.000',NULL,'book','2023-11-12 10:17:58.000',NULL,NULL,NULL)
+,(1507,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','379',17,'2021-04-25 14:29:08.000',NULL,'book','2022-05-30 16:28:07.000',NULL,NULL,NULL)
+,(1508,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','694',54,'2022-05-17 07:00:54.000',NULL,'book','2022-06-26 05:28:01.000',NULL,NULL,NULL)
 ,(1509,NULL,'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','95',40,'2020-11-18 17:18:52.000',NULL,'product','2023-11-18 22:04:20.000',NULL,NULL,NULL)
 ,(1538,NULL,'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
-Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','409',59,'2020-05-26 22:05:33.000',NULL,'game','2023-11-28 13:25:53.000',NULL,NULL,NULL)
+Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','409',59,'2020-05-26 22:05:33.000',NULL,'book','2023-11-28 13:25:53.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1510,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','314',18,'2022-03-09 12:57:25.000',NULL,'game','2023-01-12 08:37:10.000',NULL,NULL,NULL)
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','314',18,'2022-03-09 12:57:25.000',NULL,'book','2023-01-12 08:37:10.000',NULL,NULL,NULL)
 ,(1511,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','comment','206',3,'2020-01-20 18:39:41.000',NULL,'product','2023-05-18 18:43:18.000',NULL,NULL,NULL)
 ,(1512,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','451',25,'2022-11-28 01:50:40.000',NULL,'product','2023-12-07 02:36:31.000',NULL,NULL,NULL)
 ,(1513,NULL,'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -6944,35 +6944,35 @@ Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer al
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 
 Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','318',56,'2022-12-28 16:44:49.000',NULL,'product','2022-01-20 03:32:37.000',NULL,NULL,NULL)
-,(1517,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.','comment','107',5,'2022-11-07 04:28:39.000',NULL,'game','2023-08-30 16:10:27.000',NULL,NULL,NULL)
+,(1517,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.','comment','107',5,'2022-11-07 04:28:39.000',NULL,'book','2023-08-30 16:10:27.000',NULL,NULL,NULL)
 ,(1518,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','704',86,'2021-05-15 18:01:56.000',NULL,'article','2022-06-10 23:12:58.000',NULL,NULL,NULL)
-,(1519,NULL,'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','623',28,'2021-03-31 01:13:13.000',NULL,'game','2022-02-03 03:27:48.000',NULL,NULL,NULL)
+,(1519,NULL,'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','623',28,'2021-03-31 01:13:13.000',NULL,'book','2022-02-03 03:27:48.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1520,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','48',43,'2020-05-18 19:31:26.000',NULL,'product','2023-02-03 16:32:04.000',NULL,NULL,NULL)
 ,(1521,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','709',28,'2020-01-23 22:16:31.000',NULL,'product','2023-01-17 04:01:09.000',NULL,NULL,NULL)
-,(1522,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','726',80,'2022-03-17 11:15:36.000',NULL,'game','2023-10-20 05:36:45.000',NULL,NULL,NULL)
+,(1522,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','726',80,'2022-03-17 11:15:36.000',NULL,'book','2023-10-20 05:36:45.000',NULL,NULL,NULL)
 ,(1523,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','556',15,'2020-05-07 12:40:15.000',NULL,'article','2022-03-16 01:54:28.000',NULL,NULL,NULL)
 ,(1524,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','582',12,'2021-01-23 17:31:01.000',NULL,'game','2023-07-20 05:32:20.000',NULL,NULL,NULL)
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','582',12,'2021-01-23 17:31:01.000',NULL,'book','2023-07-20 05:32:20.000',NULL,NULL,NULL)
 ,(1525,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','473',58,'2021-04-18 02:08:46.000',NULL,'article','2023-06-23 08:16:53.000',NULL,NULL,NULL)
 ,(1526,NULL,'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','60',25,'2021-10-29 14:10:05.000',NULL,'game','2023-05-12 05:46:02.000',NULL,NULL,NULL)
-,(1527,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','781',73,'2022-01-27 22:09:47.000',NULL,'game','2023-09-12 04:15:57.000',NULL,NULL,NULL)
-,(1528,NULL,'Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','295',88,'2020-06-30 01:25:38.000',NULL,'game','2022-05-27 14:39:46.000',NULL,NULL,NULL)
-,(1529,NULL,'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','514',98,'2020-01-02 10:53:47.000',NULL,'game','2023-06-21 15:12:31.000',NULL,NULL,NULL)
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','60',25,'2021-10-29 14:10:05.000',NULL,'book','2023-05-12 05:46:02.000',NULL,NULL,NULL)
+,(1527,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','781',73,'2022-01-27 22:09:47.000',NULL,'book','2023-09-12 04:15:57.000',NULL,NULL,NULL)
+,(1528,NULL,'Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','295',88,'2020-06-30 01:25:38.000',NULL,'book','2022-05-27 14:39:46.000',NULL,NULL,NULL)
+,(1529,NULL,'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','514',98,'2020-01-02 10:53:47.000',NULL,'book','2023-06-21 15:12:31.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1530,NULL,'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','627',84,'2020-12-27 21:16:00.000',NULL,'article','2023-10-22 13:22:13.000',NULL,NULL,NULL)
@@ -6981,19 +6981,19 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
-Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','135',38,'2022-08-09 15:51:29.000',NULL,'game','2022-03-08 22:21:45.000',NULL,NULL,NULL)
+Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','135',38,'2022-08-09 15:51:29.000',NULL,'book','2022-03-08 22:21:45.000',NULL,NULL,NULL)
 ,(1533,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
 Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','comment','619',79,'2021-12-03 08:32:33.000',NULL,'game','2023-09-26 21:48:05.000',NULL,NULL,NULL)
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','comment','619',79,'2021-12-03 08:32:33.000',NULL,'book','2023-09-26 21:48:05.000',NULL,NULL,NULL)
 ,(1534,NULL,'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
 Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
 Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','672',32,'2022-07-15 16:03:42.000',NULL,'article','2022-04-24 06:52:15.000',NULL,NULL,NULL)
 ,(1535,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','226',22,'2022-10-19 10:58:04.000',NULL,'article','2023-03-22 17:11:18.000',NULL,NULL,NULL)
-,(1536,NULL,'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','321',88,'2020-07-30 20:33:52.000',NULL,'game','2022-01-17 13:36:50.000',NULL,NULL,NULL)
+,(1536,NULL,'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','321',88,'2020-07-30 20:33:52.000',NULL,'book','2022-01-17 13:36:50.000',NULL,NULL,NULL)
 ,(1537,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','600',65,'2022-08-18 16:16:27.000',NULL,'product','2022-08-25 22:28:41.000',NULL,NULL,NULL)
@@ -7020,7 +7020,7 @@ Fusce consequat. Nulla nisl. Nunc nisl.','comment','62',99,'2022-02-02 18:52:37.
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
 Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','683',25,'2021-11-01 14:18:06.000',NULL,'article','2022-08-25 22:17:25.000',NULL,NULL,NULL)
-,(1550,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','405',78,'2022-04-26 06:56:10.000',NULL,'game','2023-05-01 19:33:16.000',NULL,NULL,NULL)
+,(1550,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','405',78,'2022-04-26 06:56:10.000',NULL,'book','2023-05-01 19:33:16.000',NULL,NULL,NULL)
 ,(1551,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','189',90,'2022-01-11 16:30:45.000',NULL,'article','2022-12-08 16:24:40.000',NULL,NULL,NULL)
@@ -7036,7 +7036,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
-Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','607',69,'2021-07-22 05:48:37.000',NULL,'game','2022-09-25 09:27:43.000',NULL,NULL,NULL)
+Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','607',69,'2021-07-22 05:48:37.000',NULL,'book','2022-09-25 09:27:43.000',NULL,NULL,NULL)
 ,(1555,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','780',8,'2021-02-04 11:37:48.000',NULL,'product','2023-03-19 14:17:46.000',NULL,NULL,NULL)
@@ -7050,12 +7050,12 @@ Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet 
 
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','272',91,'2020-08-16 19:18:05.000',NULL,'game','2023-06-28 11:47:15.000',NULL,NULL,NULL)
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','272',91,'2020-08-16 19:18:05.000',NULL,'book','2023-06-28 11:47:15.000',NULL,NULL,NULL)
 ,(1559,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
 Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
-Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','386',68,'2022-01-27 12:38:03.000',NULL,'game','2022-06-08 20:09:17.000',NULL,NULL,NULL)
+Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','386',68,'2022-01-27 12:38:03.000',NULL,'book','2022-06-08 20:09:17.000',NULL,NULL,NULL)
 ,(1560,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
@@ -7063,7 +7063,7 @@ Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vi
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','61',34,'2020-06-18 01:41:11.000',NULL,'article','2022-03-02 13:28:53.000',NULL,NULL,NULL)
 ,(1561,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','61',2,'2021-10-04 22:11:59.000',NULL,'game','2022-07-09 16:48:55.000',NULL,NULL,NULL)
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','61',2,'2021-10-04 22:11:59.000',NULL,'book','2022-07-09 16:48:55.000',NULL,NULL,NULL)
 ,(1562,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
@@ -7076,7 +7076,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','207',15,'2020-04-10 02:26:20.000',NULL,'product','2023-11-26 03:26:19.000',NULL,NULL,NULL)
-,(1564,NULL,'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','798',18,'2022-10-22 09:24:12.000',NULL,'game','2023-08-12 20:27:34.000',NULL,NULL,NULL)
+,(1564,NULL,'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','798',18,'2022-10-22 09:24:12.000',NULL,'book','2023-08-12 20:27:34.000',NULL,NULL,NULL)
 ,(1565,NULL,'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','689',58,'2022-03-06 05:18:54.000',NULL,'article','2022-10-24 03:46:50.000',NULL,NULL,NULL)
@@ -7087,19 +7087,19 @@ In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','595',12,'2021-01-15 12:31:25.000',NULL,'product','2022-11-21 17:23:04.000',NULL,NULL,NULL)
 ,(1567,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
-Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','229',15,'2022-12-29 16:17:45.000',NULL,'game','2023-05-20 04:35:52.000',NULL,NULL,NULL)
+Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','229',15,'2022-12-29 16:17:45.000',NULL,'book','2023-05-20 04:35:52.000',NULL,NULL,NULL)
 ,(1568,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
 Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
-In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','comment','376',5,'2021-09-19 21:09:39.000',NULL,'game','2023-08-07 05:45:10.000',NULL,NULL,NULL)
+In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','comment','376',5,'2021-09-19 21:09:39.000',NULL,'book','2023-08-07 05:45:10.000',NULL,NULL,NULL)
 ,(1569,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','52',20,'2020-08-30 09:25:33.000',NULL,'product','2023-03-22 02:35:25.000',NULL,NULL,NULL)
 ,(1570,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','582',49,'2021-11-07 06:39:52.000',NULL,'article','2023-10-23 20:58:30.000',NULL,NULL,NULL)
 ,(1571,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','comment','389',67,'2020-05-11 17:18:13.000',NULL,'game','2023-05-08 21:07:33.000',NULL,NULL,NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','comment','389',67,'2020-05-11 17:18:13.000',NULL,'book','2023-05-08 21:07:33.000',NULL,NULL,NULL)
 ,(1572,NULL,'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
@@ -7127,22 +7127,22 @@ Sed ante. Vivamus tortor. Duis mattis egestas metus.
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','332',31,'2020-04-27 05:13:01.000',NULL,'article','2022-01-16 10:09:26.000',NULL,NULL,NULL)
 ,(1577,NULL,'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','345',63,'2022-12-21 11:53:31.000',NULL,'game','2022-09-15 12:26:36.000',NULL,NULL,NULL)
-,(1578,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','256',13,'2022-08-08 05:53:31.000',NULL,'game','2022-04-11 12:33:40.000',NULL,NULL,NULL)
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','345',63,'2022-12-21 11:53:31.000',NULL,'book','2022-09-15 12:26:36.000',NULL,NULL,NULL)
+,(1578,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','256',13,'2022-08-08 05:53:31.000',NULL,'book','2022-04-11 12:33:40.000',NULL,NULL,NULL)
 ,(1579,NULL,'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
 Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','679',31,'2022-11-30 19:18:48.000',NULL,'game','2023-04-23 17:02:39.000',NULL,NULL,NULL)
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','679',31,'2022-11-30 19:18:48.000',NULL,'book','2023-04-23 17:02:39.000',NULL,NULL,NULL)
 ,(1580,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.','comment','662',96,'2021-08-02 11:51:57.000',NULL,'product','2022-10-12 15:11:23.000',NULL,NULL,NULL)
-,(1581,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','481',70,'2021-01-09 16:55:10.000',NULL,'game','2023-08-16 03:20:44.000',NULL,NULL,NULL)
+,(1581,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','481',70,'2021-01-09 16:55:10.000',NULL,'book','2023-08-16 03:20:44.000',NULL,NULL,NULL)
 ,(1582,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','742',8,'2022-03-06 10:38:26.000',NULL,'game','2022-06-05 17:33:31.000',NULL,NULL,NULL)
+Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','742',8,'2022-03-06 10:38:26.000',NULL,'book','2022-06-05 17:33:31.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1583,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
@@ -7160,10 +7160,10 @@ In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comme
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','164',77,'2020-07-12 15:58:22.000',NULL,'product','2022-07-01 19:04:00.000',NULL,NULL,NULL)
 ,(1588,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
-Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','386',59,'2022-11-06 00:18:56.000',NULL,'game','2023-08-20 04:46:01.000',NULL,NULL,NULL)
+Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','386',59,'2022-11-06 00:18:56.000',NULL,'book','2023-08-20 04:46:01.000',NULL,NULL,NULL)
 ,(1589,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','661',56,'2021-08-24 08:08:58.000',NULL,'game','2022-08-09 15:08:34.000',NULL,NULL,NULL)
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','661',56,'2021-08-24 08:08:58.000',NULL,'book','2022-08-09 15:08:34.000',NULL,NULL,NULL)
 ,(1590,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
 Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','367',85,'2020-07-15 03:23:15.000',NULL,'product','2023-01-20 11:12:48.000',NULL,NULL,NULL)
@@ -7173,22 +7173,22 @@ Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non m
 ,(1592,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','474',11,'2022-10-24 08:20:37.000',NULL,'article','2023-06-02 07:53:15.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
-(1593,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','603',17,'2021-07-13 19:38:05.000',NULL,'game','2022-11-02 00:05:19.000',NULL,NULL,NULL)
+(1593,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','603',17,'2021-07-13 19:38:05.000',NULL,'book','2022-11-02 00:05:19.000',NULL,NULL,NULL)
 ,(1594,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
-Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','797',82,'2022-10-22 09:54:34.000',NULL,'game','2022-10-08 08:41:55.000',NULL,NULL,NULL)
+Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','797',82,'2022-10-22 09:54:34.000',NULL,'book','2022-10-08 08:41:55.000',NULL,NULL,NULL)
 ,(1595,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','767',93,'2020-05-03 16:25:55.000',NULL,'article','2022-09-09 15:10:33.000',NULL,NULL,NULL)
-,(1596,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','684',45,'2022-10-15 17:11:45.000',NULL,'game','2022-10-14 17:54:40.000',NULL,NULL,NULL)
+,(1596,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','684',45,'2022-10-15 17:11:45.000',NULL,'book','2022-10-14 17:54:40.000',NULL,NULL,NULL)
 ,(1597,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','665',34,'2022-05-06 13:14:32.000',NULL,'article','2022-03-22 22:25:48.000',NULL,NULL,NULL)
-,(1598,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','19',83,'2020-08-05 02:05:11.000',NULL,'game','2022-10-11 19:14:04.000',NULL,NULL,NULL)
+,(1598,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','19',83,'2020-08-05 02:05:11.000',NULL,'book','2022-10-11 19:14:04.000',NULL,NULL,NULL)
 ,(1599,NULL,'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','112',99,'2022-06-20 18:10:59.000',NULL,'game','2022-03-05 01:06:21.000',NULL,NULL,NULL)
-,(1600,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','323',62,'2022-01-24 05:45:47.000',NULL,'game','2023-04-02 19:38:02.000',NULL,NULL,NULL)
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','112',99,'2022-06-20 18:10:59.000',NULL,'book','2022-03-05 01:06:21.000',NULL,NULL,NULL)
+,(1600,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','323',62,'2022-01-24 05:45:47.000',NULL,'book','2023-04-02 19:38:02.000',NULL,NULL,NULL)
 ,(1601,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','243',84,'2022-01-08 20:54:44.000',NULL,'article','2023-06-15 07:23:28.000',NULL,NULL,NULL)
@@ -7199,7 +7199,7 @@ Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan fe
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1603,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','97',55,'2022-03-12 03:42:19.000',NULL,'game','2023-07-26 01:50:07.000',NULL,NULL,NULL)
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','97',55,'2022-03-12 03:42:19.000',NULL,'book','2023-07-26 01:50:07.000',NULL,NULL,NULL)
 ,(1604,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','271',86,'2021-02-14 10:54:38.000',NULL,'product','2023-07-01 22:58:36.000',NULL,NULL,NULL)
 ,(1605,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
@@ -7227,24 +7227,24 @@ Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
 
 Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
-Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','522',98,'2020-10-29 04:50:59.000',NULL,'game','2023-01-07 08:58:44.000',NULL,NULL,NULL)
+Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','522',98,'2020-10-29 04:50:59.000',NULL,'book','2023-01-07 08:58:44.000',NULL,NULL,NULL)
 ,(1612,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','56',85,'2022-08-24 08:23:10.000',NULL,'game','2022-05-25 10:31:45.000',NULL,NULL,NULL)
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','56',85,'2022-08-24 08:23:10.000',NULL,'book','2022-05-25 10:31:45.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
-(1613,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','252',63,'2021-07-01 05:40:44.000',NULL,'game','2023-12-16 03:47:48.000',NULL,NULL,NULL)
-,(1614,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','615',15,'2021-08-30 06:13:50.000',NULL,'game','2022-12-26 09:12:58.000',NULL,NULL,NULL)
+(1613,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','252',63,'2021-07-01 05:40:44.000',NULL,'book','2023-12-16 03:47:48.000',NULL,NULL,NULL)
+,(1614,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','615',15,'2021-08-30 06:13:50.000',NULL,'book','2022-12-26 09:12:58.000',NULL,NULL,NULL)
 ,(1615,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','702',62,'2022-11-09 08:49:54.000',NULL,'game','2023-10-02 08:36:40.000',NULL,NULL,NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','702',62,'2022-11-09 08:49:54.000',NULL,'book','2023-10-02 08:36:40.000',NULL,NULL,NULL)
 ,(1616,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','577',52,'2020-05-03 16:38:08.000',NULL,'game','2022-02-27 06:52:55.000',NULL,NULL,NULL)
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','577',52,'2020-05-03 16:38:08.000',NULL,'book','2022-02-27 06:52:55.000',NULL,NULL,NULL)
 ,(1617,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','621',6,'2020-08-03 09:43:12.000',NULL,'product','2023-03-02 22:50:53.000',NULL,NULL,NULL)
@@ -7267,7 +7267,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','107',75,'2020-04-02 17:54:51.000',NULL,'game','2023-05-16 07:06:05.000',NULL,NULL,NULL)
+Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','107',75,'2020-04-02 17:54:51.000',NULL,'book','2023-05-16 07:06:05.000',NULL,NULL,NULL)
 ,(1624,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.','comment','549',90,'2020-04-21 21:30:19.000',NULL,'article','2023-10-29 12:37:32.000',NULL,NULL,NULL)
 ,(1625,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
@@ -7279,9 +7279,9 @@ Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turp
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','689',42,'2022-05-01 10:52:27.000',NULL,'product','2023-09-20 18:51:43.000',NULL,NULL,NULL)
 ,(1627,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','717',20,'2022-01-27 01:04:27.000',NULL,'game','2022-02-26 09:01:41.000',NULL,NULL,NULL)
-,(1628,NULL,'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','744',86,'2022-02-16 14:18:57.000',NULL,'game','2022-11-14 21:20:56.000',NULL,NULL,NULL)
-,(1629,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','284',42,'2021-06-04 14:10:29.000',NULL,'game','2022-01-26 17:00:37.000',NULL,NULL,NULL)
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','717',20,'2022-01-27 01:04:27.000',NULL,'book','2022-02-26 09:01:41.000',NULL,NULL,NULL)
+,(1628,NULL,'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','744',86,'2022-02-16 14:18:57.000',NULL,'book','2022-11-14 21:20:56.000',NULL,NULL,NULL)
+,(1629,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','284',42,'2021-06-04 14:10:29.000',NULL,'book','2022-01-26 17:00:37.000',NULL,NULL,NULL)
 ,(1630,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','560',19,'2021-09-06 18:55:56.000',NULL,'article','2022-10-04 01:04:09.000',NULL,NULL,NULL)
@@ -7290,7 +7290,7 @@ Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non m
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
 Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','565',97,'2021-02-19 22:46:49.000',NULL,'product','2022-08-04 06:39:00.000',NULL,NULL,NULL)
-,(1632,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','149',79,'2022-08-16 03:30:19.000',NULL,'game','2022-08-28 15:06:44.000',NULL,NULL,NULL)
+,(1632,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','149',79,'2022-08-16 03:30:19.000',NULL,'book','2022-08-28 15:06:44.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1633,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -7300,7 +7300,7 @@ Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in s
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','comment','205',25,'2021-04-19 11:38:24.000',NULL,'product','2022-04-26 23:07:38.000',NULL,NULL,NULL)
 ,(1634,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','650',45,'2020-04-17 10:01:19.000',NULL,'game','2023-05-25 21:34:14.000',NULL,NULL,NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','650',45,'2020-04-17 10:01:19.000',NULL,'book','2023-05-25 21:34:14.000',NULL,NULL,NULL)
 ,(1635,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
@@ -7313,7 +7313,7 @@ Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet 
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','589',52,'2022-01-24 04:42:42.000',NULL,'game','2022-04-27 08:20:07.000',NULL,NULL,NULL)
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','589',52,'2022-01-24 04:42:42.000',NULL,'book','2022-04-27 08:20:07.000',NULL,NULL,NULL)
 ,(1637,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','350',74,'2021-01-21 06:27:56.000',NULL,'article','2022-03-27 18:37:12.000',NULL,NULL,NULL)
 ,(1638,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
@@ -7322,7 +7322,7 @@ Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','194',40,'2020-11-06 04:17:08.000',NULL,'product','2022-07-19 18:44:46.000',NULL,NULL,NULL)
 ,(1639,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','587',86,'2021-09-30 22:34:00.000',NULL,'game','2023-01-05 21:29:59.000',NULL,NULL,NULL)
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','587',86,'2021-09-30 22:34:00.000',NULL,'book','2023-01-05 21:29:59.000',NULL,NULL,NULL)
 ,(1640,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.','comment','683',61,'2022-08-06 05:43:57.000',NULL,'product','2023-08-21 22:21:41.000',NULL,NULL,NULL)
@@ -7336,20 +7336,20 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','260',12,'2022-03-11 05:16:38.000',NULL,'article','2022-05-18 03:18:08.000',NULL,NULL,NULL)
-,(1643,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','39',31,'2021-04-02 18:14:49.000',NULL,'game','2023-02-20 02:47:44.000',NULL,NULL,NULL)
+,(1643,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','39',31,'2021-04-02 18:14:49.000',NULL,'book','2023-02-20 02:47:44.000',NULL,NULL,NULL)
 ,(1644,NULL,'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','119',59,'2020-01-11 01:56:38.000',NULL,'product','2022-05-22 13:22:41.000',NULL,NULL,NULL)
-,(1645,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','249',17,'2022-02-16 15:39:59.000',NULL,'game','2023-10-20 04:56:57.000',NULL,NULL,NULL)
+,(1645,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','249',17,'2022-02-16 15:39:59.000',NULL,'book','2023-10-20 04:56:57.000',NULL,NULL,NULL)
 ,(1646,NULL,'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','737',16,'2020-05-04 03:07:50.000',NULL,'game','2022-08-31 04:57:00.000',NULL,NULL,NULL)
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','737',16,'2020-05-04 03:07:50.000',NULL,'book','2022-08-31 04:57:00.000',NULL,NULL,NULL)
 ,(1647,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','22',8,'2022-02-24 20:20:42.000',NULL,'article','2023-07-12 09:56:09.000',NULL,NULL,NULL)
-,(1648,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','254',15,'2022-12-05 12:23:41.000',NULL,'game','2023-12-15 11:22:54.000',NULL,NULL,NULL)
+,(1648,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','254',15,'2022-12-05 12:23:41.000',NULL,'book','2023-12-15 11:22:54.000',NULL,NULL,NULL)
 ,(1649,NULL,'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
@@ -7385,15 +7385,15 @@ Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','co
 ,(1659,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','353',13,'2022-09-22 04:43:50.000',NULL,'article','2022-04-25 05:10:00.000',NULL,NULL,NULL)
-,(1661,NULL,'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','239',99,'2021-07-26 13:49:12.000',NULL,'game','2023-01-19 08:31:03.000',NULL,NULL,NULL)
-,(1662,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','635',76,'2020-07-11 04:40:27.000',NULL,'game','2022-05-05 17:21:38.000',NULL,NULL,NULL)
+,(1661,NULL,'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','239',99,'2021-07-26 13:49:12.000',NULL,'book','2023-01-19 08:31:03.000',NULL,NULL,NULL)
+,(1662,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','635',76,'2020-07-11 04:40:27.000',NULL,'book','2022-05-05 17:21:38.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1663,NULL,'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
 Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','95',28,'2022-11-10 03:23:13.000',NULL,'game','2023-05-25 11:35:58.000',NULL,NULL,NULL)
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','95',28,'2022-11-10 03:23:13.000',NULL,'book','2023-05-25 11:35:58.000',NULL,NULL,NULL)
 ,(1664,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','596',38,'2021-01-07 21:49:18.000',NULL,'product','2022-06-19 10:46:22.000',NULL,NULL,NULL)
@@ -7407,14 +7407,14 @@ Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','42',68,'2022-04
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','80',9,'2021-11-13 11:08:58.000',NULL,'article','2022-01-10 03:31:15.000',NULL,NULL,NULL)
-,(1667,NULL,'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','229',21,'2021-12-22 03:00:26.000',NULL,'game','2022-07-05 00:08:55.000',NULL,NULL,NULL)
+,(1667,NULL,'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','229',21,'2021-12-22 03:00:26.000',NULL,'book','2022-07-05 00:08:55.000',NULL,NULL,NULL)
 ,(1668,NULL,'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','28',37,'2020-12-13 08:48:57.000',NULL,'product','2022-11-12 15:41:41.000',NULL,NULL,NULL)
 ,(1669,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','11',61,'2021-07-26 06:02:43.000',NULL,'product','2022-08-12 06:35:25.000',NULL,NULL,NULL)
 ,(1670,NULL,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
-In congue. Etiam justo. Etiam pretium iaculis justo.','comment','86',58,'2022-02-26 01:34:38.000',NULL,'game','2023-06-28 05:57:33.000',NULL,NULL,NULL)
+In congue. Etiam justo. Etiam pretium iaculis justo.','comment','86',58,'2022-02-26 01:34:38.000',NULL,'book','2023-06-28 05:57:33.000',NULL,NULL,NULL)
 ,(1671,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','202',48,'2021-02-15 21:57:11.000',NULL,'product','2022-08-01 21:39:25.000',NULL,NULL,NULL)
 ,(1672,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.
 
@@ -7431,8 +7431,8 @@ Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscip
 ,(1674,NULL,'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','37',2,'2020-01-19 05:47:36.000',NULL,'product','2023-06-04 03:08:02.000',NULL,NULL,NULL)
-,(1675,NULL,'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','84',50,'2022-10-25 13:16:10.000',NULL,'game','2023-11-19 03:34:56.000',NULL,NULL,NULL)
-,(1676,NULL,'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','206',95,'2020-10-27 06:17:42.000',NULL,'game','2022-12-09 02:09:42.000',NULL,NULL,NULL)
+,(1675,NULL,'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','84',50,'2022-10-25 13:16:10.000',NULL,'book','2023-11-19 03:34:56.000',NULL,NULL,NULL)
+,(1676,NULL,'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','206',95,'2020-10-27 06:17:42.000',NULL,'book','2022-12-09 02:09:42.000',NULL,NULL,NULL)
 ,(1677,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','741',4,'2020-09-24 18:44:31.000',NULL,'product','2023-10-21 01:43:53.000',NULL,NULL,NULL)
 ,(1678,NULL,'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
@@ -7462,17 +7462,17 @@ Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, t
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','578',9,'2020-05-12 17:32:02.000',NULL,'game','2023-03-20 05:11:49.000',NULL,NULL,NULL)
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','578',9,'2020-05-12 17:32:02.000',NULL,'book','2023-03-20 05:11:49.000',NULL,NULL,NULL)
 ,(1687,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','237',74,'2021-06-05 16:34:47.000',NULL,'article','2023-08-01 22:12:11.000',NULL,NULL,NULL)
 ,(1688,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
-Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','696',90,'2021-12-13 15:16:53.000',NULL,'game','2023-10-15 01:18:59.000',NULL,NULL,NULL)
+Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','696',90,'2021-12-13 15:16:53.000',NULL,'book','2023-10-15 01:18:59.000',NULL,NULL,NULL)
 ,(1689,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','664',16,'2020-11-23 11:11:21.000',NULL,'game','2023-12-23 20:26:14.000',NULL,NULL,NULL)
-,(1690,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','542',28,'2020-01-14 08:33:58.000',NULL,'game','2023-05-08 10:50:04.000',NULL,NULL,NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','664',16,'2020-11-23 11:11:21.000',NULL,'book','2023-12-23 20:26:14.000',NULL,NULL,NULL)
+,(1690,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','542',28,'2020-01-14 08:33:58.000',NULL,'book','2023-05-08 10:50:04.000',NULL,NULL,NULL)
 ,(1691,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','26',75,'2021-12-30 21:51:39.000',NULL,'product','2022-11-06 00:14:09.000',NULL,NULL,NULL)
 ,(1692,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
@@ -7485,7 +7485,7 @@ Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet 
 ,(1694,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','484',77,'2020-07-27 23:37:27.000',NULL,'product','2023-05-09 17:35:06.000',NULL,NULL,NULL)
 ,(1695,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','7',59,'2020-02-23 14:58:38.000',NULL,'game','2023-06-14 20:40:14.000',NULL,NULL,NULL)
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','7',59,'2020-02-23 14:58:38.000',NULL,'book','2023-06-14 20:40:14.000',NULL,NULL,NULL)
 ,(1696,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.','comment','677',72,'2021-01-06 01:34:17.000',NULL,'product','2022-07-22 09:32:39.000',NULL,NULL,NULL)
 ,(1697,NULL,'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
@@ -7494,11 +7494,11 @@ Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odi
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','291',59,'2020-03-08 17:35:07.000',NULL,'article','2023-12-01 19:22:55.000',NULL,NULL,NULL)
 ,(1698,NULL,'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','490',75,'2022-04-05 12:04:06.000',NULL,'game','2022-03-26 07:58:54.000',NULL,NULL,NULL)
+Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','490',75,'2022-04-05 12:04:06.000',NULL,'book','2022-03-26 07:58:54.000',NULL,NULL,NULL)
 ,(1699,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','16',29,'2021-06-17 13:42:46.000',NULL,'product','2022-07-17 08:00:22.000',NULL,NULL,NULL)
 ,(1700,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','199',54,'2022-06-08 02:57:52.000',NULL,'game','2022-12-19 09:25:37.000',NULL,NULL,NULL)
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','199',54,'2022-06-08 02:57:52.000',NULL,'book','2022-12-19 09:25:37.000',NULL,NULL,NULL)
 ,(1701,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','408',19,'2020-01-31 01:14:21.000',NULL,'product','2023-09-30 10:22:44.000',NULL,NULL,NULL)
@@ -7506,15 +7506,15 @@ Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','408',19,'
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','679',3,'2021-05-24 07:10:23.000',NULL,'game','2023-03-01 00:43:18.000',NULL,NULL,NULL)
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','679',3,'2021-05-24 07:10:23.000',NULL,'book','2023-03-01 00:43:18.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1703,NULL,'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','722',59,'2020-07-16 17:55:20.000',NULL,'game','2022-01-05 18:48:31.000',NULL,NULL,NULL)
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','722',59,'2020-07-16 17:55:20.000',NULL,'book','2022-01-05 18:48:31.000',NULL,NULL,NULL)
 ,(1704,NULL,'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
-In congue. Etiam justo. Etiam pretium iaculis justo.','comment','542',23,'2021-09-03 05:07:09.000',NULL,'game','2022-08-15 04:14:30.000',NULL,NULL,NULL)
+In congue. Etiam justo. Etiam pretium iaculis justo.','comment','542',23,'2021-09-03 05:07:09.000',NULL,'book','2022-08-15 04:14:30.000',NULL,NULL,NULL)
 ,(1705,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
@@ -7534,7 +7534,7 @@ Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in s
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo.','comment','800',1,'2020-10-11 22:56:40.000',NULL,'product','2022-12-05 08:44:43.000',NULL,NULL,NULL)
-,(1710,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','742',93,'2022-06-03 18:23:41.000',NULL,'game','2022-05-11 08:58:09.000',NULL,NULL,NULL)
+,(1710,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','742',93,'2022-06-03 18:23:41.000',NULL,'book','2022-05-11 08:58:09.000',NULL,NULL,NULL)
 ,(1711,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.
 
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
@@ -7551,7 +7551,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
-Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','122',88,'2022-11-07 06:52:58.000',NULL,'game','2023-08-22 05:56:41.000',NULL,NULL,NULL)
+Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','122',88,'2022-11-07 06:52:58.000',NULL,'book','2023-08-22 05:56:41.000',NULL,NULL,NULL)
 ,(1714,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.','comment','571',10,'2022-07-09 11:45:19.000',NULL,'product','2022-09-05 15:02:30.000',NULL,NULL,NULL)
 ,(1715,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
@@ -7572,7 +7572,7 @@ Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum an
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','512',14,'2020-02-16 09:56:18.000',NULL,'article','2022-01-19 11:38:29.000',NULL,NULL,NULL)
 ,(1720,NULL,'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
-Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','comment','739',2,'2022-03-28 21:01:31.000',NULL,'game','2022-06-11 19:33:12.000',NULL,NULL,NULL)
+Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','comment','739',2,'2022-03-28 21:01:31.000',NULL,'book','2022-06-11 19:33:12.000',NULL,NULL,NULL)
 ,(1721,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','70',7,'2021-01-03 07:01:31.000',NULL,'article','2022-11-16 17:02:12.000',NULL,NULL,NULL)
@@ -7594,7 +7594,7 @@ Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odi
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','1',18,'2022-10-19 17:22:22.000',NULL,'article','2022-10-17 20:17:01.000',NULL,NULL,NULL)
 ,(1725,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','302',4,'2021-10-01 11:58:07.000',NULL,'article','2023-07-21 08:43:05.000',NULL,NULL,NULL)
-,(1726,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','598',36,'2022-01-05 04:48:48.000',NULL,'game','2022-11-18 17:10:27.000',NULL,NULL,NULL)
+,(1726,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','598',36,'2022-01-05 04:48:48.000',NULL,'book','2022-11-18 17:10:27.000',NULL,NULL,NULL)
 ,(1727,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
@@ -7602,16 +7602,16 @@ Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','272',46,'2021-11-20 12:29:04.000',NULL,'article','2023-09-22 20:23:59.000',NULL,NULL,NULL)
 ,(1728,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','92',68,'2022-08-22 06:36:08.000',NULL,'game','2022-12-09 18:43:23.000',NULL,NULL,NULL)
-,(1729,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','507',48,'2022-04-04 18:44:02.000',NULL,'game','2022-12-08 00:47:06.000',NULL,NULL,NULL)
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','92',68,'2022-08-22 06:36:08.000',NULL,'book','2022-12-09 18:43:23.000',NULL,NULL,NULL)
+,(1729,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','507',48,'2022-04-04 18:44:02.000',NULL,'book','2022-12-08 00:47:06.000',NULL,NULL,NULL)
 ,(1730,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
-Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','658',23,'2021-10-16 02:33:03.000',NULL,'game','2022-07-15 10:23:08.000',NULL,NULL,NULL)
+Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','658',23,'2021-10-16 02:33:03.000',NULL,'book','2022-07-15 10:23:08.000',NULL,NULL,NULL)
 ,(1731,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','394',69,'2020-07-16 04:44:10.000',NULL,'game','2022-05-23 11:58:48.000',NULL,NULL,NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','394',69,'2020-07-16 04:44:10.000',NULL,'book','2022-05-23 11:58:48.000',NULL,NULL,NULL)
 ,(1732,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
@@ -7621,19 +7621,19 @@ Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, 
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1733,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
-Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','365',31,'2020-10-31 19:45:00.000',NULL,'game','2022-03-27 11:07:41.000',NULL,NULL,NULL)
+Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','365',31,'2020-10-31 19:45:00.000',NULL,'book','2022-03-27 11:07:41.000',NULL,NULL,NULL)
 ,(1734,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','746',74,'2020-09-06 04:52:46.000',NULL,'product','2022-10-07 21:39:59.000',NULL,NULL,NULL)
 ,(1735,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','195',34,'2020-08-21 07:33:57.000',NULL,'article','2023-12-22 22:03:27.000',NULL,NULL,NULL)
 ,(1736,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','266',6,'2022-01-18 21:39:20.000',NULL,'product','2023-03-26 21:11:23.000',NULL,NULL,NULL)
-,(1737,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','405',29,'2022-06-27 13:28:19.000',NULL,'game','2023-12-05 08:42:09.000',NULL,NULL,NULL)
+,(1737,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','405',29,'2022-06-27 13:28:19.000',NULL,'book','2023-12-05 08:42:09.000',NULL,NULL,NULL)
 ,(1738,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','75',73,'2021-02-13 13:29:20.000',NULL,'product','2023-02-28 15:43:28.000',NULL,NULL,NULL)
-,(1739,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','656',67,'2021-12-13 02:56:46.000',NULL,'game','2023-06-20 12:05:11.000',NULL,NULL,NULL)
+,(1739,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','656',67,'2021-12-13 02:56:46.000',NULL,'book','2023-06-20 12:05:11.000',NULL,NULL,NULL)
 ,(1740,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','187',71,'2021-06-12 03:43:00.000',NULL,'article','2022-08-01 07:56:38.000',NULL,NULL,NULL)
 ,(1741,NULL,'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
-Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','290',20,'2021-05-11 02:22:29.000',NULL,'game','2022-09-10 03:58:58.000',NULL,NULL,NULL)
+Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.','comment','290',20,'2021-05-11 02:22:29.000',NULL,'book','2022-09-10 03:58:58.000',NULL,NULL,NULL)
 ,(1742,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
@@ -7656,14 +7656,14 @@ Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luc
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','264',5,'2022-06-02 18:33:23.000',NULL,'article','2022-02-22 17:30:15.000',NULL,NULL,NULL)
 ,(1748,NULL,'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','406',35,'2022-09-19 09:15:31.000',NULL,'game','2023-09-10 03:02:46.000',NULL,NULL,NULL)
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','406',35,'2022-09-19 09:15:31.000',NULL,'book','2023-09-10 03:02:46.000',NULL,NULL,NULL)
 ,(1749,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','141',7,'2020-03-26 03:26:34.000',NULL,'article','2023-11-14 22:17:14.000',NULL,NULL,NULL)
 ,(1750,NULL,'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','195',62,'2021-05-08 20:08:59.000',NULL,'game','2022-05-07 10:59:58.000',NULL,NULL,NULL)
-,(1751,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','296',97,'2021-07-18 21:19:24.000',NULL,'game','2023-04-28 08:54:30.000',NULL,NULL,NULL)
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','195',62,'2021-05-08 20:08:59.000',NULL,'book','2022-05-07 10:59:58.000',NULL,NULL,NULL)
+,(1751,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','296',97,'2021-07-18 21:19:24.000',NULL,'book','2023-04-28 08:54:30.000',NULL,NULL,NULL)
 ,(1752,NULL,'Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','112',7,'2022-08-26 04:55:44.000',NULL,'product','2022-04-09 04:41:37.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
@@ -7673,9 +7673,9 @@ Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in s
 ,(1754,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','693',84,'2021-01-03 16:37:48.000',NULL,'product','2022-03-18 02:11:11.000',NULL,NULL,NULL)
-,(1755,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','716',18,'2020-01-17 12:55:31.000',NULL,'game','2022-08-28 12:08:14.000',NULL,NULL,NULL)
+,(1755,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','716',18,'2020-01-17 12:55:31.000',NULL,'book','2022-08-28 12:08:14.000',NULL,NULL,NULL)
 ,(1756,NULL,'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','comment','509',94,'2020-12-23 10:58:21.000',NULL,'product','2023-04-10 09:08:43.000',NULL,NULL,NULL)
-,(1757,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','786',50,'2022-07-30 19:40:29.000',NULL,'game','2023-12-10 08:09:36.000',NULL,NULL,NULL)
+,(1757,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','786',50,'2022-07-30 19:40:29.000',NULL,'book','2023-12-10 08:09:36.000',NULL,NULL,NULL)
 ,(1758,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','563',55,'2020-06-19 11:39:49.000',NULL,'article','2022-08-15 04:25:45.000',NULL,NULL,NULL)
 ,(1759,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','576',78,'2022-02-09 03:38:41.000',NULL,'product','2022-01-16 23:33:25.000',NULL,NULL,NULL)
 ,(1760,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
@@ -7683,7 +7683,7 @@ In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comme
 Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','153',35,'2022-06-08 01:56:04.000',NULL,'article','2022-01-15 02:36:44.000',NULL,NULL,NULL)
-,(1761,NULL,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','731',27,'2021-10-13 01:05:16.000',NULL,'game','2022-12-09 07:14:01.000',NULL,NULL,NULL)
+,(1761,NULL,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','731',27,'2021-10-13 01:05:16.000',NULL,'book','2022-12-09 07:14:01.000',NULL,NULL,NULL)
 ,(1762,NULL,'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
 Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
@@ -7696,7 +7696,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo.','comment','134',11,'2021-06-03 14:46:01.000',NULL,'product','2022-04-29 23:12:02.000',NULL,NULL,NULL)
-,(1764,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','628',5,'2022-12-30 02:52:02.000',NULL,'game','2023-09-25 02:17:04.000',NULL,NULL,NULL)
+,(1764,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','628',5,'2022-12-30 02:52:02.000',NULL,'book','2023-09-25 02:17:04.000',NULL,NULL,NULL)
 ,(1765,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','165',54,'2021-01-19 04:23:01.000',NULL,'product','2023-05-02 11:40:33.000',NULL,NULL,NULL)
 ,(1766,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
@@ -7706,7 +7706,7 @@ Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pu
 ,(1767,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','748',12,'2021-11-12 00:01:19.000',NULL,'product','2023-12-17 14:03:44.000',NULL,NULL,NULL)
 ,(1768,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','151',50,'2020-05-26 00:03:40.000',NULL,'game','2023-09-27 16:45:27.000',NULL,NULL,NULL)
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','151',50,'2020-05-26 00:03:40.000',NULL,'book','2023-09-27 16:45:27.000',NULL,NULL,NULL)
 ,(1769,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
@@ -7723,10 +7723,10 @@ In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comme
 ,(1772,NULL,'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','547',81,'2020-08-12 16:38:04.000',NULL,'article','2022-12-14 19:04:42.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
-(1773,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','683',34,'2020-07-02 20:29:28.000',NULL,'game','2022-11-27 02:22:16.000',NULL,NULL,NULL)
+(1773,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','683',34,'2020-07-02 20:29:28.000',NULL,'book','2022-11-27 02:22:16.000',NULL,NULL,NULL)
 ,(1774,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','412',6,'2021-09-29 15:39:50.000',NULL,'game','2023-07-16 12:01:22.000',NULL,NULL,NULL)
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','412',6,'2021-09-29 15:39:50.000',NULL,'book','2023-07-16 12:01:22.000',NULL,NULL,NULL)
 ,(1775,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
@@ -7759,7 +7759,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 Fusce consequat. Nulla nisl. Nunc nisl.
 
-Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','693',19,'2021-05-26 20:16:42.000',NULL,'game','2023-01-19 07:45:16.000',NULL,NULL,NULL)
+Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','693',19,'2021-05-26 20:16:42.000',NULL,'book','2023-01-19 07:45:16.000',NULL,NULL,NULL)
 ,(1784,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','775',91,'2020-12-28 03:07:46.000',NULL,'product','2022-04-26 03:03:55.000',NULL,NULL,NULL)
 ,(1785,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
@@ -7781,7 +7781,7 @@ Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','59',8,'2021-11-08 00:46:56.000',NULL,'article','2022-02-18 01:49:46.000',NULL,NULL,NULL)
 ,(1792,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','702',81,'2022-12-18 03:06:19.000',NULL,'game','2022-03-20 22:40:23.000',NULL,NULL,NULL)
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','702',81,'2022-12-18 03:06:19.000',NULL,'book','2022-03-20 22:40:23.000',NULL,NULL,NULL)
 ,(1793,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','718',28,'2021-04-01 02:49:33.000',NULL,'product','2022-09-02 21:02:32.000',NULL,NULL,NULL)
@@ -7799,23 +7799,23 @@ Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luc
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','125',4,'2021-08-25 06:56:02.000',NULL,'product','2022-04-19 14:38:10.000',NULL,NULL,NULL)
 ,(1796,NULL,'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
-Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','142',6,'2022-12-15 00:43:55.000',NULL,'game','2022-11-06 18:31:24.000',NULL,NULL,NULL)
+Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','142',6,'2022-12-15 00:43:55.000',NULL,'book','2022-11-06 18:31:24.000',NULL,NULL,NULL)
 ,(1797,NULL,'Fusce consequat. Nulla nisl. Nunc nisl.
 
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','390',2,'2020-10-09 18:12:44.000',NULL,'game','2022-04-02 18:05:50.000',NULL,NULL,NULL)
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','390',2,'2020-10-09 18:12:44.000',NULL,'book','2022-04-02 18:05:50.000',NULL,NULL,NULL)
 ,(1798,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','745',39,'2021-11-30 08:20:52.000',NULL,'article','2023-12-20 01:17:04.000',NULL,NULL,NULL)
 ,(1799,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
-Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','149',58,'2020-10-04 16:39:59.000',NULL,'game','2022-03-16 15:02:58.000',NULL,NULL,NULL)
+Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','149',58,'2020-10-04 16:39:59.000',NULL,'book','2022-03-16 15:02:58.000',NULL,NULL,NULL)
 ,(1800,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','577',39,'2021-12-23 20:20:45.000',NULL,'product','2022-10-09 08:37:04.000',NULL,NULL,NULL)
 ,(1801,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','548',9,'2020-07-29 19:16:53.000',NULL,'article','2022-04-13 13:26:29.000',NULL,NULL,NULL)
-,(1802,NULL,'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','162',46,'2022-05-23 21:31:03.000',NULL,'game','2023-04-24 01:19:40.000',NULL,NULL,NULL)
+,(1802,NULL,'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','162',46,'2022-05-23 21:31:03.000',NULL,'book','2023-04-24 01:19:40.000',NULL,NULL,NULL)
 ,(1803,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','500',7,'2021-11-10 06:51:31.000',NULL,'article','2022-04-21 19:13:37.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
@@ -7823,13 +7823,13 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
-In congue. Etiam justo. Etiam pretium iaculis justo.','comment','27',31,'2021-12-19 21:30:51.000',NULL,'game','2022-11-06 01:20:09.000',NULL,NULL,NULL)
+In congue. Etiam justo. Etiam pretium iaculis justo.','comment','27',31,'2021-12-19 21:30:51.000',NULL,'book','2022-11-06 01:20:09.000',NULL,NULL,NULL)
 ,(1805,NULL,'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','444',90,'2021-06-07 01:31:23.000',NULL,'article','2023-01-17 04:12:40.000',NULL,NULL,NULL)
 ,(1806,NULL,'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
-Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','244',76,'2021-08-09 15:54:28.000',NULL,'game','2023-03-04 00:12:08.000',NULL,NULL,NULL)
+Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','244',76,'2021-08-09 15:54:28.000',NULL,'book','2023-03-04 00:12:08.000',NULL,NULL,NULL)
 ,(1807,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','353',14,'2020-04-09 03:15:21.000',NULL,'product','2023-04-28 03:13:40.000',NULL,NULL,NULL)
 ,(1808,NULL,'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
@@ -7838,7 +7838,7 @@ Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.','comment','443',71,'2021-07-16 22:05:17.000',NULL,'product','2022-10-12 19:08:54.000',NULL,NULL,NULL)
 ,(1809,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','696',96,'2020-10-20 20:19:06.000',NULL,'game','2023-01-16 06:03:46.000',NULL,NULL,NULL)
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','696',96,'2020-10-20 20:19:06.000',NULL,'book','2023-01-16 06:03:46.000',NULL,NULL,NULL)
 ,(1810,NULL,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
@@ -7854,19 +7854,19 @@ Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','633',32,'2022-08-25 11:02:13.000',NULL,'product','2022-12-02 21:35:50.000',NULL,NULL,NULL)
 ,(1812,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','376',53,'2020-10-08 07:42:48.000',NULL,'game','2022-04-04 17:45:12.000',NULL,NULL,NULL)
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','376',53,'2020-10-08 07:42:48.000',NULL,'book','2022-04-04 17:45:12.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1813,NULL,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','142',95,'2022-07-09 00:17:06.000',NULL,'product','2023-08-22 10:29:01.000',NULL,NULL,NULL)
-,(1814,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','292',66,'2020-02-27 19:15:57.000',NULL,'game','2023-04-10 20:03:19.000',NULL,NULL,NULL)
+,(1814,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','292',66,'2020-02-27 19:15:57.000',NULL,'book','2023-04-10 20:03:19.000',NULL,NULL,NULL)
 ,(1815,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
 Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
 Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','comment','446',55,'2020-12-31 15:01:19.000',NULL,'product','2023-12-13 20:17:40.000',NULL,NULL,NULL)
-,(1816,NULL,'Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','596',79,'2022-11-27 21:15:48.000',NULL,'game','2023-07-07 02:32:36.000',NULL,NULL,NULL)
+,(1816,NULL,'Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','596',79,'2022-11-27 21:15:48.000',NULL,'book','2023-07-07 02:32:36.000',NULL,NULL,NULL)
 ,(1817,NULL,'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','643',49,'2022-01-19 23:43:34.000',NULL,'product','2023-10-27 17:11:18.000',NULL,NULL,NULL)
 ,(1818,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
@@ -7878,8 +7878,8 @@ In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comme
 
 Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','74',67,'2022-03-22 18:26:39.000',NULL,'game','2022-05-20 08:18:02.000',NULL,NULL,NULL)
-,(1821,NULL,'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','663',44,'2022-07-30 08:01:25.000',NULL,'game','2022-09-12 17:28:42.000',NULL,NULL,NULL)
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','74',67,'2022-03-22 18:26:39.000',NULL,'book','2022-05-20 08:18:02.000',NULL,NULL,NULL)
+,(1821,NULL,'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','663',44,'2022-07-30 08:01:25.000',NULL,'book','2022-09-12 17:28:42.000',NULL,NULL,NULL)
 ,(1822,NULL,'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.','comment','787',20,'2021-11-17 20:12:36.000',NULL,'product','2022-11-30 05:13:53.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
@@ -7891,9 +7891,9 @@ Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, t
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','485',69,'2021-01-04 12:50:41.000',NULL,'game','2022-01-13 23:44:25.000',NULL,NULL,NULL)
-,(1826,NULL,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','13',18,'2021-06-17 03:14:46.000',NULL,'game','2023-05-16 12:39:09.000',NULL,NULL,NULL)
-,(1827,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','501',75,'2021-02-05 08:41:08.000',NULL,'game','2022-11-08 03:22:14.000',NULL,NULL,NULL)
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','485',69,'2021-01-04 12:50:41.000',NULL,'book','2022-01-13 23:44:25.000',NULL,NULL,NULL)
+,(1826,NULL,'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','13',18,'2021-06-17 03:14:46.000',NULL,'book','2023-05-16 12:39:09.000',NULL,NULL,NULL)
+,(1827,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','501',75,'2021-02-05 08:41:08.000',NULL,'book','2022-11-08 03:22:14.000',NULL,NULL,NULL)
 ,(1828,NULL,'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
@@ -7904,12 +7904,12 @@ Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','293',78,'2020-07-19 20:59:08.000',NULL,'article','2022-03-26 08:40:32.000',NULL,NULL,NULL)
-,(1830,NULL,'Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','448',16,'2022-01-09 18:25:20.000',NULL,'game','2023-06-13 11:06:34.000',NULL,NULL,NULL)
+,(1830,NULL,'Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','448',16,'2022-01-09 18:25:20.000',NULL,'book','2023-06-13 11:06:34.000',NULL,NULL,NULL)
 ,(1831,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','349',36,'2021-11-15 20:32:47.000',NULL,'game','2023-11-06 14:12:40.000',NULL,NULL,NULL)
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','349',36,'2021-11-15 20:32:47.000',NULL,'book','2023-11-06 14:12:40.000',NULL,NULL,NULL)
 ,(1832,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
@@ -7927,7 +7927,7 @@ Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in s
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','412',74,'2021-09-17 05:06:48.000',NULL,'game','2023-05-30 00:49:11.000',NULL,NULL,NULL)
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','412',74,'2021-09-17 05:06:48.000',NULL,'book','2023-05-30 00:49:11.000',NULL,NULL,NULL)
 ,(1839,NULL,'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','420',28,'2021-07-01 09:26:23.000',NULL,'product','2022-09-10 14:04:53.000',NULL,NULL,NULL)
 ,(1840,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
@@ -7939,13 +7939,13 @@ Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','795',9,'2
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','377',35,'2022-06-09 21:39:02.000',NULL,'product','2022-09-21 20:07:32.000',NULL,NULL,NULL)
 ,(1842,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
-Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','543',54,'2022-06-06 01:36:34.000',NULL,'game','2023-01-15 00:25:16.000',NULL,NULL,NULL)
+Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','543',54,'2022-06-06 01:36:34.000',NULL,'book','2023-01-15 00:25:16.000',NULL,NULL,NULL)
 ,(1843,NULL,'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.','comment','93',78,'2020-08-09 08:13:50.000',NULL,'article','2022-12-19 05:05:27.000',NULL,NULL,NULL)
-,(1844,NULL,'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','377',89,'2020-03-16 10:01:34.000',NULL,'game','2022-12-14 01:41:48.000',NULL,NULL,NULL)
+,(1844,NULL,'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','377',89,'2020-03-16 10:01:34.000',NULL,'book','2022-12-14 01:41:48.000',NULL,NULL,NULL)
 ,(1845,NULL,'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
@@ -7955,15 +7955,15 @@ Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed 
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1846,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','316',66,'2020-01-26 19:56:56.000',NULL,'game','2022-10-04 16:54:36.000',NULL,NULL,NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','316',66,'2020-01-26 19:56:56.000',NULL,'book','2022-10-04 16:54:36.000',NULL,NULL,NULL)
 ,(1847,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','277',45,'2020-04-10 03:28:41.000',NULL,'game','2022-04-02 10:38:34.000',NULL,NULL,NULL)
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','277',45,'2020-04-10 03:28:41.000',NULL,'book','2022-04-02 10:38:34.000',NULL,NULL,NULL)
 ,(1848,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','628',35,'2022-09-21 11:41:34.000',NULL,'game','2023-10-15 02:26:51.000',NULL,NULL,NULL)
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','628',35,'2022-09-21 11:41:34.000',NULL,'book','2023-10-15 02:26:51.000',NULL,NULL,NULL)
 ,(1849,NULL,'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','608',5,'2021-07-12 23:58:55.000',NULL,'article','2023-03-09 22:49:39.000',NULL,NULL,NULL)
@@ -7971,7 +7971,7 @@ Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luc
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','comment','21',85,'2021-10-06 02:30:00.000',NULL,'game','2022-02-28 10:26:02.000',NULL,NULL,NULL)
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','comment','21',85,'2021-10-06 02:30:00.000',NULL,'book','2022-02-28 10:26:02.000',NULL,NULL,NULL)
 ,(1851,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','91',66,'2021-03-01 06:07:48.000',NULL,'article','2022-08-17 13:36:12.000',NULL,NULL,NULL)
 ,(1852,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
@@ -7980,7 +7980,7 @@ Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum an
 Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.','comment','562',98,'2020-06-06 20:54:58.000',NULL,'product','2022-01-08 14:54:23.000',NULL,NULL,NULL)
 ,(1853,NULL,'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
-In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','448',37,'2020-11-26 23:54:42.000',NULL,'game','2022-06-20 18:47:14.000',NULL,NULL,NULL)
+In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','448',37,'2020-11-26 23:54:42.000',NULL,'book','2022-06-20 18:47:14.000',NULL,NULL,NULL)
 ,(1854,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
 Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
@@ -7996,13 +7996,13 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 (1856,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','308',83,'2020-12-06 04:32:14.000',NULL,'article','2023-09-15 08:32:17.000',NULL,NULL,NULL)
-,(1857,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','206',45,'2021-10-04 15:11:01.000',NULL,'game','2023-07-10 19:54:09.000',NULL,NULL,NULL)
+,(1857,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','206',45,'2021-10-04 15:11:01.000',NULL,'book','2023-07-10 19:54:09.000',NULL,NULL,NULL)
 ,(1858,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
-Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','748',3,'2022-02-23 23:56:08.000',NULL,'game','2022-03-24 12:26:09.000',NULL,NULL,NULL)
-,(1859,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','654',28,'2022-09-21 18:32:56.000',NULL,'game','2023-04-02 18:24:30.000',NULL,NULL,NULL)
+Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','748',3,'2022-02-23 23:56:08.000',NULL,'book','2022-03-24 12:26:09.000',NULL,NULL,NULL)
+,(1859,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','654',28,'2022-09-21 18:32:56.000',NULL,'book','2023-04-02 18:24:30.000',NULL,NULL,NULL)
 ,(1861,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','404',93,'2022-08-19 03:21:11.000',NULL,'article','2023-11-21 20:22:43.000',NULL,NULL,NULL)
 ,(1862,NULL,'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.','comment','679',10,'2022-09-11 22:45:01.000',NULL,'article','2023-11-16 14:36:43.000',NULL,NULL,NULL)
 ,(1863,NULL,'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
@@ -8016,7 +8016,7 @@ Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','213',36,'
 
 Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
-Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','766',56,'2021-11-07 21:37:52.000',NULL,'game','2023-04-30 17:11:20.000',NULL,NULL,NULL)
+Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','766',56,'2021-11-07 21:37:52.000',NULL,'book','2023-04-30 17:11:20.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1867,NULL,'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
@@ -8049,14 +8049,14 @@ Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, t
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1877,NULL,'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','766',19,'2022-12-05 16:06:24.000',NULL,'article','2023-02-05 06:31:25.000',NULL,NULL,NULL)
 ,(1878,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','527',20,'2022-09-10 15:16:26.000',NULL,'product','2022-05-30 14:31:20.000',NULL,NULL,NULL)
-,(1879,NULL,'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','464',18,'2022-07-03 07:51:53.000',NULL,'game','2023-02-08 05:10:19.000',NULL,NULL,NULL)
+,(1879,NULL,'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','464',18,'2022-07-03 07:51:53.000',NULL,'book','2023-02-08 05:10:19.000',NULL,NULL,NULL)
 ,(1880,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','247',48,'2021-01-19 20:47:44.000',NULL,'article','2023-05-23 00:53:16.000',NULL,NULL,NULL)
 ,(1881,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','comment','182',3,'2022-12-24 08:23:01.000',NULL,'product','2023-07-29 01:50:15.000',NULL,NULL,NULL)
 ,(1882,NULL,'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
-Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','248',33,'2020-02-21 13:20:16.000',NULL,'game','2022-12-23 12:34:41.000',NULL,NULL,NULL)
+Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','248',33,'2020-02-21 13:20:16.000',NULL,'book','2022-12-23 12:34:41.000',NULL,NULL,NULL)
 ,(1883,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','159',84,'2022-08-06 01:01:20.000',NULL,'product','2022-03-12 22:08:43.000',NULL,NULL,NULL)
@@ -8064,13 +8064,13 @@ Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in s
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
-Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','comment','140',2,'2020-12-15 08:41:30.000',NULL,'game','2023-06-26 13:43:23.000',NULL,NULL,NULL)
+Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','comment','140',2,'2020-12-15 08:41:30.000',NULL,'book','2023-06-26 13:43:23.000',NULL,NULL,NULL)
 ,(1885,NULL,'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','370',37,'2022-04-16 18:20:12.000',NULL,'product','2022-07-23 09:16:32.000',NULL,NULL,NULL)
-,(1886,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','459',18,'2021-12-15 09:14:51.000',NULL,'game','2023-04-18 06:16:40.000',NULL,NULL,NULL)
+,(1886,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','459',18,'2021-12-15 09:14:51.000',NULL,'book','2023-04-18 06:16:40.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1887,NULL,'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','266',78,'2020-12-06 11:23:30.000',NULL,'article','2022-02-12 02:47:12.000',NULL,NULL,NULL)
@@ -8112,17 +8112,17 @@ Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quis
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
-Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','493',85,'2022-08-21 07:29:43.000',NULL,'game','2022-10-05 07:23:48.000',NULL,NULL,NULL)
+Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','493',85,'2022-08-21 07:29:43.000',NULL,'book','2022-10-05 07:23:48.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1898,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','310',25,'2020-04-27 21:29:39.000',NULL,'game','2022-04-12 20:15:46.000',NULL,NULL,NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','310',25,'2020-04-27 21:29:39.000',NULL,'book','2022-04-12 20:15:46.000',NULL,NULL,NULL)
 ,(1899,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','comment','706',86,'2022-03-13 16:39:36.000',NULL,'game','2023-07-24 06:47:51.000',NULL,NULL,NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','comment','706',86,'2022-03-13 16:39:36.000',NULL,'book','2023-07-24 06:47:51.000',NULL,NULL,NULL)
 ,(1900,NULL,'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','127',23,'2022-03-23 01:02:15.000',NULL,'article','2022-11-11 10:59:52.000',NULL,NULL,NULL)
 ,(1901,NULL,'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
@@ -8133,13 +8133,13 @@ Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
-Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','58',61,'2022-06-21 22:58:00.000',NULL,'game','2023-02-05 07:19:49.000',NULL,NULL,NULL)
+Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','58',61,'2022-06-21 22:58:00.000',NULL,'book','2023-02-05 07:19:49.000',NULL,NULL,NULL)
 ,(1903,NULL,'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
-Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','784',10,'2021-09-01 19:52:33.000',NULL,'game','2022-10-25 21:30:58.000',NULL,NULL,NULL)
-,(1904,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','691',28,'2020-07-30 09:57:54.000',NULL,'game','2022-12-12 00:59:46.000',NULL,NULL,NULL)
+Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','784',10,'2021-09-01 19:52:33.000',NULL,'book','2022-10-25 21:30:58.000',NULL,NULL,NULL)
+,(1904,NULL,'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.','comment','691',28,'2020-07-30 09:57:54.000',NULL,'book','2022-12-12 00:59:46.000',NULL,NULL,NULL)
 ,(1905,NULL,'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','476',99,'2021-08-04 16:50:50.000',NULL,'product','2022-07-03 22:37:03.000',NULL,NULL,NULL)
-,(1906,NULL,'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','55',35,'2020-09-21 15:48:01.000',NULL,'game','2023-05-11 23:59:54.000',NULL,NULL,NULL)
+,(1906,NULL,'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','55',35,'2020-09-21 15:48:01.000',NULL,'book','2023-05-11 23:59:54.000',NULL,NULL,NULL)
 ,(1907,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
@@ -8155,15 +8155,15 @@ Sed ante. Vivamus tortor. Duis mattis egestas metus.
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.','comment','733',56,'2022-02-25 11:49:10.000',NULL,'product','2023-01-17 20:37:27.000',NULL,NULL,NULL)
 ,(1910,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
-Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','411',43,'2022-10-25 00:32:20.000',NULL,'game','2022-05-04 05:09:30.000',NULL,NULL,NULL)
+Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','411',43,'2022-10-25 00:32:20.000',NULL,'book','2022-05-04 05:09:30.000',NULL,NULL,NULL)
 ,(1911,NULL,'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','719',55,'2022-02-09 07:59:29.000',NULL,'product','2022-12-29 23:48:02.000',NULL,NULL,NULL)
 ,(1912,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
-Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','269',29,'2022-05-31 07:49:53.000',NULL,'game','2022-05-25 12:38:45.000',NULL,NULL,NULL)
+Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','269',29,'2022-05-31 07:49:53.000',NULL,'book','2022-05-25 12:38:45.000',NULL,NULL,NULL)
 ,(1913,NULL,'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
-Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','458',91,'2021-03-06 05:59:35.000',NULL,'game','2022-01-11 23:57:44.000',NULL,NULL,NULL)
-,(1914,NULL,'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','259',79,'2021-08-11 15:59:16.000',NULL,'game','2022-10-08 21:22:31.000',NULL,NULL,NULL)
+Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','458',91,'2021-03-06 05:59:35.000',NULL,'book','2022-01-11 23:57:44.000',NULL,NULL,NULL)
+,(1914,NULL,'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','259',79,'2021-08-11 15:59:16.000',NULL,'book','2022-10-08 21:22:31.000',NULL,NULL,NULL)
 ,(1915,NULL,'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.','comment','644',48,'2020-04-17 03:15:52.000',NULL,'product','2023-12-12 00:17:13.000',NULL,NULL,NULL)
 ,(1916,NULL,'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
@@ -8177,22 +8177,22 @@ Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, t
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1918,NULL,'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
-Fusce consequat. Nulla nisl. Nunc nisl.','comment','776',24,'2020-08-06 09:36:53.000',NULL,'game','2022-08-05 13:32:27.000',NULL,NULL,NULL)
+Fusce consequat. Nulla nisl. Nunc nisl.','comment','776',24,'2020-08-06 09:36:53.000',NULL,'book','2022-08-05 13:32:27.000',NULL,NULL,NULL)
 ,(1919,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.','comment','160',23,'2020-03-14 09:00:00.000',NULL,'article','2023-12-20 01:54:06.000',NULL,NULL,NULL)
 ,(1920,NULL,'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.','comment','579',85,'2021-01-10 10:31:17.000',NULL,'product','2022-05-07 05:52:08.000',NULL,NULL,NULL)
 ,(1921,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.','comment','664',60,'2022-12-30 20:01:21.000',NULL,'product','2023-11-14 17:10:42.000',NULL,NULL,NULL)
-,(1922,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','629',73,'2022-05-03 22:49:41.000',NULL,'game','2023-03-21 17:27:06.000',NULL,NULL,NULL)
+,(1922,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','629',73,'2022-05-03 22:49:41.000',NULL,'book','2023-03-21 17:27:06.000',NULL,NULL,NULL)
 ,(1923,NULL,'In congue. Etiam justo. Etiam pretium iaculis justo.
 
-In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','641',90,'2021-06-24 18:41:56.000',NULL,'game','2023-12-15 02:50:14.000',NULL,NULL,NULL)
+In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.','comment','641',90,'2021-06-24 18:41:56.000',NULL,'book','2023-12-15 02:50:14.000',NULL,NULL,NULL)
 ,(1924,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','662',30,'2020-04-11 02:54:42.000',NULL,'game','2022-08-30 13:24:16.000',NULL,NULL,NULL)
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','662',30,'2020-04-11 02:54:42.000',NULL,'book','2022-08-30 13:24:16.000',NULL,NULL,NULL)
 ,(1925,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','103',22,'2022-02-28 12:28:57.000',NULL,'game','2023-12-28 07:04:56.000',NULL,NULL,NULL)
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','103',22,'2022-02-28 12:28:57.000',NULL,'book','2023-12-28 07:04:56.000',NULL,NULL,NULL)
 ,(1926,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','386',67,'2021-04-18 02:59:13.000',NULL,'product','2023-08-30 23:46:15.000',NULL,NULL,NULL)
@@ -8200,7 +8200,7 @@ Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer al
 
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
-Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','223',57,'2022-10-20 01:04:37.000',NULL,'game','2023-03-29 22:37:31.000',NULL,NULL,NULL)
+Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','223',57,'2022-10-20 01:04:37.000',NULL,'book','2023-03-29 22:37:31.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1928,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
@@ -8217,14 +8217,14 @@ Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turp
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','625',66,'2020-03-10 14:38:53.000',NULL,'article','2023-03-04 06:45:45.000',NULL,NULL,NULL)
 ,(1932,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
-Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','321',88,'2021-02-11 00:40:10.000',NULL,'game','2023-09-21 01:49:21.000',NULL,NULL,NULL)
+Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.','comment','321',88,'2021-02-11 00:40:10.000',NULL,'book','2023-09-21 01:49:21.000',NULL,NULL,NULL)
 ,(1933,NULL,'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','474',8,'2022-12-23 17:35:59.000',NULL,'article','2022-06-06 16:17:54.000',NULL,NULL,NULL)
-,(1934,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','354',53,'2021-10-15 02:38:49.000',NULL,'game','2022-10-21 15:20:05.000',NULL,NULL,NULL)
+,(1934,NULL,'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','354',53,'2021-10-15 02:38:49.000',NULL,'book','2022-10-21 15:20:05.000',NULL,NULL,NULL)
 ,(1935,NULL,'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.','comment','443',99,'2020-01-16 10:53:36.000',NULL,'product','2022-04-08 23:50:12.000',NULL,NULL,NULL)
 ,(2280,NULL,'Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.','comment','32',20,'2021-08-16 16:32:10.000',NULL,'comment','2022-12-29 17:43:18.000',NULL,NULL,NULL)
 ,(1936,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','341',9,'2020-08-25 11:38:21.000',NULL,'game','2023-12-19 22:03:07.000',NULL,NULL,NULL)
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','341',9,'2020-08-25 11:38:21.000',NULL,'book','2023-12-19 22:03:07.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1937,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
@@ -8259,7 +8259,7 @@ Phasellus in felis. Donec semper sapien a libero. Nam dui.','comment','195',76,'
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','73',11,'2020-04-10 20:29:12.000',NULL,'article','2023-10-13 06:40:05.000',NULL,NULL,NULL)
 ,(1945,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
-Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','362',84,'2020-04-04 01:12:24.000',NULL,'game','2023-03-26 19:30:41.000',NULL,NULL,NULL)
+Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.','comment','362',84,'2020-04-04 01:12:24.000',NULL,'book','2023-03-26 19:30:41.000',NULL,NULL,NULL)
 ,(1946,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','673',91,'2021-07-03 13:26:54.000',NULL,'article','2022-09-24 06:35:25.000',NULL,NULL,NULL)
@@ -8272,8 +8272,8 @@ Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','658',97,'2021-1
 
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 
-Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','321',64,'2021-12-31 03:55:54.000',NULL,'game','2022-03-15 13:27:20.000',NULL,NULL,NULL)
-,(1949,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','472',31,'2021-03-18 15:52:06.000',NULL,'game','2022-10-28 09:22:06.000',NULL,NULL,NULL)
+Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.','comment','321',64,'2021-12-31 03:55:54.000',NULL,'book','2022-03-15 13:27:20.000',NULL,NULL,NULL)
+,(1949,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','472',31,'2021-03-18 15:52:06.000',NULL,'book','2022-10-28 09:22:06.000',NULL,NULL,NULL)
 ,(1950,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.','comment','701',18,'2020-04-30 12:02:38.000',NULL,'article','2022-03-17 18:22:06.000',NULL,NULL,NULL)
@@ -8281,19 +8281,19 @@ Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condim
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
-Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','495',90,'2020-07-09 16:52:20.000',NULL,'game','2022-06-19 11:04:55.000',NULL,NULL,NULL)
+Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.','comment','495',90,'2020-07-09 16:52:20.000',NULL,'book','2022-06-19 11:04:55.000',NULL,NULL,NULL)
 ,(1952,NULL,'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
 Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.','comment','143',67,'2021-12-28 22:47:30.000',NULL,'article','2023-09-24 18:53:24.000',NULL,NULL,NULL)
-,(1953,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','327',55,'2022-06-08 22:50:02.000',NULL,'game','2023-10-27 11:26:31.000',NULL,NULL,NULL)
+,(1953,NULL,'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.','comment','327',55,'2022-06-08 22:50:02.000',NULL,'book','2023-10-27 11:26:31.000',NULL,NULL,NULL)
 ,(1954,NULL,'Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
-Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','321',84,'2022-03-14 07:49:42.000',NULL,'game','2023-04-13 03:09:27.000',NULL,NULL,NULL)
+Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.','comment','321',84,'2022-03-14 07:49:42.000',NULL,'book','2023-04-13 03:09:27.000',NULL,NULL,NULL)
 ,(1955,NULL,'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
-Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','408',80,'2021-08-30 14:45:49.000',NULL,'game','2023-06-13 05:29:36.000',NULL,NULL,NULL)
+Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.','comment','408',80,'2021-08-30 14:45:49.000',NULL,'book','2023-06-13 05:29:36.000',NULL,NULL,NULL)
 ,(1956,NULL,'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
@@ -8303,7 +8303,7 @@ Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed 
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1957,NULL,'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.
 
-Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','634',41,'2020-04-16 22:50:02.000',NULL,'game','2023-11-29 21:28:47.000',NULL,NULL,NULL)
+Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.','comment','634',41,'2020-04-16 22:50:02.000',NULL,'book','2023-11-29 21:28:47.000',NULL,NULL,NULL)
 ,(1958,NULL,'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.','comment','294',29,'2020-11-04 16:47:59.000',NULL,'product','2023-05-08 19:42:36.000',NULL,NULL,NULL)
@@ -8315,15 +8315,15 @@ Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.','comment','1
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.','comment','72',30,'2022-02-19 04:30:58.000',NULL,'product','2023-11-16 22:53:08.000',NULL,NULL,NULL)
-,(1961,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','684',6,'2022-08-16 04:21:20.000',NULL,'game','2023-04-26 15:35:08.000',NULL,NULL,NULL)
-,(1962,NULL,'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','481',43,'2021-11-18 00:36:34.000',NULL,'game','2022-11-05 12:10:27.000',NULL,NULL,NULL)
+,(1961,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','684',6,'2022-08-16 04:21:20.000',NULL,'book','2023-04-26 15:35:08.000',NULL,NULL,NULL)
+,(1962,NULL,'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.','comment','481',43,'2021-11-18 00:36:34.000',NULL,'book','2022-11-05 12:10:27.000',NULL,NULL,NULL)
 ,(1963,NULL,'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.','comment','461',70,'2020-09-04 11:57:55.000',NULL,'article','2022-09-09 17:17:03.000',NULL,NULL,NULL)
 ,(1964,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','comment','109',5,'2021-03-05 02:31:09.000',NULL,'article','2023-06-20 12:10:38.000',NULL,NULL,NULL)
 ,(1965,NULL,'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','458',52,'2022-02-17 05:10:38.000',NULL,'game','2022-04-14 15:55:03.000',NULL,NULL,NULL)
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','458',52,'2022-02-17 05:10:38.000',NULL,'book','2022-04-14 15:55:03.000',NULL,NULL,NULL)
 ,(1966,NULL,'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
@@ -8335,7 +8335,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 ,(1968,NULL,'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.','comment','757',35,'2020-11-30 10:25:23.000',NULL,'article','2023-01-26 22:21:47.000',NULL,NULL,NULL)
 ,(1969,NULL,'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
-Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','668',24,'2022-06-02 21:43:54.000',NULL,'game','2023-01-22 23:50:46.000',NULL,NULL,NULL)
+Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.','comment','668',24,'2022-06-02 21:43:54.000',NULL,'book','2023-01-22 23:50:46.000',NULL,NULL,NULL)
 ,(1970,NULL,'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.','comment','498',59,'2022-06-14 04:14:47.000',NULL,'product','2022-06-02 07:17:55.000',NULL,NULL,NULL)
@@ -8344,7 +8344,7 @@ Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est ris
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','357',33,'2020-08-25 13:20:54.000',NULL,'game','2022-07-17 07:23:50.000',NULL,NULL,NULL)
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','357',33,'2020-08-25 13:20:54.000',NULL,'book','2022-07-17 07:23:50.000',NULL,NULL,NULL)
 ,(1973,NULL,'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.','comment','146',48,'2020-05-17 17:56:27.000',NULL,'product','2022-03-10 21:03:28.000',NULL,NULL,NULL)
@@ -8358,7 +8358,7 @@ Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan fe
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
-In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','615',57,'2020-04-04 02:55:08.000',NULL,'game','2023-11-21 00:40:42.000',NULL,NULL,NULL)
+In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.','comment','615',57,'2020-04-04 02:55:08.000',NULL,'book','2023-11-21 00:40:42.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1977,NULL,'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
@@ -8372,25 +8372,25 @@ Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque liber
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo.','comment','464',58,'2022-10-13 12:13:52.000',NULL,'article','2023-06-10 09:07:00.000',NULL,NULL,NULL)
-,(1980,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','791',58,'2021-11-09 11:19:34.000',NULL,'game','2022-12-26 05:03:17.000',NULL,NULL,NULL)
+,(1980,NULL,'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.','comment','791',58,'2021-11-09 11:19:34.000',NULL,'book','2022-12-26 05:03:17.000',NULL,NULL,NULL)
 ,(1981,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','634',25,'2022-08-13 14:21:21.000',NULL,'game','2023-08-30 17:32:55.000',NULL,NULL,NULL)
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','634',25,'2022-08-13 14:21:21.000',NULL,'book','2023-08-30 17:32:55.000',NULL,NULL,NULL)
 ,(1982,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','236',4,'2021-04-14 03:31:11.000',NULL,'article','2022-02-25 00:44:20.000',NULL,NULL,NULL)
 ,(1983,NULL,'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
-Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','14',2,'2022-08-04 14:05:02.000',NULL,'game','2023-07-27 06:04:52.000',NULL,NULL,NULL)
+Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','14',2,'2022-08-04 14:05:02.000',NULL,'book','2023-07-27 06:04:52.000',NULL,NULL,NULL)
 ,(1984,NULL,'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.','comment','88',68,'2021-12-17 11:25:18.000',NULL,'product','2022-01-14 21:13:41.000',NULL,NULL,NULL)
-,(1985,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','277',38,'2020-11-15 21:45:44.000',NULL,'game','2022-06-05 08:11:21.000',NULL,NULL,NULL)
+,(1985,NULL,'Sed ante. Vivamus tortor. Duis mattis egestas metus.','comment','277',38,'2020-11-15 21:45:44.000',NULL,'book','2022-06-05 08:11:21.000',NULL,NULL,NULL)
 ,(1986,NULL,'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
-Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','639',41,'2021-11-26 22:00:24.000',NULL,'game','2022-06-27 23:49:47.000',NULL,NULL,NULL)
+Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.','comment','639',41,'2021-11-26 22:00:24.000',NULL,'book','2022-06-27 23:49:47.000',NULL,NULL,NULL)
 ;
 INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","createdAt",content_json,parent_type,"updatedAt",main_category,taxonomy,extras) VALUES 
 (1987,NULL,'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
@@ -8404,11 +8404,11 @@ Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odi
 ,(1989,NULL,'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
 Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.','comment','768',4,'2022-08-28 03:01:30.000',NULL,'article','2023-05-15 17:49:58.000',NULL,NULL,NULL)
-,(1990,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','comment','758',73,'2020-02-05 15:08:36.000',NULL,'game','2023-09-20 03:38:45.000',NULL,NULL,NULL)
+,(1990,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.','comment','758',73,'2020-02-05 15:08:36.000',NULL,'book','2023-09-20 03:38:45.000',NULL,NULL,NULL)
 ,(1991,NULL,'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
 Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.','comment','649',91,'2020-04-22 05:27:01.000',NULL,'article','2023-06-21 11:32:34.000',NULL,NULL,NULL)
-,(1992,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','656',8,'2022-10-18 13:15:14.000',NULL,'game','2022-12-23 07:43:43.000',NULL,NULL,NULL)
+,(1992,NULL,'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','656',8,'2022-10-18 13:15:14.000',NULL,'book','2022-12-23 07:43:43.000',NULL,NULL,NULL)
 ,(1993,NULL,'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
@@ -8421,7 +8421,7 @@ Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non m
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.','comment','786',65,'2021-08-21 03:38:09.000',NULL,'product','2022-04-05 00:20:07.000',NULL,NULL,NULL)
 ,(1995,NULL,'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','673',40,'2021-05-10 00:41:26.000',NULL,'game','2022-05-07 23:29:01.000',NULL,NULL,NULL)
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.','comment','673',40,'2021-05-10 00:41:26.000',NULL,'book','2022-05-07 23:29:01.000',NULL,NULL,NULL)
 ,(1996,NULL,'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
 Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
@@ -8433,7 +8433,7 @@ INSERT INTO public."Contents" (id,title,"content","type",parent,"owner","created
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
-Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','181',17,'2020-02-23 17:05:09.000',NULL,'game','2022-04-10 04:05:45.000',NULL,NULL,NULL)
+Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.','comment','181',17,'2020-02-23 17:05:09.000',NULL,'book','2022-04-10 04:05:45.000',NULL,NULL,NULL)
 ,(1998,NULL,'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.','comment','259',76,'2020-11-24 15:15:45.000',NULL,'article','2023-10-18 00:14:47.000',NULL,NULL,NULL)
 ,(1999,NULL,'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 

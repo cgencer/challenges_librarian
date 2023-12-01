@@ -6,6 +6,7 @@ export interface UsersAttributes {
   userName: string;
   firstName?: string;
   lastName?: string;
+  name?: string;
   email: string;
   password: string;
   birthday?: Date;
@@ -19,7 +20,7 @@ export interface UsersAttributes {
 
 export type UsersPk = "id";
 export type UsersId = Users[UsersPk];
-export type UsersOptionalAttributes = "id" | "firstName" | "lastName" | "birthday" | "wallet" | "createdAt" | "updatedAt" | "bgg_id" | "bga_id" | "avatar";
+export type UsersOptionalAttributes = "id" | "firstName" | "lastName" | "name" | "birthday" | "wallet" | "createdAt" | "updatedAt" | "bgg_id" | "bga_id" | "avatar";
 export type UsersCreationAttributes = Optional<UsersAttributes, UsersOptionalAttributes>;
 
 export class Users extends Model<UsersAttributes, UsersCreationAttributes> implements UsersAttributes {
@@ -27,6 +28,7 @@ export class Users extends Model<UsersAttributes, UsersCreationAttributes> imple
   userName!: string;
   firstName?: string;
   lastName?: string;
+  name?: string;
   email!: string;
   password!: string;
   birthday?: Date;
@@ -57,6 +59,12 @@ export class Users extends Model<UsersAttributes, UsersCreationAttributes> imple
     lastName: {
       type: DataTypes.STRING(255),
       allowNull: true
+    },
+    name: {
+      type: DataTypes.VIRTUAL,
+      get() {
+        return `${this.firstName} ${this.lastName}`;
+      },
     },
     email: {
       type: DataTypes.STRING(255),
