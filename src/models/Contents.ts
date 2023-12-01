@@ -79,7 +79,7 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
     score: {
       type: DataTypes.VIRTUAL,
       get() {
-        return `${this.extras ?? 0}`;
+        return `${this.extras ?? -1}`;
       },
     },
     content_json: {

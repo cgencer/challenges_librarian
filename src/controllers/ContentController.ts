@@ -19,13 +19,11 @@ export class ContentController implements Base {
     async getContents(req: any, res: any): Promise<void> {
 console.log(':::> getContents');
         try {
-            const contents = await Contents.findAll();
-            const filteredContents = contents.map(content => pick(content, ['id', 'name']));
+            const books = await Contents.findAll({ where: { type: 'book' } });
 
-            res.status(200).json({
-                type: "success",
-                filteredContents
-            })
+            res.status(200).json(
+                books.map(book => pick(book, ['id', 'name']))
+            )
         } catch (err) {
             res.status(500).json({
                 type: "error",
@@ -39,15 +37,15 @@ console.log(':::> getContents');
     async getContent(req: any, res: any): Promise<void> {
 console.log(':::> getContent');
         try {
-            const content = await Contents.findByPk(req.params.id);
-            if (!content) {
+            const book = await Contents.findByPk(req.params.id);
+            if (!book) {
                 res.status(404).json({
                     type: "error",
                     message: "Post doesn't exists"
                 })
             } else {
                 res.status(200).json(
-                    pick(content, ['id', 'name', 'score'])
+                    pick(book, ['id', 'name', 'score'])
                 );
             }
         } catch (err) {

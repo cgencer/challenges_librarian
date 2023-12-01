@@ -88,6 +88,14 @@ export default class App {
   			console.log(`::: the API is avail@ http://localhost:${config.local_port}`);
 			console.log(':::--------------------------------');
 		});
+		console.log('::: IMPORTANT NOTE:');
+		console.log(':::');
+		console.log('::: Awaiting authentication notice. ');
+		console.log('::: Remote database is only available when the message of');
+		console.log(`::: 'Connection has been established and authenticated'`);
+		console.log('::: is received, please await while{ do fetch();}');
+		console.log(':::--------------------------------');
+
 	}
 }
 new App();
