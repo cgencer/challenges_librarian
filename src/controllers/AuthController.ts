@@ -1,8 +1,9 @@
 import { validationResult } from 'express-validator';
 import bcrypt from "bcrypt";
 import { encode_reg_token } from '../helpers/tokens.js';
-import _ from 'lodash';
+import { z } from 'zod';
 import { Users } from '../models/Users.js';
+
 
 interface Base {
     createUser: (req: any, res: any) => void;
@@ -16,16 +17,21 @@ export class AuthController implements Base {
 
     public async createUser(req: any, res: any): Promise<void> {
 
-        const errors = validationResult(req);
+        const newUserSchema = z.object({
+            username: z.string(),
+            email: z.string().email(),
+            password: z.string()
+        });
 
-        if (!errors.isEmpty()) {
-            res.status(422).json({
+        const result = newUserSchema.safeParse(req.body);
+        if (!result.success) {
+            res.status(500).json({
                 type: 'error',
-                message: errors.array()
+                message: result.error
             });
         } else {
             try {
-                const { username, email, password } = req.body; 
+                const { username, email, password } = result.data; 
                 const newUser = new Users({
                     userName: username,
                     name: username,

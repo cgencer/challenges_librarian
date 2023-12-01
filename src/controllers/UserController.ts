@@ -1,6 +1,7 @@
 import bcrypt from "bcrypt";
 import lodash from 'lodash';
 const { pick } = lodash;
+import { z } from 'zod';
 
 import { Users } from '../models/Users.js';
 import { Contents } from '../models/Contents.js';
@@ -8,14 +9,14 @@ import { Books } from '../models/ContentTypes.js';
 
 import { CrossBindings } from '../models/CrossBindings.js';
 
-interface Base {
-    getUser: (req: any, res: any) => void;
-    updateUser: (req: any, res: any) => void;
-    deleteUser: (req: any, res: any) => void;
-}
-
 /* get single user */
 export class UserController implements Base {
+
+    const userSchema = z.object({
+        name: z.string(),
+        email: z.string().email(),
+        age: z.number().min(0),
+    });
 
     async getUser(req: any, res: any): Promise<void> {
 
