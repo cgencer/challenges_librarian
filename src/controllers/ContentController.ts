@@ -24,32 +24,12 @@ export class ContentController implements Base {
 console.log(':::> getContents');
         try {
             const books = await Contents.findAll({ 
-                where: { type: 'book' },
-                attributes: ['id', 'title', 'type']
-            });
-
-            res.status(200).json(
-                books.map(book => pick(book, ['id', 'title', 'name']))
-            )
-        } catch (err) {
-            res.status(500).json({
-                type: "error",
-                message: "Something went wrong please try again",
-                err
-            })
-        }
-    };
-
-    async getAvailContents(req: any, res: any): Promise<void> {
-console.log(':::> getContents');
-        try {
-            const books = await Contents.findAll({ 
                 where: { type: 'book', isavail: true },
                 attributes: ['id', 'title', 'type']
             });
 
             res.status(200).json(
-                books.map(book => pick(book, ['id', 'name']))
+                books.map(book => pick(book, ['id', 'title', 'name']))
             )
         } catch (err) {
             res.status(500).json({
