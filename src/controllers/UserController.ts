@@ -80,11 +80,12 @@ export class UserController implements Base {
     async borrowBook(req: any, res: any): Promise<void> {
         try {
             const theBook = await Contents.findByPk(req.params.bookid);
-            const updatedUser = await Contents.update({
+            const updatedUser = await Contents.update({ 
                 isavail: false
-            },{
+            },{ 
                 where: { id: req.params.bookId, type: 'book', isavail: true }
             });
+
         } catch (err) {
             res.status(500).json({
                 type: "error",
