@@ -3,7 +3,6 @@ import { DataTypes, Model, Optional } from 'sequelize';
 
 export interface CrossBindingsAttributes {
   id: number;
-  createdAt: Date;
   userID: number;
   contentID: number;
   type: string;
@@ -12,12 +11,11 @@ export interface CrossBindingsAttributes {
 
 export type CrossBindingsPk = "id";
 export type CrossBindingsId = CrossBindings[CrossBindingsPk];
-export type CrossBindingsOptionalAttributes = "id" | "createdAt" | "extra";
+export type CrossBindingsOptionalAttributes = "id" | "extra";
 export type CrossBindingsCreationAttributes = Optional<CrossBindingsAttributes, CrossBindingsOptionalAttributes>;
 
 export class CrossBindings extends Model<CrossBindingsAttributes, CrossBindingsCreationAttributes> implements CrossBindingsAttributes {
   id!: number;
-  createdAt!: Date;
   userID!: number;
   contentID!: number;
   type!: string;
@@ -48,10 +46,6 @@ export class CrossBindings extends Model<CrossBindingsAttributes, CrossBindingsC
       type: DataTypes.STRING(255),
       allowNull: true
     },
-    createdAt: {
-      type: DataTypes.DATE,
-      allowNull: false
-    }
   }, {
     sequelize,
     tableName: 'CrossBindings',

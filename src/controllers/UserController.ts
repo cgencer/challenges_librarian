@@ -3,6 +3,8 @@ import lodash from 'lodash';
 const { pick } = lodash;
 
 import { Users } from '../models/Users.js';
+import { Contents } from '../models/Contents.js';
+import { CrossBindings } from '../models/CrossBindings.js';
 
 interface Base {
     getUser: (req: any, res: any) => void;
@@ -17,6 +19,16 @@ export class UserController implements Base {
 
         try {
             const user = await Users.findByPk(req.params.id);
+
+            const pastBooks = await CrossBindings.findAll({
+                where: {userID: req.params.id, type: 'past'}, 
+                attributes: ['id', 'userID', 'contentID', 'type']
+            });
+            const currBooks = await CrossBindings.findAll({
+                where: {userID: req.params.id, type: 'present'}, 
+                attributes: ['id', 'userID', 'contentID', 'type']
+            });
+
             if (!user) {
                 res.status(404).json({
                     type: "error",
@@ -24,9 +36,13 @@ export class UserController implements Base {
                 })
             } else {
                 const { password, ...data } = user;
+
                 res.status(200).json({
-                    type: "success",
-                    data
+                    ...pick(user, ['id', 'name']),
+                    books: {
+                        past: pastBooks.map(book => pick(book, ['id', 'name'])),
+                        present: currBooks.map(book => pick(book, ['id', 'name']))
+                    }
                 })
             }
         } catch (err) {
@@ -56,6 +72,39 @@ export class UserController implements Base {
             res.status(500).json({
                 type: "error",
                 message: "Something went wrong please try again",
+                err
+            })
+        }
+    };
+
+    async borrowBook(req: any, res: any): Promise<void> {
+        try {
+            const theBook = await Contents.findByPk(req.params.bookid);
+            const updatedUser = await Contents.update({
+                isavail: false
+            },{
+                where: { id: req.params.bookId, type: 'book', isavail: true }
+            });
+        } catch (err) {
+            res.status(500).json({
+                type: "error",
+                message: "The selected book is not available at the moment, please try next time.",
+                err
+            })
+        }
+    };
+
+    async returnBook(req: any, res: any): Promise<void> {
+        try {
+            const updatedUser = await Contents.update({
+                isavail: true
+            },{
+                where: { id: req.params.bookId, type: 'book', isavail: false }
+            });
+        } catch (err) {
+            res.status(500).json({
+                type: "error",
+                message: "The selected book is not available at the moment, please try next time.",
                 err
             })
         }

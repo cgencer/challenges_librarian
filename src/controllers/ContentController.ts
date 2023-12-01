@@ -33,6 +33,23 @@ console.log(':::> getContents');
         }
     };
 
+    async getAvailContents(req: any, res: any): Promise<void> {
+console.log(':::> getContents');
+        try {
+            const books = await Contents.findAll({ where: { type: 'book', isavail: true } });
+
+            res.status(200).json(
+                books.map(book => pick(book, ['id', 'name']))
+            )
+        } catch (err) {
+            res.status(500).json({
+                type: "error",
+                message: "Something went wrong please try again",
+                err
+            })
+        }
+    };
+
     /* get single post */
     async getContent(req: any, res: any): Promise<void> {
 console.log(':::> getContent');

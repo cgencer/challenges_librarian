@@ -11,6 +11,7 @@ const commentController = new CommentController();
 export {
 	authController,
     userController,
+    contentController,
     bookController,
     commentController,
 }

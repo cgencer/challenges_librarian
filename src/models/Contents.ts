@@ -1,5 +1,7 @@
 import * as Sequelize from 'sequelize';
 import { DataTypes, Model, Optional } from 'sequelize';
+import lodash from 'lodash';
+const { isObject, isUndefined, isNull, has } = lodash;
 
 export interface ContentsAttributes {
   id: number;
@@ -10,6 +12,7 @@ export interface ContentsAttributes {
   parent?: string;
   owner?: number;
   score?: number;
+  isavail?: boolean;
   createdAt?: Date;
   content_json?: object;
   parent_type?: string;
@@ -21,7 +24,7 @@ export interface ContentsAttributes {
 
 export type ContentsPk = "id";
 export type ContentsId = Contents[ContentsPk];
-export type ContentsOptionalAttributes = "id" | "title" | "name" | "content" | "type" | "parent" | "owner" | "score" | "createdAt" | "content_json" | "parent_type" | "updatedAt" | "main_category" | "taxonomy" | "extras";
+export type ContentsOptionalAttributes = "id" | "title" | "name" | "content" | "type" | "parent" | "owner" | "score" | "isavail" | "createdAt" | "content_json" | "parent_type" | "updatedAt" | "main_category" | "taxonomy" | "extras";
 export type ContentsCreationAttributes = Optional<ContentsAttributes, ContentsOptionalAttributes>;
 
 export class Contents extends Model<ContentsAttributes, ContentsCreationAttributes> implements ContentsAttributes {
@@ -33,6 +36,7 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
   parent?: string;
   owner?: number;
   score?: number;
+  isavail?: boolean;
   createdAt?: Date;
   content_json?: object;
   parent_type?: string;
@@ -77,10 +81,12 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
       allowNull: true
     },
     score: {
-      type: DataTypes.VIRTUAL,
-      get() {
-        return `${this.extras ?? -1}`;
-      },
+      type: DataTypes.INTEGER,
+      allowNull: false
+    },
+    isavail: {
+      type: DataTypes.BOOLEAN,
+      allowNull: false
     },
     content_json: {
       type: DataTypes.JSON,
@@ -100,7 +106,7 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
     },
     extras: {
       type: DataTypes.JSON,
-      allowNull: true
+      allowNull: false
     },
     createdAt: {
       type: DataTypes.DATE,
