@@ -25,6 +25,7 @@ it would be not much effort to implement it. I did not prefer it before having i
 ## Notes:
 
 - Couldn't manage to create the average scoring mechanism in time, so it lacks the calculated scores.
+- The First 3 user-id's (1,2,3) have both past and present read books list. The other users have only past lists.
 
 ## Database
 
