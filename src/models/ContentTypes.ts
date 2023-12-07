@@ -8,9 +8,30 @@ export class Books extends Contents implements ContentsAttributes {
   }
 }
 
+export class Games extends Contents implements ContentsAttributes {
+  constructor() {
+    super();
+    this.type = 'book';
+  }
+}
+
+export class Reviews extends Contents implements ContentsAttributes {
+  constructor() {
+    super();
+    this.type = 'book';
+  }
+}
+
 export class Comments extends Contents implements ContentsAttributes {
   constructor() {
     super();
     this.type = 'comment';
+  }
+}
+
+export class Products extends Contents implements ContentsAttributes {
+  constructor() {
+    super();
+    this.type = 'product';
   }
 }

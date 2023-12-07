@@ -6,12 +6,13 @@ export interface CrossBindingsAttributes {
   userID: number;
   contentID: number;
   type: string;
-  extra?: string;
+  extra?: object;
+  score?: number;
 }
 
 export type CrossBindingsPk = "id";
 export type CrossBindingsId = CrossBindings[CrossBindingsPk];
-export type CrossBindingsOptionalAttributes = "id" | "extra";
+export type CrossBindingsOptionalAttributes = "id" | "extra" | "score";
 export type CrossBindingsCreationAttributes = Optional<CrossBindingsAttributes, CrossBindingsOptionalAttributes>;
 
 export class CrossBindings extends Model<CrossBindingsAttributes, CrossBindingsCreationAttributes> implements CrossBindingsAttributes {
@@ -19,7 +20,8 @@ export class CrossBindings extends Model<CrossBindingsAttributes, CrossBindingsC
   userID!: number;
   contentID!: number;
   type!: string;
-  extra?: string;
+  extra?: object;
+  score?: number;
 
 
   static initModel(sequelize: Sequelize.Sequelize): typeof CrossBindings {
@@ -43,14 +45,18 @@ export class CrossBindings extends Model<CrossBindingsAttributes, CrossBindingsC
       allowNull: false
     },
     extra: {
-      type: DataTypes.STRING(255),
+      type: DataTypes.JSON,
+      allowNull: true
+    },
+    score: {
+      type: DataTypes.INTEGER,
       allowNull: true
     },
   }, {
     sequelize,
     tableName: 'CrossBindings',
     schema: 'public',
-    timestamps: true,
+    timestamps: false,
     indexes: [
       {
         name: "CrossBindings_pkey",

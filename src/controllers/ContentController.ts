@@ -3,7 +3,7 @@ import { validationResult } from 'express-validator';
 //import { Contents } from '../models/Contents.js';
 import { Users, Contents } from '../models/init-models.js';
 
-import { Books, Comments } from '../models/ContentTypes.js';
+import { Games, Products, Reviews, Books, Comments } from '../models/ContentTypes.js';
 import { CrossBindings } from '../models/CrossBindings.js';
 
 import lodash from 'lodash';
@@ -197,6 +197,8 @@ export class ArticleController extends ContentController implements Base {
 export class ProductController extends ContentController implements Base {
 };
 export class BookController extends ContentController implements Base {
+};
+export class GameController extends ContentController implements Base {
 };
 export class CommentController extends ContentController implements Base {
 };
