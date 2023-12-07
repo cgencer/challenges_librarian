@@ -22,7 +22,14 @@ export class UserController implements Base {
 
         try {
 
-            const user = await Users.findByPk(req.params.id);
+            const user = await Users.findAll({
+                include: {
+                    model: Contents, 
+                    attributes: [['id', 'content_id'], 'title', 'status', 'score', 'attributes']
+                },
+                where: {id: req.params.id},
+                attributes: ['id', 'userName', 'name'],
+            });
 
             const pastBooks = await CrossBindings.findAll({
                 where: {userID: req.params.id, type: 'past'}, 
@@ -48,10 +55,11 @@ export class UserController implements Base {
                     message: "User doesn't exists"
                 })
             } else {
-                const { password, ...data } = user;
+//                const { password, ...data } = user;
 
                 res.status(200).json({
-                    ...pick(user, ['id', 'name']),
+                    user,
+//                    ...pick(user, ['id', 'name']),
                     books: {
                         past: pastTitles.map(title => {return ({'name': title.dataValues.name});}),
                         present: currTitles.map(title => {return ({'name': title.dataValues.name});})
@@ -94,9 +102,9 @@ export class UserController implements Base {
         try {
             const theBook = await Contents.findByPk(req.params.bookid);
             const updatedUser = await Contents.update({ 
-                isavail: false
+//                isavail: false
             },{ 
-                where: { id: req.params.bookId, type: 'book', isavail: true }
+                where: { id: req.params.bookId, type: 'book'}//, isavail: true }
             });
             res.status(204).send();
 
@@ -112,9 +120,9 @@ export class UserController implements Base {
     async returnBook(req: any, res: any): Promise<void> {
         try {
             const updatedUser = await Contents.update({
-                isavail: true
+//                isavail: true
             },{
-                where: { id: req.params.bookId, type: 'book', isavail: false }
+                where: { id: req.params.bookId, type: 'book'} // isavail: false }
             });
             res.status(204).send();
 

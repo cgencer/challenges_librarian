@@ -4,9 +4,9 @@ import { BookController, CommentController, ContentController } from './ContentC
 
 const authController = new AuthController();
 const userController = new UserController();
-const bookController = new BookController();
+const bookController = new ContentController();
 const contentController = new ContentController();
-const commentController = new CommentController();
+const commentController = new ContentController();
 
 export {
 	authController,

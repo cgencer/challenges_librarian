@@ -3,6 +3,7 @@ import { DataTypes, Model, Optional } from 'sequelize';
 
 export interface UsersAttributes {
   id: number;
+  uuid?: string;
   userName: string;
   firstName?: string;
   lastName?: string;
@@ -11,20 +12,20 @@ export interface UsersAttributes {
   password: string;
   birthday?: Date;
   wallet?: string;
+  social?: object;
+
   createdAt: Date;
   updatedAt: Date;
-  bgg_id?: string;
-  bga_id?: string;
-  avatar?: string;
 }
 
 export type UsersPk = "id";
 export type UsersId = Users[UsersPk];
-export type UsersOptionalAttributes = "id" | "firstName" | "lastName" | "name" | "birthday" | "wallet" | "createdAt" | "updatedAt" | "bgg_id" | "bga_id" | "avatar";
+export type UsersOptionalAttributes = "id" | "firstName" | "lastName" | "name" | "birthday" | "wallet" | "createdAt" | "updatedAt" | "social" | "uuid";
 export type UsersCreationAttributes = Optional<UsersAttributes, UsersOptionalAttributes>;
 
 export class Users extends Model<UsersAttributes, UsersCreationAttributes> implements UsersAttributes {
   id!: number;
+  uuid?: string;
   userName!: string;
   firstName?: string;
   lastName?: string;
@@ -33,11 +34,10 @@ export class Users extends Model<UsersAttributes, UsersCreationAttributes> imple
   password!: string;
   birthday?: Date;
   wallet?: string;
+  social?: object;
+
   createdAt!: Date;
   updatedAt!: Date;
-  bgg_id?: string;
-  bga_id?: string;
-  avatar?: string;
 
 
   static initModel(sequelize: Sequelize.Sequelize): typeof Users {
@@ -83,16 +83,12 @@ export class Users extends Model<UsersAttributes, UsersCreationAttributes> imple
       type: DataTypes.STRING(255),
       allowNull: true
     },
-    bgg_id: {
-      type: DataTypes.STRING(255),
+    social: {
+      type: DataTypes.JSON,
       allowNull: true
     },
-    bga_id: {
-      type: DataTypes.STRING(255),
-      allowNull: true
-    },
-    avatar: {
-      type: DataTypes.STRING(255),
+    uuid: {
+      type: DataTypes.UUID,
       allowNull: true
     },
     createdAt: {

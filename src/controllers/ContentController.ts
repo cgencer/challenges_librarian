@@ -1,6 +1,8 @@
 import { validationResult } from 'express-validator';
-import { Users } from '../models/Users.js';
-import { Contents } from '../models/Contents.js';
+//import { Users } from '../models/Users.js';
+//import { Contents } from '../models/Contents.js';
+import { Users, Contents } from '../models/init-models.js';
+
 import { Books, Comments } from '../models/ContentTypes.js';
 import { CrossBindings } from '../models/CrossBindings.js';
 
@@ -24,12 +26,13 @@ export class ContentController implements Base {
 console.log(':::> getContents');
         try {
             const books = await Contents.findAll({ 
-                where: { type: 'book', isavail: true },
+                where: { type: 'book'},     //, isavail: true },
                 attributes: ['id', 'title', 'type']
             });
 
             res.status(200).json(
-                books.map(book => pick(book, ['id', 'title', 'name']))
+                books
+//                books.map(book => pick(book, ['id', 'title', 'name']))
             )
         } catch (err) {
             res.status(500).json({
@@ -45,8 +48,9 @@ console.log(':::> getContents');
 console.log(':::> getContent');
         try {
             const book = await Contents.findAll({ 
-                where: { id: req.params.id, type: 'book', isavail: true },
-                attributes: ['id', 'title', 'type', 'score']
+                where: { id: req.params.id, type: 'book'},     //, isavail: true },
+//                attributes: ['id', 'title', 'type', 'score'],
+                include: Users
             });
 
             if (!book) {
@@ -56,7 +60,8 @@ console.log(':::> getContent');
                 })
             } else {
                 res.status(200).json(
-                    pick(book[0], ['id', 'name', 'score'])
+                    book[0]
+//                    pick(book[0], ['id', 'name', 'score'])
                 );
             }
         } catch (err) {

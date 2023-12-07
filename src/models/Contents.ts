@@ -5,46 +5,47 @@ const { isObject, isUndefined, isNull, has } = lodash;
 
 export interface ContentsAttributes {
   id: number;
+  uuid?: string;
   title?: string;
   name?: string;
   content?: string;
   type?: string;
-  parent?: string;
-  owner?: number;
+  parent_id?: string;
+  owner_id?: number;
   score?: number;
-  isavail?: boolean;
-  createdAt?: Date;
+  status?: string;
   content_json?: object;
   parent_type?: string;
-  updatedAt?: Date;
   main_category?: string;
-  taxonomy?: object;
-  extras?: object;
+  attributes?: object;
+
+  createdAt?: Date;
+  updatedAt?: Date;
 }
 
 export type ContentsPk = "id";
 export type ContentsId = Contents[ContentsPk];
-export type ContentsOptionalAttributes = "id" | "title" | /*"name" |*/ "content" | "type" | "parent" | "owner" | "score" | "isavail" | "createdAt" | "content_json" | "parent_type" | "updatedAt" | "main_category" | "taxonomy" | "extras";
+export type ContentsOptionalAttributes = "id" | "title" | /*"name" |*/ "content" | "type" | "parent_id" | "owner_id" | "score" | "uuid" | "status" | "createdAt" | "content_json" | "parent_type" | "updatedAt" | "main_category" | "attributes";
 export type ContentsCreationAttributes = Optional<ContentsAttributes, ContentsOptionalAttributes>;
 
 export class Contents extends Model<ContentsAttributes, ContentsCreationAttributes> implements ContentsAttributes {
   id!: number;
+  uuid?: string;
   title?: string;
 //  name?: string;
   content?: string;
   type?: string;
-  parent?: string;
-  owner?: number;
+  parent_id?: string;
+  owner_id?: number;
   score?: number;
-  isavail?: boolean;
-  createdAt?: Date;
+  status?: string;
   content_json?: object;
   parent_type?: string;
-  updatedAt?: Date;
   main_category?: string;
-  taxonomy?: object;
-  extras?: object;
+  attributes?: object;
 
+  createdAt?: Date;
+  updatedAt?: Date;
 
   static initModel(sequelize: Sequelize.Sequelize): typeof Contents {
     return Contents.init({
@@ -74,11 +75,11 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
       type: DataTypes.STRING(16),
       allowNull: true
     },
-    parent: {
-      type: DataTypes.STRING(255),
+    parent_id: {
+      type: DataTypes.INTEGER,
       allowNull: true
     },
-    owner: {
+    owner_id: {
       type: DataTypes.INTEGER,
       allowNull: true
     },
@@ -86,8 +87,8 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
       type: DataTypes.INTEGER,
       allowNull: false
     },
-    isavail: {
-      type: DataTypes.BOOLEAN,
+    status: {
+      type: DataTypes.STRING(16),
       allowNull: false
     },
     content_json: {
@@ -102,13 +103,13 @@ export class Contents extends Model<ContentsAttributes, ContentsCreationAttribut
       type: DataTypes.STRING(255),
       allowNull: true
     },
-    taxonomy: {
+    attributes: {
       type: DataTypes.JSON,
       allowNull: true
     },
-    extras: {
-      type: DataTypes.JSON,
-      allowNull: false
+    uuid: {
+      type: DataTypes.UUID,
+      allowNull: true
     },
     createdAt: {
       type: DataTypes.DATE,
