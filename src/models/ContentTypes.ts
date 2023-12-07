@@ -11,14 +11,7 @@ export class Books extends Contents implements ContentsAttributes {
 export class Games extends Contents implements ContentsAttributes {
   constructor() {
     super();
-    this.type = 'book';
-  }
-}
-
-export class Reviews extends Contents implements ContentsAttributes {
-  constructor() {
-    super();
-    this.type = 'book';
+    this.type = 'game';
   }
 }
 
@@ -29,9 +22,23 @@ export class Comments extends Contents implements ContentsAttributes {
   }
 }
 
+export class Reviews extends Contents implements ContentsAttributes {
+  constructor() {
+    super();
+    this.type = 'review';
+  }
+}
+
 export class Products extends Contents implements ContentsAttributes {
   constructor() {
     super();
     this.type = 'product';
+  }
+}
+
+export class Articles extends Contents implements ContentsAttributes {
+  constructor() {
+    super();
+    this.type = 'article';
   }
 }

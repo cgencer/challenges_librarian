@@ -21,32 +21,9 @@ export class UserController implements Base {
     async getUser(req: any, res: any): Promise<void> {
 
         try {
-
-            const user = await Users.findAll({
-                include: {
-                    model: Contents, 
-                    attributes: [['id', 'content_id'], 'title', 'status', 'score', 'attributes']
-                },
-                where: {id: req.params.id},
-                attributes: ['id', 'userName', 'name'],
-            });
-
-            const pastBooks = await CrossBindings.findAll({
-                where: {userID: req.params.id, type: 'past'}, 
-                attributes: ['id', 'userID', 'contentID', 'type']
-            });
-            const pastTitles = await Contents.findAll({ 
-                where: { type: 'book', id: pastBooks.map(book => book.contentID) },
-                attributes: ['id', ['title', 'name']]
-            });
-
-            const currBooks = await CrossBindings.findAll({
-                where: {userID: req.params.id, type: 'present'}, 
-                attributes: ['id', 'userID', 'contentID', 'type']
-            });
-            const currTitles = await Contents.findAll({ 
-                where: { type: 'book', id: currBooks.map(book => book.contentID) },
-                attributes: ['id', ['title', 'name']]
+            const user = await Users.scope(['includeBooks']).findAll({
+                where: { id: req.params.id },
+                attributes: ['id', 'userName', 'name', 'firstName', 'lastName'],
             });
 
             if (!user) {
@@ -60,10 +37,12 @@ export class UserController implements Base {
                 res.status(200).json({
                     user,
 //                    ...pick(user, ['id', 'name']),
+/*
                     books: {
                         past: pastTitles.map(title => {return ({'name': title.dataValues.name});}),
                         present: currTitles.map(title => {return ({'name': title.dataValues.name});})
                     }
+*/
                 })
             }
         } catch (err) {

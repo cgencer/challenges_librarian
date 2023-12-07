@@ -7,15 +7,21 @@ import { Users as _Users } from "./Users.js";
 import type { UsersAttributes, UsersCreationAttributes } from "./Users.js";
 import {  Books as _Books, 
           Games as _Games, 
-          Comments as _Comments, 
+          Articles as _Articles,
           Products as _Products,
+          Comments as _Comments, 
           Reviews as _Reviews } from "./ContentTypes.js";
 
 export {
   _Contents as Contents,
   _CrossBindings as CrossBindings,
   _Users as Users,
-  _Books as Books, _Games as Games, _Comments as Comments, _Products as Products, _Reviews as Reviews
+  _Books as Books,
+  _Games as Games, 
+  _Articles as Articles, 
+  _Products as Products, 
+  _Comments as Comments, 
+  _Reviews as Reviews
 };
 
 export type {
@@ -34,7 +40,9 @@ export function initModels(sequelize: Sequelize) {
 
   const Books = _Books.initModel(sequelize);
   const Games = _Games.initModel(sequelize);
+  const Articles = _Articles.initModel(sequelize);
   const Products = _Products.initModel(sequelize);
+
   const Reviews = _Reviews.initModel(sequelize);
   const Comments = _Comments.initModel(sequelize);
 
@@ -49,18 +57,35 @@ export function initModels(sequelize: Sequelize) {
     otherKey: 'contentID'
   });
 
-/*
-Product.belongsToMany(Category, {
-  through: 'product_categories',
-  foreignKey: 'objectId', // replaces `productId`
-  otherKey: 'typeId' // replaces `categoryId`
-});
-Category.belongsToMany(Product, {
-  through: 'product_categories',
-  foreignKey: 'typeId', // replaces `categoryId`
-  otherKey: 'objectId' // replaces `productId`
-});
-*/
+  Contents.belongsToMany(Users, {
+    through: 'CrossBindings',
+    foreignKey: 'contentID',
+    otherKey: 'userID'
+  });
+  Users.belongsToMany(Contents, {
+    through: 'CrossBindings',
+    foreignKey: 'userID',
+    otherKey: 'contentID'
+  });
+
+  Users.addScope('includeBooks', {
+    include: [{
+        model: Books, 
+        attributes: [['id', 'cid'], 'title', 'status', 'score']
+    }]
+  });
+  Users.addScope('includeContents', {
+    include: [{
+        model: Contents, 
+        attributes: [['id', 'cid'], 'title', 'status', 'score']
+    }],
+  });
+
+  CrossBindings.addScope('present', {
+    where: {
+      type: 'present',
+    }
+  });
 
   return {
     Contents: Contents,
@@ -68,8 +93,9 @@ Category.belongsToMany(Product, {
     Users: Users,
     Books: Books,
     Games: Games,
-    Reviews: Reviews,
+    Articles: Articles,
     Products: Products,
     Comments: Comments,
+    Reviews: Reviews,
   };
 }

@@ -202,3 +202,5 @@ export class GameController extends ContentController implements Base {
 };
 export class CommentController extends ContentController implements Base {
 };
+export class ReviewController extends ContentController implements Base {
+};
