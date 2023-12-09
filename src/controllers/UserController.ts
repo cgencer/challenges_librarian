@@ -21,8 +21,17 @@ export class UserController implements Base {
     async getUser(req: any, res: any): Promise<void> {
 
         try {
-            const user = await Users.scope(['includeBooks']).findAll({
-                where: { id: req.params.id },
+            const user = await Users.scope('includeBooks').findAll({
+                where: {
+                    id: req.params.id,
+//                    "Contents.CrossBindings.type": 'present'
+                },
+/*
+                include: [{
+                  model: Books, 
+                  attributes: [['id', 'cid'], 'title'],
+                }],
+*/
                 attributes: ['id', 'userName', 'name', 'firstName', 'lastName'],
             });
 

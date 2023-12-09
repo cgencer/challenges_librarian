@@ -1,4 +1,5 @@
 import type { Sequelize } from "sequelize";
+
 import { Contents as _Contents } from "./Contents.js";
 import type { ContentsAttributes, ContentsCreationAttributes } from "./Contents.js";
 import { CrossBindings as _CrossBindings } from "./CrossBindings.js";
@@ -47,15 +48,11 @@ export function initModels(sequelize: Sequelize) {
   const Comments = _Comments.initModel(sequelize);
 
   Books.belongsToMany(Users, {
-    through: 'CrossBindings',
+    through: CrossBindings,
     foreignKey: 'contentID',
     otherKey: 'userID'
   });
-  Users.belongsToMany(Books, {
-    through: 'CrossBindings',
-    foreignKey: 'userID',
-    otherKey: 'contentID'
-  });
+  Users.hasMany(Books);
 
   Contents.belongsToMany(Users, {
     through: 'CrossBindings',
@@ -70,21 +67,18 @@ export function initModels(sequelize: Sequelize) {
 
   Users.addScope('includeBooks', {
     include: [{
-        model: Books, 
-        attributes: [['id', 'cid'], 'title', 'status', 'score']
+      model: Books, 
+      attributes: [['id', 'cid'], 'title'],
+
+//          [sequelize.col('Books.CrossBindings.type'), 'ctype']
+//        [Sequelize.fn('COUNT', Sequelize.col('options_votes.id')), 'votes'],
     }]
   });
   Users.addScope('includeContents', {
     include: [{
         model: Contents, 
-        attributes: [['id', 'cid'], 'title', 'status', 'score']
+        attributes: [['id', 'cid'], 'title']
     }],
-  });
-
-  CrossBindings.addScope('present', {
-    where: {
-      type: 'present',
-    }
   });
 
   return {
