@@ -6,12 +6,15 @@
     "moduleResolution": "node",
     "sourceMap": true,
     "strict": true,
+    "skipLibCheck": true,
     "types": [
       "node"
     ],
     "resolveJsonModule": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
+    "noImplicitReturns": false,
+    "strictPropertyInitialization": false,
     "outDir": "./dist"
   },
   "hooks": [

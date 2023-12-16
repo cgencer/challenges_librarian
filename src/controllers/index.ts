@@ -1,17 +1,18 @@
 import { AuthController } from './AuthController.js'
 import { UserController } from './UserController.js'
-import { ArticleController, BookController, ProductController, CommentController, ContentController, GameController, ReviewController } from './ContentController.js'
+import { ContentController, ProductController, BookController, GameController } from './ContentController.js'
 
 const authController = new AuthController();
 const userController = new UserController();
-const contentController = new ContentController();
+const contentController = new ContentController('content');
+console.log('::: init type: '+contentController._contentType);
 
-const bookController = new BookController();
-const gameController = new GameController();
-const articleController = new ArticleController();
-const productController = new ProductController();
-const commentController = new CommentController();
-const reviewController = new ReviewController();
+const bookController = new BookController('book');
+console.log('::: init type: '+bookController._contentType);
+const gameController = new GameController('game');
+console.log('::: init type: '+gameController._contentType);
+const productController = new ProductController('product');
+console.log('::: init type: '+productController._contentType);
 
 export {
 	authController,
@@ -19,8 +20,5 @@ export {
     contentController,
     bookController,
     gameController,
-    articleController,
     productController,
-    commentController,
-    reviewController,
 }

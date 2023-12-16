@@ -1,7 +1,7 @@
 import express from 'express';
 
 import { authController, userController,  
-		 commentController, bookController } from '../controllers/index.js';
+		 bookController, gameController, productController } from '../controllers/index.js';
 
 let routes = express.Router();
 function subControllers(type: string, ctrl: any) {
@@ -12,5 +12,7 @@ function subControllers(type: string, ctrl: any) {
 	routes.delete(`/${type}/:id`,	ctrl.deleteContent);
 }
 subControllers('books', bookController);
+subControllers('games', gameController);
+subControllers('products', productController);
 //subControllers('comments', commentController);
 export { routes as contentRoutes };

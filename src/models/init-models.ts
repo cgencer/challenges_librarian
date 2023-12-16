@@ -8,10 +8,7 @@ import { Users as _Users } from "./Users.js";
 import type { UsersAttributes, UsersCreationAttributes } from "./Users.js";
 import {  Books as _Books, 
           Games as _Games, 
-          Articles as _Articles,
-          Products as _Products,
-          Comments as _Comments, 
-          Reviews as _Reviews } from "./ContentTypes.js";
+          Products as _Products } from "./ContentTypes.js";
 
 export {
   _Contents as Contents,
@@ -19,10 +16,7 @@ export {
   _Users as Users,
   _Books as Books,
   _Games as Games, 
-  _Articles as Articles, 
   _Products as Products, 
-  _Comments as Comments, 
-  _Reviews as Reviews
 };
 
 export type {
@@ -41,11 +35,7 @@ export function initModels(sequelize: Sequelize) {
 
   const Books = _Books.initModel(sequelize);
   const Games = _Games.initModel(sequelize);
-  const Articles = _Articles.initModel(sequelize);
   const Products = _Products.initModel(sequelize);
-
-  const Reviews = _Reviews.initModel(sequelize);
-  const Comments = _Comments.initModel(sequelize);
 
   Books.belongsToMany(Users, {
     through: CrossBindings,
@@ -87,9 +77,6 @@ export function initModels(sequelize: Sequelize) {
     Users: Users,
     Books: Books,
     Games: Games,
-    Articles: Articles,
     Products: Products,
-    Comments: Comments,
-    Reviews: Reviews,
   };
 }
