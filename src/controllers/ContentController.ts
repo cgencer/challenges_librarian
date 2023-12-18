@@ -4,55 +4,73 @@ import { validationResult } from 'express-validator';
 //import { Users } from '../models/Users.js';
 //import { Contents } from '../models/Contents.js';
 import { Users, Contents } from '../models/init-models.js';
+import { Model } from 'sequelize';
 
-import { Books, Games } from '../models/ContentTypes.js';
+import { Books, Games, Products } from '../models/ContentTypes.js';
 import { CrossBindings } from '../models/CrossBindings.js';
 import { applyMixins } from '../helpers/mixins.js';
 
 import lodash from 'lodash';
-const { pick } = lodash;
+const { pick, isFunction } = lodash;
 
 // Contents.hasMany(CrossBindings, { foreignKey: 'contentID' });
 
 export interface IBase {
     _contentType: string;
+    _model: unknown;
     getContent: (req: any, res: any) => void;
     getContents: (req: any, res: any) => void;
     createContent: (req: any, res: any) => void;
     updateContent: (req: any, res: any) => void;
     deleteContent: (req: any, res: any) => void;
+    getComments?: (req: any, res: any) => void;
+    createComment?: (req: any, res: any) => void;
+    deleteComment?: (req: any, res: any) => void;
 }
 
-export interface IwithComments extends IBase {
-    getComments: (req: any, res: any) => void;
-    createComment: (req: any, res: any) => void;
-    deleteComment: (req: any, res: any) => void;
-}
+type Constructor<T = {}> = new (...args: any[]) => T;
 
-export interface IProducts extends IBase {}
-export interface IBooks extends IwithComments {}
-export interface IGames extends IwithComments {}
+function Commentable<TBase extends Constructor>(BaseClass: TBase) {
+    return class extends BaseClass {
+        async getComments(req: any, res: any): Promise<void> {
+            console.log('get comments...');
+//            if(isFunction(this.getContents))
+//                this.getContents(req, res);
+            res.end();
+        };
+        async createComment(req: any, res: any): Promise<void> {
+            console.log('create comment...');
+        };
+        async deleteComment(req: any, res: any): Promise<void> {
+            console.log('create comment...');
+        };
+    };
+}
 
 export class ContentController implements IBase {
 
     public _contentType: string;
+    public _model: unknown;
 
     constructor(ctype: string) {
-        this.getContents = this.getContents.bind(this);
+        this._contentType = ctype;
         this.getContent = this.getContent.bind(this);
+        this.getContents = this.getContents.bind(this);
         this.createContent = this.createContent.bind(this);
         this.updateContent = this.updateContent.bind(this);
         this.deleteContent = this.deleteContent.bind(this);
-
-        this._contentType = ctype;
+/*
+        if(this._contentType === 'book'){
+            this.getComments = this.getComments.bind(this);
+            this.createComment = this.createComment.bind(this);
+            this.deleteComment = this.deleteComment.bind(this);            
+        }
+*/
     };
-
-    public async init(ctype: string) {
-    }
 
     /* get all posts */
     async getContents(req: any, res: any): Promise<void> {
-console.log(':::> getContents: '+this._contentType);
+        console.dir(this._model);
         try {
             const contents = await Contents.findAll({ 
                 where: { type: this._contentType },     //, isavail: true },
@@ -61,7 +79,7 @@ console.log(':::> getContents: '+this._contentType);
 
             res.status(200).json(
                 contents
-//                books.map(book => pick(book, ['id', 'title', 'name']))
+        //                books.map(book => pick(book, ['id', 'title', 'name']))
             )
         } catch (err) {
             res.status(500).json({
@@ -74,11 +92,10 @@ console.log(':::> getContents: '+this._contentType);
 
     /* get single post */
     async getContent(req: any, res: any): Promise<void> {
-console.log(':::> getContent');
         try {
             const contents = await Contents.findAll({ 
                 where: { id: req.params.id, type: this._contentType },     //, isavail: true },
-//                attributes: ['id', 'title', 'type', 'score'],
+        //                attributes: ['id', 'title', 'type', 'score'],
                 include: Users
             });
 
@@ -90,7 +107,7 @@ console.log(':::> getContent');
             } else {
                 res.status(200).json(
                     contents[0]
-//                    pick(book[0], ['id', 'name', 'score'])
+        //                    pick(book[0], ['id', 'name', 'score'])
                 );
             }
         } catch (err) {
@@ -158,13 +175,13 @@ console.log(':::> getContent');
                     });
 
 
-/*
+                /*
                     const updatedPost = await Contents.findByIdAndUpdate(req.params.id, {
                                             $set: req.body
                     },
                         { new: true }
                     );
-*/
+                */
                     res.status(200).json({
                         type: "success",
                         message: "Content updated successfully",
@@ -200,7 +217,7 @@ console.log(':::> getContent');
                 try {
                       await Contents.destroy({ where: { id: req.params.id } })
 
-//                    await Contents.findOneAndDelete(req.params.id);
+            //                    await Contents.findOneAndDelete(req.params.id);
                     res.status(200).json({
                         type: "success",
                         message: "Post has been deleted successfully"
@@ -221,42 +238,23 @@ console.log(':::> getContent');
         }
     };
 };
-/*
-https://github.com/jherr/no-bs-ts/blob/master/series-1/episode-17/mixins.ts
 
-type Constructor<T> = new (...args: any[]) => T;
 
-function Dumpable<
-    T extends Constructor<{
-        contentType(): string;
-    }>
->(Base: T) {
-    return class Dumpable extends Base {
-        async getComments(req: any, res: any): Promise<void> {
-        };
-        async createComments(req: any, res: any): Promise<void> {
-        };
-        async deleteComments(req: any, res: any): Promise<void> {
-        };
+export class ProductController extends ContentController {
+    constructor(ctype: string) {
+        super('product');
+        this._model = Products;
     };
-}
-*/
-export class WithComments extends ContentController implements IwithComments {
-    async getComments(req: any, res: any): Promise<void> {
-    };
-    async createComment(req: any, res: any): Promise<void> {
-    };
-    async deleteComment(req: any, res: any): Promise<void> {
-    };
-}
-
-export class ProductController extends WithComments implements IBase {
 };
-export class BookController extends WithComments implements IwithComments {
+export class BookController extends Commentable(ContentController) {
+    constructor(ctype: string) {
+        super('book');
+        this._model = Books;
+    };
 };
-export class GameController extends WithComments implements IwithComments {
+export class GameController extends Commentable(ContentController) {
+    constructor(ctype: string) {
+        super('game');
+        this._model = Games;
+    };
 };
-applyMixins(ProductController, [ContentController, WithComments]);
-applyMixins(BookController, [ContentController, WithComments]);
-applyMixins(GameController, [ContentController, WithComments]);
-
